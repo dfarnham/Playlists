@@ -1,5 +1,11 @@
-﻿#CURTRACK 1
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/h/Haircut%20100/Singles/02.%20Love%20Plus%20One.m4a
+#EXTINF:212,Love Plus One
+/music/Songs/h/Haircut 100/Singles/02. Love Plus One.m4a
+#EXTURL:file:///music/Songs/t/Tedeschi%20Trucks%20Band/Signs/01.%20Signs,%20High%20Times.m4a
+#EXTINF:231,Signs, High Times
+/music/Songs/t/Tedeschi Trucks Band/Signs/01. Signs, High Times.m4a
 #EXTURL:file:///music/Songs/b/Blackberry%20Smoke/Holding%20All%20The%20Roses/02.%20Holding%20All%20The%20Roses.m4a
 #EXTINF:196,Holding All The Roses
 /music/Songs/b/Blackberry Smoke/Holding All The Roses/02. Holding All The Roses.m4a
