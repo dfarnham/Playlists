@@ -1,5 +1,8 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 2
 #EXTM3U
+#EXTURL:file:///music/Songs/Compilation/One%20Hit%20Wonders%20Collections/VH1%20Top%20100%20One%20Hit%20Wonders/99.%20No%20Rain.m4a
+#EXTINF:217,No Rain
+/music/Songs/Compilation/One Hit Wonders Collections/VH1 Top 100 One Hit Wonders/99. No Rain.m4a
 #EXTURL:file:///music/Songs/Compilation/Blues%20Gold/2-12.%20Flood%20Down%20In%20Texas.m4a
 #EXTINF:624,Flood Down In Texas
 /music/Songs/Compilation/Blues Gold/2-12. Flood Down In Texas.m4a
