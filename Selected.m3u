@@ -1,5 +1,11 @@
-﻿#CURTRACK 2
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/l/Lil%27%20Red%20&%20The%20Rooster/Keep%20On!/01.%20Cool%20Trap%20Boogie.m4a
+#EXTINF:174,Cool Trap Boogie
+/music/Songs/l/Lil' Red & The Rooster/Keep On!/01. Cool Trap Boogie.m4a
+#EXTURL:file:///music/Songs/j/Joe%20Bonamassa/Road%20To%20Redemption/01.%20Black%20Roses.m4a
+#EXTINF:301,Black Roses
+/music/Songs/j/Joe Bonamassa/Road To Redemption/01. Black Roses.m4a
 #EXTURL:file:///music/Songs/Compilation/One%20Hit%20Wonders%20Collections/VH1%20Top%20100%20One%20Hit%20Wonders/99.%20No%20Rain.m4a
 #EXTINF:217,No Rain
 /music/Songs/Compilation/One Hit Wonders Collections/VH1 Top 100 One Hit Wonders/99. No Rain.m4a
