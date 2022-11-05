@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/h/Hoodoo%20Gurus/Mars%20Needs%20Guitars!/01.%20Bittersweet.m4a
+#EXTINF:231,Bittersweet
+/music/Songs/h/Hoodoo Gurus/Mars Needs Guitars!/01. Bittersweet.m4a
+#EXTURL:file:///music/Songs/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/I%20Knew%20You%20When%20(Deluxe)/01.%20Gracile.m4a
+#EXTINF:168,Gracile
+/music/Songs/b/Bob Seger & The Silver Bullet Band/I Knew You When (Deluxe)/01. Gracile.m4a
 #EXTURL:file:///music/Songs/l/Lil%27%20Red%20&%20The%20Rooster/Keep%20On!/01.%20Cool%20Trap%20Boogie.m4a
 #EXTINF:174,Cool Trap Boogie
 /music/Songs/l/Lil' Red & The Rooster/Keep On!/01. Cool Trap Boogie.m4a
@@ -1605,9 +1611,6 @@
 #EXTURL:file:///music/Songs/m/My%20Morning%20Jacket/It%20Still%20Moves/05.%20One%20Big%20Holiday.m4a
 #EXTINF:321,One Big Holiday
 /music/Songs/m/My Morning Jacket/It Still Moves/05. One Big Holiday.m4a
-#EXTURL:file:///music/Songs/h/Hoodoo%20Gurus/Ampology/1-07.%20Bittersweet.mp3
-#EXTINF:231,Bittersweet
-/music/Songs/h/Hoodoo Gurus/Ampology/1-07. Bittersweet.mp3
 #EXTURL:file:///music/Songs/r/Radio%204/Stealing%20of%20a%20Nation%20(Limited%20Edition)/01.%20Party%20Crashers.m4a
 #EXTINF:298,Party Crashers
 /music/Songs/r/Radio 4/Stealing of a Nation (Limited Edition)/01. Party Crashers.m4a
