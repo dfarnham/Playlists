@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/a/Althea%20&%20Donna/Singles/05.%20Uptown%20Top%20Ranking.m4a
+#EXTINF:234,Uptown Top Ranking
+/music/Songs/a/Althea & Donna/Singles/05. Uptown Top Ranking.m4a
 #EXTURL:file:///music/Songs/h/Hoodoo%20Gurus/Mars%20Needs%20Guitars!/01.%20Bittersweet.m4a
 #EXTINF:231,Bittersweet
 /music/Songs/h/Hoodoo Gurus/Mars Needs Guitars!/01. Bittersweet.m4a
