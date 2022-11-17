@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/r/Robert%20Palmer/Respect%20Yourself%20-%20Single/01.%20Respect%20Yourself.m4a
+#EXTINF:238,Respect Yourself
+/music/Songs/r/Robert Palmer/Respect Yourself - Single/01. Respect Yourself.m4a
 #EXTURL:file:///music/Songs/a/Althea%20&%20Donna/Singles/05.%20Uptown%20Top%20Ranking.m4a
 #EXTINF:234,Uptown Top Ranking
 /music/Songs/a/Althea & Donna/Singles/05. Uptown Top Ranking.m4a
