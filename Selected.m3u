@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/c/Counting%20Crows/Saturday%20Nights%20&%20Sunday%20Mornings/03.%20Los%20Angeles.m4a
+#EXTINF:280,Los Angeles
+/music/Songs/c/Counting Crows/Saturday Nights & Sunday Mornings/03. Los Angeles.m4a
+#EXTURL:file:///music/Songs/c/Counting%20Crows/Saturday%20Nights%20&%20Sunday%20Mornings/04.%20Sundays.m4a
+#EXTINF:261,Sundays
+/music/Songs/c/Counting Crows/Saturday Nights & Sunday Mornings/04. Sundays.m4a
 #EXTURL:file:///music/Songs/r/Robert%20Palmer/Respect%20Yourself%20-%20Single/01.%20Respect%20Yourself.m4a
 #EXTINF:238,Respect Yourself
 /music/Songs/r/Robert Palmer/Respect Yourself - Single/01. Respect Yourself.m4a
