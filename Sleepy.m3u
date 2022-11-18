@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/j/Jason%20Elmore%20&%20Hoodoo%20Witch/Champagne%20Velvet/11.%20Champagne%20Velvet.m4a
+#EXTINF:158,Champagne Velvet
+/music/Songs/j/Jason Elmore & Hoodoo Witch/Champagne Velvet/11. Champagne Velvet.m4a
 #EXTURL:file:///music/Songs/p/Primitive%20Radio%20Gods/White%20Hot%20Peach/10.%20Motor%20of%20Joy.m4a
 #EXTINF:204,Motor of Joy
 /music/Songs/p/Primitive Radio Gods/White Hot Peach/10. Motor of Joy.m4a
