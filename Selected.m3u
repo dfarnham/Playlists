@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/Compilation/Flower%20Power/Age%20of%20Aquarius/2-09.%20Time%20Has%20Come%20Today.m4a
+#EXTINF:290,Time Has Come Today
+/music/Songs/Compilation/Flower Power/Age of Aquarius/2-09. Time Has Come Today.m4a
+#EXTURL:file:///music/Songs/Compilation/Flower%20Power/Age%20of%20Aquarius/2-17.%20Love,%20Peace%20And%20Happiness.m4a
+#EXTINF:174,Love, Peace And Happiness
+/music/Songs/Compilation/Flower Power/Age of Aquarius/2-17. Love, Peace And Happiness.m4a
 #EXTURL:file:///music/Songs/c/Counting%20Crows/Saturday%20Nights%20&%20Sunday%20Mornings/03.%20Los%20Angeles.m4a
 #EXTINF:280,Los Angeles
 /music/Songs/c/Counting Crows/Saturday Nights & Sunday Mornings/03. Los Angeles.m4a
