@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/d/Dolly%20Parton/Singles/02.%20Shine.m4a
+#EXTINF:311,Shine
+/music/Songs/d/Dolly Parton/Singles/02. Shine.m4a
 #EXTURL:file:///music/Songs/Compilation/Flower%20Power/Age%20of%20Aquarius/2-09.%20Time%20Has%20Come%20Today.m4a
 #EXTINF:290,Time Has Come Today
 /music/Songs/Compilation/Flower Power/Age of Aquarius/2-09. Time Has Come Today.m4a
