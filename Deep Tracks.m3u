@@ -1,5 +1,8 @@
-﻿#CURTRACK 18
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/m/Mojo%20Roots/What%20Kind%20of%20Fool/06.%20White%20Chicken%20Chili.m4a
+#EXTINF:253,White Chicken Chili
+/music/Songs/m/Mojo Roots/What Kind of Fool/06. White Chicken Chili.m4a
 #EXTURL:file:///music/Songs/r/Riley%20Etheridge%20Jr./In%20This%20Moment/05.%20She%27s%20Ready%20Already.mp3
 #EXTINF:216,She's Ready Already
 /music/Songs/r/Riley Etheridge Jr./In This Moment/05. She's Ready Already.mp3
@@ -93,9 +96,6 @@
 #EXTURL:file:///music/Songs/b/Booker%20T.%20Jones/Sound%20The%20Alarm/09.%2066%20Impala%20(feat.%20Poncho%20Sanchez%20&%20Sheila%20E.).m4a
 #EXTINF:237,66 Impala (feat. Poncho Sanchez & Sheila E.)
 /music/Songs/b/Booker T. Jones/Sound The Alarm/09. 66 Impala (feat. Poncho Sanchez & Sheila E.).m4a
-#EXTURL:file:///music/Songs/a/Allman%20Brothers%20Band/Brothers%20And%20Sisters%20(Super%20Deluxe%20Edition)/2-05%20I%27m%20Gonna%20Move%20To%20The%20Outskirts%20of%20Town%20(Rehearsal).m4a
-#EXTINF:674,I'm Gonna Move To The Outskirts of Town (Rehearsal)
-/music/Songs/a/Allman Brothers Band/Brothers And Sisters (Super Deluxe Edition)/2-05 I'm Gonna Move To The Outskirts of Town (Rehearsal).m4a
 #EXTURL:file:///music/Songs/c/Captain%20Beyond/Captain%20Beyond/01.%20Dancing%20Madly%20Backwards%20(On%20A%20Sea%20of%20Air).m4a
 #EXTINF:242,Dancing Madly Backwards (On A Sea of Air)
 /music/Songs/c/Captain Beyond/Captain Beyond/01. Dancing Madly Backwards (On A Sea of Air).m4a
@@ -112,7 +112,7 @@
 #EXTINF:336,Let Me Get Close To You
 /music/Songs/f/Foghat/Girls To Chat & Boys To Bounce (Remastered)/02. Let Me Get Close To You.m4a
 #EXTURL:file:///music/Songs/j/Jeff%20Beck/Beck-Ola/02.%20Spanish%20Boots.m4a
-#EXTINF:219,Spanish Boots
+#EXTINF:217,Spanish Boots
 /music/Songs/j/Jeff Beck/Beck-Ola/02. Spanish Boots.m4a
 #EXTURL:file:///music/Songs/b/Bob%20Marley/Legend%20(Deluxe%20Edition)/19.%20Jamming%20(1984%2012%22%20Mix).m4a
 #EXTINF:334,Jamming (1984 12" Mix)

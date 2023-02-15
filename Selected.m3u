@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/m/Mojo%20Roots/What%20Kind%20of%20Fool/06.%20White%20Chicken%20Chili.m4a
+#EXTINF:253,White Chicken Chili
+/music/Songs/m/Mojo Roots/What Kind of Fool/06. White Chicken Chili.m4a
 #EXTURL:file:///music/Songs/r/Radio%204/Dance%20To%20The%20Underground%20-%20EP/01.%20Dance%20To%20The%20Underground.m4a
 #EXTINF:243,Dance To The Underground
 /music/Songs/r/Radio 4/Dance To The Underground - EP/01. Dance To The Underground.m4a
