@@ -1,5 +1,14 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/k/Kansas/Leftoverture%20(Expanded%20Edition)/01.%20Carry%20On%20Wayward%20Son.m4a
+#EXTINF:324,Carry On Wayward Son
+/music/Songs/k/Kansas/Leftoverture (Expanded Edition)/01. Carry On Wayward Son.m4a
+#EXTURL:file:///music/Songs/k/Kansas/Point%20of%20Know%20Return%20(Expanded%20Edition)/01.%20Point%20of%20Know%20Return.m4a
+#EXTINF:190,Point of Know Return
+/music/Songs/k/Kansas/Point of Know Return (Expanded Edition)/01. Point of Know Return.m4a
+#EXTURL:file:///music/Songs/k/Kansas/Point%20of%20Know%20Return%20(Expanded%20Edition)/04.%20Portrait%20(He%20Knew).m4a
+#EXTINF:276,Portrait (He Knew)
+/music/Songs/k/Kansas/Point of Know Return (Expanded Edition)/04. Portrait (He Knew).m4a
 #EXTURL:file:///music/Songs/m/Mojo%20Roots/What%20Kind%20of%20Fool/06.%20White%20Chicken%20Chili.m4a
 #EXTINF:253,White Chicken Chili
 /music/Songs/m/Mojo Roots/What Kind of Fool/06. White Chicken Chili.m4a
@@ -304,7 +313,6 @@
 #EXTINF:183,Can't Hardly Wait
 /music/Songs/r/Replacements/Pleased To Meet Me/11. Can't Hardly Wait.m4a
 #EXTURL:file:///music/Songs/k/Kansas/The%20Best%20of%20Kansas/02.%20Point%20of%20Know%20Return.mp3
-#EXTINF:191,Point of Know Return
 /music/Songs/k/Kansas/The Best of Kansas/02. Point of Know Return.mp3
 #EXTURL:file:///music/Songs/r/Runaways/The%20Runaways/01.%20Cherry%20Bomb.flac
 #EXTINF:140,Cherry Bomb
@@ -1648,7 +1656,6 @@
 #EXTINF:304,Roadhouse Blues
 /music/Songs/l/Los Lonely Boys/1969/05. Roadhouse Blues.m4a
 #EXTURL:file:///music/Songs/k/Kansas/Point%20of%20Know%20Return/04.%20Portrait%20(He%20Knew).flac
-#EXTINF:278,Portrait (He Knew)
 /music/Songs/k/Kansas/Point of Know Return/04. Portrait (He Knew).flac
 #EXTURL:file:///music/Songs/s/Sublime/Sublime/02.%20What%20I%20Got.mp3
 #EXTINF:171,What I Got
