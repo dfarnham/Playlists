@@ -1,6 +1,9 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/m/Mark%20Knopfler/The%20Studio%20Albums%202009%20-%202018/4-02.%20Back%20On%20The%20Dance%20Floor.m4a
+#EXTINF:324,Back On The Dance Floor
 #EXTURL:file:///music/Songs/k/Kansas/Leftoverture%20(Expanded%20Edition)/01.%20Carry%20On%20Wayward%20Son.m4a
+/music/Songs/m/Mark Knopfler/The Studio Albums 2009 - 2018/4-02. Back On The Dance Floor.m4a
 #EXTINF:324,Carry On Wayward Son
 /music/Songs/k/Kansas/Leftoverture (Expanded Edition)/01. Carry On Wayward Son.m4a
 #EXTURL:file:///music/Songs/k/Kansas/Point%20of%20Know%20Return%20(Expanded%20Edition)/01.%20Point%20of%20Know%20Return.m4a
