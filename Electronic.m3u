@@ -1,8 +1,17 @@
-﻿#CURTRACK 9
+﻿#CURTRACK 0
 #EXTM3U
-#EXTURL:file:///music/Songs/a/All%20Is%20Well/Singles/01.%20Tortue%20Jaune.m4a
-#EXTINF:445,Tortue Jaune
-/music/Songs/a/All Is Well/Singles/01. Tortue Jaune.m4a
+#EXTURL:file:///music/Songs/Soundtracks/Puppylove%20(Original%20Motion%20Picture%20Soundtrack)/06.%20To%20The%20Ocean.m4a
+#EXTINF:169,To The Ocean
+/music/Songs/Soundtracks/Puppylove (Original Motion Picture Soundtrack)/06. To The Ocean.m4a
+#EXTURL:file:///music/Songs/m/Musumeci,%20Phunkadelica%20&%20Sterocalypse/Romantico%20Disco%20-%20EP/02.%20Velluto%20Blu.m4a
+#EXTINF:404,Velluto Blu
+/music/Songs/m/Musumeci, Phunkadelica & Sterocalypse/Romantico Disco - EP/02. Velluto Blu.m4a
+#EXTURL:file:///music/Songs/o/Oliver/Light%20Years%20Away%20-%20Single/01.%20Light%20Years%20Away.m4a
+#EXTINF:343,Light Years Away
+/music/Songs/o/Oliver/Light Years Away - Single/01. Light Years Away.m4a
+#EXTURL:file:///music/Songs/o/Oliver/Light%20Years%20Away%20-%20Single/02.%20Fast%20Forward.m4a
+#EXTINF:284,Fast Forward
+/music/Songs/o/Oliver/Light Years Away - Single/02. Fast Forward.m4a
 #EXTURL:file:///music/Songs/Compilation/Digging%20In%20The%20Crates:%202001,%20Vol.%201/01.%20Opticon%20(Pink%20Noise%20Fashion%20Bomb%20Dub).m4a
 #EXTINF:426,Opticon (Pink Noise Fashion Bomb Dub)
 /music/Songs/Compilation/Digging In The Crates: 2001, Vol. 1/01. Opticon (Pink Noise Fashion Bomb Dub).m4a
@@ -27,87 +36,81 @@
 #EXTURL:file:///music/Songs/Compilation/Digging%20In%20The%20Crates:%202001,%20Vol.%201/08.%20How%20Soon%20Is%20Now%3F%20(Back%202%20The%20Future%20Club%20Mix).m4a
 #EXTINF:608,How Soon Is Now? (Back 2 The Future Club Mix)
 /music/Songs/Compilation/Digging In The Crates: 2001, Vol. 1/08. How Soon Is Now? (Back 2 The Future Club Mix).m4a
-#EXTURL:file:///music/Songs/b/Blondie/Autoamerican/15.%20Rapture%20(Special%20Disco%20Mix).m4a
-#EXTINF:599,Rapture (Special Disco Mix)
-/music/Songs/b/Blondie/Autoamerican/15. Rapture (Special Disco Mix).m4a
-#EXTURL:file:///music/Songs/p/Pretenders/Loose%20Screws%20[Re:Mix]%20-%20EP/04.%20Complex%20Person%20(GoodandEvil%20Duplate%20Mix).m4a
-#EXTINF:329,Complex Person (GoodandEvil Duplate Mix)
-/music/Songs/p/Pretenders/Loose Screws [Re:Mix] - EP/04. Complex Person (GoodandEvil Duplate Mix).m4a
-#EXTURL:file:///music/Songs/i/INXS/Kick%20(30th%20Deluxe%20Edition)/3-10.%20Need%20You%20Tonight%20(Ben%20Liebrand%20Mix).m4a
-#EXTINF:435,Need You Tonight (Ben Liebrand Mix)
-/music/Songs/i/INXS/Kick (30th Deluxe Edition)/3-10. Need You Tonight (Ben Liebrand Mix).m4a
-#EXTURL:file:///music/Songs/Compilation/Pure%20Moods/03.%20Sweet%20Lullaby.m4a
-#EXTINF:228,Sweet Lullaby
-/music/Songs/Compilation/Pure Moods/03. Sweet Lullaby.m4a
-#EXTURL:file:///music/Songs/d/Depeche%20Mode/World%20In%20My%20Eyes/07.%20Sea%20of%20Sin%20(Sensoria%20Mix).m4a
-#EXTINF:367,Sea of Sin (Sensoria Mix)
-/music/Songs/d/Depeche Mode/World In My Eyes/07. Sea of Sin (Sensoria Mix).m4a
-#EXTURL:file:///music/Songs/v/Vitamin%20C/Vitamin%20C/03.%20Me,%20Myself,%20&%20I.m4a
-#EXTINF:237,Me, Myself, & I
-/music/Songs/v/Vitamin C/Vitamin C/03. Me, Myself, & I.m4a
-#EXTURL:file:///music/Songs/o/Orbital/Singles/Open%20Mind.m4a
-#EXTINF:390,Open Mind
-/music/Songs/o/Orbital/Singles/Open Mind.m4a
-#EXTURL:file:///music/Songs/d/Delerium/Odyssey:%20The%20Remix%20Collection/15.%20Flowers%20Become%20Screens%20(feat.%20Kristy%20Thirsk)%20[Frequency%20Modulation%20Mix].m4a
-#EXTINF:461,Flowers Become Screens (feat. Kristy Thirsk) [Frequency Modulation Mix]
-/music/Songs/d/Delerium/Odyssey: The Remix Collection/15. Flowers Become Screens (feat. Kristy Thirsk) [Frequency Modulation Mix].m4a
-#EXTURL:file:///music/Songs/c/Crystal%20Method/Keep%20Hope%20Alive/06.%20The%20Dubeliscious%20Groove%20(Fly%20Spanish%20Version).m4a
-#EXTINF:406,The Dubeliscious Groove (Fly Spanish Version)
-/music/Songs/c/Crystal Method/Keep Hope Alive/06. The Dubeliscious Groove (Fly Spanish Version).m4a
-#EXTURL:file:///music/Songs/Compilation/This%20Is%20Minty%20Fresh%20-%20Summer%202011/04.%20The%20Last%20Ride.m4a
-#EXTINF:208,The Last Ride
-/music/Songs/Compilation/This Is Minty Fresh - Summer 2011/04. The Last Ride.m4a
-#EXTURL:file:///music/Songs/i/INXS/Original%20Sin%20Remixes%20(feat.%20Rob%20Thomas%20&%20DJ%20Yaleidys)%20-%20Single/02.%20Original%20Sin%20(Ralphi%27s%20Blanco%20Y%20Negro%20Dub).m4a
-#EXTINF:527,Original Sin (Ralphi's Blanco Y Negro Dub)
-/music/Songs/i/INXS/Original Sin Remixes (feat. Rob Thomas & DJ Yaleidys) - Single/02. Original Sin (Ralphi's Blanco Y Negro Dub).m4a
-#EXTURL:file:///music/Songs/u/Underworld/1992-2012/3-03.%20Minneapolis.m4a
-#EXTINF:605,Minneapolis
-/music/Songs/u/Underworld/1992-2012/3-03. Minneapolis.m4a
 #EXTURL:file:///music/Songs/d/Directions%20In%20Groove/Clearlight/09.%20Sunnyside.m4a
 #EXTINF:396,Sunnyside
 /music/Songs/d/Directions In Groove/Clearlight/09. Sunnyside.m4a
-#EXTURL:file:///music/Songs/a/Au-Ra/Panic%20Room%20-%20Single/01.%20Panic%20Room.m4a
-#EXTINF:214,Panic Room
-/music/Songs/a/Au-Ra/Panic Room - Single/01. Panic Room.m4a
+#EXTURL:file:///music/Songs/s/SUMR%20CAMP/Wait%20a%20Minute%20-%20Single/01.%20Wait%20A%20Minute.m4a
+#EXTINF:292,Wait a Minute
+/music/Songs/s/SUMR CAMP/Wait a Minute - Single/01. Wait A Minute.m4a
 #EXTURL:file:///music/Songs/o/Oliver/Full%20Circle/12.%20Electrify%20(feat.%20Scott%20Mellis).m4a
 #EXTINF:216,Electrify (feat. Scott Mellis)
 /music/Songs/o/Oliver/Full Circle/12. Electrify (feat. Scott Mellis).m4a
-#EXTURL:file:///music/Songs/o/Oliver/Light%20Years%20Away%20-%20Single/01.%20Light%20Years%20Away.m4a
-#EXTINF:343,Light Years Away
-/music/Songs/o/Oliver/Light Years Away - Single/01. Light Years Away.m4a
-#EXTURL:file:///music/Songs/o/Oliver/Light%20Years%20Away%20-%20Single/02.%20Fast%20Forward.m4a
-#EXTINF:284,Fast Forward
-/music/Songs/o/Oliver/Light Years Away - Single/02. Fast Forward.m4a
+#EXTURL:file:///music/Songs/u/Underworld/1992-2012/3-03.%20Minneapolis.m4a
+#EXTINF:605,Minneapolis
+/music/Songs/u/Underworld/1992-2012/3-03. Minneapolis.m4a
+#EXTURL:file:///music/Songs/c/Crystal%20Method/Community%20Service%20II/05.%20TCM%20vs%20The%20Doors%20(Doors).mp3
+#EXTINF:297,TCM vs The Doors (Doors)
+/music/Songs/c/Crystal Method/Community Service II/05. TCM vs The Doors (Doors).mp3
+#EXTURL:file:///music/Songs/d/Depeche%20Mode/World%20In%20My%20Eyes/07.%20Sea%20of%20Sin%20(Sensoria%20Mix).m4a
+#EXTINF:367,Sea of Sin (Sensoria Mix)
+/music/Songs/d/Depeche Mode/World In My Eyes/07. Sea of Sin (Sensoria Mix).m4a
+#EXTURL:file:///music/Songs/d/Delerium/Odyssey:%20The%20Remix%20Collection/15.%20Flowers%20Become%20Screens%20(feat.%20Kristy%20Thirsk)%20[Frequency%20Modulation%20Mix].m4a
+#EXTINF:461,Flowers Become Screens (feat. Kristy Thirsk) [Frequency Modulation Mix]
+/music/Songs/d/Delerium/Odyssey: The Remix Collection/15. Flowers Become Screens (feat. Kristy Thirsk) [Frequency Modulation Mix].m4a
+#EXTURL:file:///music/Songs/m/Massimiliano%20Pagliara/Feel%20Live/02.%20Trust%20The%20Direction%20of%20The%20Wind%20(feat.%20Peaking%20Lights).m4a
+#EXTINF:344,Trust The Direction of The Wind (feat. Peaking Lights)
+/music/Songs/m/Massimiliano Pagliara/Feel Live/02. Trust The Direction of The Wind (feat. Peaking Lights).m4a
+#EXTURL:file:///music/Songs/b/Blondie/Autoamerican/15.%20Rapture%20(Special%20Disco%20Mix).m4a
+#EXTINF:599,Rapture (Special Disco Mix)
+/music/Songs/b/Blondie/Autoamerican/15. Rapture (Special Disco Mix).m4a
+#EXTURL:file:///music/Songs/Compilation/Pure%20Moods/03.%20Sweet%20Lullaby.m4a
+#EXTINF:228,Sweet Lullaby
+/music/Songs/Compilation/Pure Moods/03. Sweet Lullaby.m4a
 #EXTURL:file:///music/Songs/l/Leftfield/Leftism/07.%20Space%20Shanty.m4a
 #EXTINF:435,Space Shanty
 /music/Songs/l/Leftfield/Leftism/07. Space Shanty.m4a
 #EXTURL:file:///music/Songs/l/Leftfield/Leftism/08.%20Inspection%20(Check%20One).m4a
 #EXTINF:389,Inspection (Check One)
 /music/Songs/l/Leftfield/Leftism/08. Inspection (Check One).m4a
-#EXTURL:file:///music/Songs/c/Crystal%20Method/Community%20Service%20II/05.%20TCM%20vs%20The%20Doors%20(Doors).mp3
-#EXTINF:297,TCM vs The Doors (Doors)
-/music/Songs/c/Crystal Method/Community Service II/05. TCM vs The Doors (Doors).mp3
-#EXTURL:file:///music/Songs/m/Massimiliano%20Pagliara/Feel%20Live/02.%20Trust%20The%20Direction%20of%20The%20Wind%20(feat.%20Peaking%20Lights).m4a
-#EXTINF:344,Trust The Direction of The Wind (feat. Peaking Lights)
-/music/Songs/m/Massimiliano Pagliara/Feel Live/02. Trust The Direction of The Wind (feat. Peaking Lights).m4a
 #EXTURL:file:///music/Songs/e/Elderbrook/Old%20Friend%20-%20EP/01.%20Old%20Friend.m4a
 #EXTINF:199,Old Friend
 /music/Songs/e/Elderbrook/Old Friend - EP/01. Old Friend.m4a
+#EXTURL:file:///music/Songs/a/All%20Is%20Well/Singles/01.%20Tortue%20Jaune.m4a
+#EXTINF:445,Tortue Jaune
+/music/Songs/a/All Is Well/Singles/01. Tortue Jaune.m4a
+#EXTURL:file:///music/Songs/c/Crystal%20Method/Keep%20Hope%20Alive/06.%20The%20Dubeliscious%20Groove%20(Fly%20Spanish%20Version).m4a
+#EXTINF:406,The Dubeliscious Groove (Fly Spanish Version)
+/music/Songs/c/Crystal Method/Keep Hope Alive/06. The Dubeliscious Groove (Fly Spanish Version).m4a
+#EXTURL:file:///music/Songs/i/INXS/Kick%20(30th%20Deluxe%20Edition)/3-10.%20Need%20You%20Tonight%20(Ben%20Liebrand%20Mix).m4a
+#EXTINF:435,Need You Tonight (Ben Liebrand Mix)
+/music/Songs/i/INXS/Kick (30th Deluxe Edition)/3-10. Need You Tonight (Ben Liebrand Mix).m4a
+#EXTURL:file:///music/Songs/i/INXS/Original%20Sin%20Remixes%20(feat.%20Rob%20Thomas%20&%20DJ%20Yaleidys)%20-%20Single/02.%20Original%20Sin%20(Ralphi%27s%20Blanco%20Y%20Negro%20Dub).m4a
+#EXTINF:527,Original Sin (Ralphi's Blanco Y Negro Dub)
+/music/Songs/i/INXS/Original Sin Remixes (feat. Rob Thomas & DJ Yaleidys) - Single/02. Original Sin (Ralphi's Blanco Y Negro Dub).m4a
+#EXTURL:file:///music/Songs/o/Orbital/Singles/Open%20Mind.m4a
+#EXTINF:390,Open Mind
+/music/Songs/o/Orbital/Singles/Open Mind.m4a
 #EXTURL:file:///music/Songs/k/Khidja/Plot%20-%20Single/01.%20Plot.m4a
 #EXTINF:471,Plot
 /music/Songs/k/Khidja/Plot - Single/01. Plot.m4a
+#EXTURL:file:///music/Songs/p/Pretenders/Loose%20Screws%20[Re:Mix]%20-%20EP/04.%20Complex%20Person%20(GoodandEvil%20Duplate%20Mix).m4a
+#EXTINF:329,Complex Person (GoodandEvil Duplate Mix)
+/music/Songs/p/Pretenders/Loose Screws [Re:Mix] - EP/04. Complex Person (GoodandEvil Duplate Mix).m4a
 #EXTURL:file:///music/Songs/p/Phantoms/Lay%20With%20Me%20(Phantoms%20VIP%20Mix)%20[feat.%20Vanessa%20Hudgens]%20-%20Single/01.%20Lay%20With%20Me%20(Phantoms%20VIP%20Mix)%20[Feat.%20Vanessa%20Hudgens].m4a
 #EXTINF:248,Lay With Me (Phantoms VIP Mix) [feat. Vanessa Hudgens]
 /music/Songs/p/Phantoms/Lay With Me (Phantoms VIP Mix) [feat. Vanessa Hudgens] - Single/01. Lay With Me (Phantoms VIP Mix) [Feat. Vanessa Hudgens].m4a
-#EXTURL:file:///music/Songs/m/Musumeci,%20Phunkadelica%20&%20Sterocalypse/Romantico%20Disco%20-%20EP/02.%20Velluto%20Blu.m4a
-#EXTINF:404,Velluto Blu
-/music/Songs/m/Musumeci, Phunkadelica & Sterocalypse/Romantico Disco - EP/02. Velluto Blu.m4a
-#EXTURL:file:///music/Songs/s/SUMR%20CAMP/Wait%20a%20Minute%20-%20Single/01.%20Wait%20A%20Minute.m4a
-#EXTINF:292,Wait a Minute
-/music/Songs/s/SUMR CAMP/Wait a Minute - Single/01. Wait A Minute.m4a
-#EXTURL:file:///music/Songs/j/Jex%20Opolis/Mr.%20Concerto%20-%20Single/01.%20Mr.%20Concerto%20(Extension).m4a
-#EXTINF:436,Mr. Concerto (Extension)
-/music/Songs/j/Jex Opolis/Mr. Concerto - Single/01. Mr. Concerto (Extension).m4a
+#EXTURL:file:///music/Songs/v/Vitamin%20C/Vitamin%20C/03.%20Me,%20Myself,%20&%20I.m4a
+#EXTINF:237,Me, Myself, & I
+/music/Songs/v/Vitamin C/Vitamin C/03. Me, Myself, & I.m4a
 #EXTURL:file:///music/Songs/k/Khen/Closing%20Doors%20-%20Burgundy%20-%20EP/01.%20Closing%20Doors%20(Edit).m4a
 #EXTINF:228,Closing Doors (Edit)
 /music/Songs/k/Khen/Closing Doors - Burgundy - EP/01. Closing Doors (Edit).m4a
+#EXTURL:file:///music/Songs/a/Au-Ra/Panic%20Room%20-%20Single/01.%20Panic%20Room.m4a
+#EXTINF:214,Panic Room
+/music/Songs/a/Au-Ra/Panic Room - Single/01. Panic Room.m4a
+#EXTURL:file:///music/Songs/j/Jex%20Opolis/Mr.%20Concerto%20-%20Single/01.%20Mr.%20Concerto%20(Extension).m4a
+#EXTINF:436,Mr. Concerto (Extension)
+/music/Songs/j/Jex Opolis/Mr. Concerto - Single/01. Mr. Concerto (Extension).m4a
+#EXTURL:file:///music/Songs/Compilation/This%20Is%20Minty%20Fresh%20-%20Summer%202011/04.%20The%20Last%20Ride.m4a
+#EXTINF:208,The Last Ride
+/music/Songs/Compilation/This Is Minty Fresh - Summer 2011/04. The Last Ride.m4a
