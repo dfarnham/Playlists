@@ -1,7 +1,10 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/m/Matt%20Singer/01.%20Givin%27%20It%20Up.m4a
+#EXTINF:192,Givin' It Up
+/music/Songs/m/Matt Singer/01. Givin' It Up.m4a
 #EXTURL:file:///music/Songs/u/Upside%20Down/Trust%20Electricity/15.%20Spirit%20In%20The%20Sky.m4a
-#EXTINF:329,Spirit In The Sky
+#EXTINF:315,Spirit In The Sky
 /music/Songs/u/Upside Down/Trust Electricity/15. Spirit In The Sky.m4a
 #EXTURL:file:///music/Songs/j/Joe%20Bonamassa/Redemption/01.%20Evil%20Mama.m4a
 #EXTINF:329,Evil Mama
@@ -718,7 +721,7 @@
 #EXTINF:228,Long May You Run
 /music/Songs/n/Neil Young/Decade/2-19. Long May You Run.m4a
 #EXTURL:file:///music/Songs/d/Dire%20Straits/Dire%20Straits/02.%20Water%20of%20Love.m4a
-#EXTINF:326,Water of Love
+#EXTINF:330,Water of Love
 /music/Songs/d/Dire Straits/Dire Straits/02. Water of Love.m4a
 #EXTURL:file:///music/Songs/l/Lynyrd%20Skynyrd/Street%20Survivors%20(Deluxe%20Edition)/2-01.%20What%27s%20Your%20Name.m4a
 #EXTINF:213,What's Your Name
@@ -1054,7 +1057,7 @@
 #EXTINF:257,Voracious Love
 /music/Songs/e/Erja Lyytinen/Songs From The Road/02. Voracious Love.m4a
 #EXTURL:file:///music/Songs/c/Charlie%20Musselwhite/One%20Night%20In%20America/09.%20Big%20River.m4a
-#EXTINF:322,Big River
+#EXTINF:320,Big River
 /music/Songs/c/Charlie Musselwhite/One Night In America/09. Big River.m4a
 #EXTURL:file:///music/Songs/r/Radio%204/Stealing%20of%20a%20Nation%20(Limited%20Edition)/02.%20Transmission.m4a
 #EXTINF:211,Transmission
