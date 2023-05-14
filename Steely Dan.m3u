@@ -1,5 +1,8 @@
-﻿#CURTRACK 1
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/s/Steely%20Dan/Before%20Steely%20Dan/20.%20Brain%20Tap%20Shuffle.m4a
+#EXTINF:186,Brain Tap Shuffle
+/music/Songs/s/Steely Dan/Before Steely Dan/20. Brain Tap Shuffle.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/Pretzel%20Logic/10.%20Charlie%20Freak.m4a
 #EXTINF:164,Charlie Freak
 /music/Songs/s/Steely Dan/Pretzel Logic/10. Charlie Freak.m4a
