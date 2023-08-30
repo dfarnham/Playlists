@@ -1,8 +1,14 @@
 ﻿#CURTRACK 0
 #EXTM3U
-#EXTURL:file:///music/Songs/m/Matt%20Singer/01.%20Givin%27%20It%20Up.m4a
+#EXTURL:file:///music/Songs/l/Lou%20Reed/NYC%20Man:%20The%20Collection/2-10.%20Sally%20Can't%20Dance.m4a
+#EXTINF:174,Sally Can't Dance
+/music/Songs/l/Lou Reed/NYC Man: The Collection/2-10. Sally Can't Dance.m4a
+#EXTURL:file:///music/Songs/k/King%20Curtis/Live%20At%20Fillmore%20West/01.%20Memphis%20Soul%20Stew%20.m4a
+#EXTINF:448,Memphis Soul Stew
+/music/Songs/k/King Curtis/Live At Fillmore West/01. Memphis Soul Stew.m4a
+#EXTURL:file:///music/Songs/m/Matt%20Singer/Breakbeat%20Blues/01.%20Givin%27%20It%20Up.m4a
 #EXTINF:192,Givin' It Up
-/music/Songs/m/Matt Singer/01. Givin' It Up.m4a
+/music/Songs/m/Matt Singer/Breakbeat Blues/01. Givin' It Up.m4a
 #EXTURL:file:///music/Songs/u/Upside%20Down/Trust%20Electricity/15.%20Spirit%20In%20The%20Sky.m4a
 #EXTINF:315,Spirit In The Sky
 /music/Songs/u/Upside Down/Trust Electricity/15. Spirit In The Sky.m4a
