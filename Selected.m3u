@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/d/Dorothy/28%20Days%20In%20The%20Valley/11.%20Ain%27t%20Our%20Time%20To%20Die.m4a
+#EXTINF:248,Ain't Our Time To Die
+/music/Songs/d/Dorothy/28 Days In The Valley/11. Ain't Our Time To Die.m4a
+#EXTURL:file:///music/Songs/d/Dorothy/Gifts%20From%20The%20Holy%20Ghost/03.%20Rest%20In%20Peace.m4a
+#EXTINF:217,Rest In Peace
+/music/Songs/d/Dorothy/Gifts From The Holy Ghost/03. Rest In Peace.m4a
 #EXTURL:file:///music/Songs/t/Tragically%20Hip/Yer%20Favourites%20(International%20Version)/2-02.%20Twist%20My%20Arm.m4a
 #EXTINF:236,Twist My Arm
 /music/Songs/t/Tragically Hip/Yer Favourites (International Version)/2-02. Twist My Arm.m4a
