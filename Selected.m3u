@@ -1,5 +1,8 @@
-﻿#CURTRACK 1
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Face%20The%20Promise/03.%20Face%20The%20Promise.m4a
+#EXTINF:197,Face The Promise
+/music/Songs/b/Bob Seger & The Silver Bullet Band/Face The Promise/03. Face The Promise.m4a
 #EXTURL:file:///music/Songs/a/Albert%20Cummings/Working%20Man/04.%20Girls%20To%20Shame.m4a
 #EXTINF:288,Girls To Shame
 /music/Songs/a/Albert Cummings/Working Man/04. Girls To Shame.m4a
