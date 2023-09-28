@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/f/Foghat/Boogie%20Motel%20(Remastered)/05.%20Boogie%20Motel.m4a
+#EXTINF:441,Boogie Motel
+/music/Songs/f/Foghat/Boogie Motel (Remastered)/05. Boogie Motel.m4a
 #EXTURL:file:///music/Songs/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Face%20The%20Promise/03.%20Face%20The%20Promise.m4a
 #EXTINF:197,Face The Promise
 /music/Songs/b/Bob Seger & The Silver Bullet Band/Face The Promise/03. Face The Promise.m4a
@@ -3033,9 +3036,6 @@
 #EXTURL:file:///music/Songs/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/3-05.%20Melinda.m4a
 #EXTINF:495,Melinda
 /music/Songs/t/Tom Petty & The Heartbreakers/The Live Anthology/3-05. Melinda.m4a
-#EXTURL:file:///music/Songs/v/Violent%20Femmes/Violent%20Femmes/01.%20Blister%20In%20The%20Sun.m4a
-#EXTINF:144,Blister In The Sun
-/music/Songs/v/Violent Femmes/Violent Femmes/01. Blister In The Sun.m4a
 #EXTURL:file:///music/Songs/j/Jane%27s%20Addiction/Ritual%20de%20lo%20Habitual/05.%20Been%20Caught%20Stealing.m4a
 #EXTINF:214,Been Caught Stealing
 /music/Songs/j/Jane's Addiction/Ritual de lo Habitual/05. Been Caught Stealing.m4a
