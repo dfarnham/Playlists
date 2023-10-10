@@ -1,5 +1,14 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 2
 #EXTM3U
+#EXTURL:file:///music/Songs/d/Devon%20Allman/Rollers%20-%20EP/02.%20See%20It%20All.m4a
+#EXTINF:213,See It All
+/music/Songs/d/Devon Allman/Rollers - EP/02. See It All.m4a
+#EXTURL:file:///music/Songs/d/Devon%20Allman/Rollers%20-%20EP/03.%20We%20Belong%20(feat.%20Maggie%20Rose).m4a
+#EXTINF:181,We Belong (feat. Maggie Rose)
+/music/Songs/d/Devon Allman/Rollers - EP/03. We Belong (feat. Maggie Rose).m4a
+#EXTURL:file:///music/Songs/d/Devon%20Allman/Rollers%20-%20EP/06.%20Acapulco%20Gold.m4a
+#EXTINF:158,Acapulco Gold
+/music/Songs/d/Devon Allman/Rollers - EP/06. Acapulco Gold.m4a
 #EXTURL:file:///music/Songs/f/Foghat/She%27s%20a%20Little%20Bit%20of%20Everything%20-%20Single/01.%20She%27s%20a%20Little%20Bit%20of%20Everything.m4a
 #EXTINF:178,She's a Little Bit of Everything
 /music/Songs/f/Foghat/She's a Little Bit of Everything - Single/01. She's a Little Bit of Everything.m4a
