@@ -1,10 +1,16 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 1
 #EXTM3U
+#EXTURL:file:///music/Songs/Compilation/BaadAsssss%20Cinema/13.%20Sweetback%27s%20Theme.mp3
+#EXTINF:456,Sweetback's Theme
+/music/Songs/Compilation/BaadAsssss Cinema/13. Sweetback's Theme.mp3
+#EXTURL:file:///music/Songs/o/Offspring/Splinter/04.%20Hit%20That.m4a
+#EXTINF:169,Hit That
+/music/Songs/o/Offspring/Splinter/04. Hit That.m4a
 #EXTURL:file:///music/Songs/l/Lou%20Reed/NYC%20Man:%20The%20Collection/2-10.%20Sally%20Can%27t%20Dance.m4a
 #EXTINF:174,Sally Can't Dance
 /music/Songs/l/Lou Reed/NYC Man: The Collection/2-10. Sally Can't Dance.m4a
-#EXTURL:file:///music/Songs/k/King%20Curtis/Live%20At%20Fillmore%20West/01.%20Memphis%20Soul%20Stew%20.m4a
-#EXTINF:448,Memphis Soul Stew
+#EXTURL:file:///music/Songs/k/King%20Curtis/Live%20At%20Fillmore%20West/01.%20Memphis%20Soul%20Stew.m4a
+#EXTINF:458,Memphis Soul Stew
 /music/Songs/k/King Curtis/Live At Fillmore West/01. Memphis Soul Stew.m4a
 #EXTURL:file:///music/Songs/m/Matt%20Singer/Breakbeat%20Blues/01.%20Givin%27%20It%20Up.m4a
 #EXTINF:192,Givin' It Up
@@ -56,40 +62,40 @@
 /music/Songs/j/John Hermann/Defector/01. Mrs. Brown.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/13.%20My%20Old%20School.m4a
 #EXTINF:348,My Old School
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/13. My Old School.m4a
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/13. My Old School.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/11.%20East%20St.%20Louis%20Toodle-Oo.m4a
-#EXTINF:168,East St. Louis Toodle-Oo
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/11. East St. Louis Toodle-Oo.m4a
+#EXTINF:169,East St. Louis Toodle-Oo
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/11. East St. Louis Toodle-Oo.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/03.%20Babylon%20Sisters.m4a
-#EXTINF:352,Babylon Sisters
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/03. Babylon Sisters.m4a
+#EXTINF:350,Babylon Sisters
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/03. Babylon Sisters.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/08.%20Peg.m4a
 #EXTINF:237,Peg
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/08. Peg.m4a
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/08. Peg.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/07.%20Do%20It%20Again.m4a
-#EXTINF:355,Do It Again
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/07. Do It Again.m4a
+#EXTINF:356,Do It Again
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/07. Do It Again.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/12.%20Kid%20Charlemagne.m4a
-#EXTINF:280,Kid Charlemagne
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/12. Kid Charlemagne.m4a
+#EXTINF:279,Kid Charlemagne
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/12. Kid Charlemagne.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/06.%20Hey%20Nineteen.m4a
-#EXTINF:309,Hey Nineteen
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/06. Hey Nineteen.m4a
+#EXTINF:307,Hey Nineteen
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/06. Hey Nineteen.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/09.%20Rikki%20Don%27t%20Lose%20That%20Number.m4a
 #EXTINF:272,Rikki Don't Lose That Number
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/09. Rikki Don't Lose That Number.m4a
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/09. Rikki Don't Lose That Number.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/01.%20FM.m4a
 #EXTINF:290,FM
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/01. FM.m4a
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/01. FM.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/02.%20Black%20Friday.m4a
-#EXTINF:219,Black Friday
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/02. Black Friday.m4a
+#EXTINF:220,Black Friday
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/02. Black Friday.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/10.%20Reelin%27%20In%20The%20Years.m4a
-#EXTINF:277,Reelin' In The Years
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/10. Reelin' In The Years.m4a
+#EXTINF:278,Reelin' In The Years
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/10. Reelin' In The Years.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/04.%20Deacon%20Blues.m4a
-#EXTINF:455,Deacon Blues
-/music/Songs/s/Steely Dan/A decade of Steely Dan (Remastered)/04. Deacon Blues.m4a
+#EXTINF:454,Deacon Blues
+/music/Songs/s/Steely Dan/A Decade of Steely Dan (Remastered)/04. Deacon Blues.m4a
 #EXTURL:file:///music/Songs/t/Tom%20Petty%20&%20The%20Heartbreakers/Anthology:%20Through%20The%20Years/1-02.%20American%20Girl.m4a
 #EXTINF:214,American Girl
 /music/Songs/t/Tom Petty & The Heartbreakers/Anthology: Through The Years/1-02. American Girl.m4a
@@ -297,9 +303,6 @@
 #EXTURL:file:///music/Songs/b/Blindside%20Blues%20Band/Live%20At%20The%20Crossroads/03.%20Night%20Train%20(Live).m4a
 #EXTINF:331,Night Train (Live)
 /music/Songs/b/Blindside Blues Band/Live At The Crossroads/03. Night Train (Live).m4a
-#EXTURL:file:///music/Songs/l/Leslie%20West/Unusual%20Suspects/01.%20One%20More%20Drink%20For%20The%20Road%20(Feat.%20Steve%20Lukather).m4a
-#EXTINF:194,One More Drink For The Road (Feat. Steve Lukather)
-/music/Songs/l/Leslie West/Unusual Suspects/01. One More Drink For The Road (Feat. Steve Lukather).m4a
 #EXTURL:file:///music/Songs/r/Rush/Power%20Windows/01.%20The%20Big%20Money.m4a
 #EXTINF:337,The Big Money
 /music/Songs/r/Rush/Power Windows/01. The Big Money.m4a
@@ -802,7 +805,7 @@
 #EXTINF:467,Where Will It End?!
 /music/Songs/j/Julian Sas/A Smile To My Soul/12. Where Will It End?!.m4a
 #EXTURL:file:///music/Songs/i/INXS/Elegantly%20Wasted%20(Remastered)/02.%20Elegantly%20Wasted.m4a
-#EXTINF:234,Elegantly Wasted
+#EXTINF:272,Elegantly Wasted
 /music/Songs/i/INXS/Elegantly Wasted (Remastered)/02. Elegantly Wasted.m4a
 #EXTURL:file:///music/Songs/d/Devo/Freedom%20of%20Choice/01.%20Girl%20U%20Want.m4a
 #EXTINF:177,Girl U Want
@@ -1117,7 +1120,7 @@
 #EXTINF:280,Tipsy
 /music/Songs/t/Tom Principato/Guitar Gumbo/10. Tipsy.m4a
 #EXTURL:file:///music/Songs/s/Sue%20Foley/Young%20Girl%20Blues/06.%20Walkin%27%20Home.m4a
-#EXTINF:193,Walkin' Home
+#EXTINF:194,Walkin' Home
 /music/Songs/s/Sue Foley/Young Girl Blues/06. Walkin' Home.m4a
 #EXTURL:file:///music/Songs/b/Buckingham%20Nicks/Buckingham%20Nicks%20(Deluxe%20Edition)/01.%20Crying%20In%20The%20Night.mp3
 #EXTINF:180,Crying In The Night
@@ -1557,9 +1560,6 @@
 #EXTURL:file:///music/Songs/m/Monte%20Montgomery/1st%20&%20Repair/01.%20Movin%27%20On.m4a
 #EXTINF:155,Movin' On
 /music/Songs/m/Monte Montgomery/1st & Repair/01. Movin' On.m4a
-#EXTURL:file:///music/Songs/v/Violent%20Femmes/Violent%20Femmes/01.%20Blister%20In%20The%20Sun.mp3
-#EXTINF:144,Blister In The Sun
-/music/Songs/v/Violent Femmes/Violent Femmes/01. Blister In The Sun.mp3
 #EXTURL:file:///music/Songs/Compilation/Rock%20Monsters/1-14.%20Black%20Betty.mp3
 #EXTINF:235,Black Betty
 /music/Songs/Compilation/Rock Monsters/1-14. Black Betty.mp3
@@ -1959,12 +1959,6 @@
 #EXTURL:file:///music/Songs/t/Tom%20Petty%20&%20The%20Heartbreakers/Hard%20Promises/04.%20Something%20Big.m4a
 #EXTINF:284,Something Big
 /music/Songs/t/Tom Petty & The Heartbreakers/Hard Promises/04. Something Big.m4a
-#EXTURL:file:///music/Songs/t/Tom%20Petty%20&%20The%20Heartbreakers/Mojo%20(Deluxe%20Edition)/03.%20Running%20Man%27s%20Bible.m4a
-#EXTINF:361,Running Man's Bible
-/music/Songs/t/Tom Petty & The Heartbreakers/Mojo (Deluxe Edition)/03. Running Man's Bible.m4a
-#EXTURL:file:///music/Songs/t/Tom%20Petty%20&%20The%20Heartbreakers/Mojo%20(Deluxe%20Edition)/11.%20Don%27t%20Pull%20Me%20Over.m4a
-#EXTINF:244,Don't Pull Me Over
-/music/Songs/t/Tom Petty & The Heartbreakers/Mojo (Deluxe Edition)/11. Don't Pull Me Over.m4a
 #EXTURL:file:///music/Songs/j/Jim%20Suhler/Live%20At%20Blue%20Cat%20Blues/03.%20I%20Wonder%20Why.m4a
 #EXTINF:477,I Wonder Why
 /music/Songs/j/Jim Suhler/Live At Blue Cat Blues/03. I Wonder Why.m4a
