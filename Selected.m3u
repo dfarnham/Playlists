@@ -1,5 +1,8 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 101
 #EXTM3U
+#EXTURL:file:///music/Songs/d/Def%20Leppard/Just%20Like%2073%20(Tom%20Morello%20Version)%20-%20Single/01.%20Just%20Like%2073%20(Tom%20Morello%20Version).m4a
+#EXTINF:223,Just Like 73 (Tom Morello Version)
+/music/Songs/d/Def Leppard/Just Like 73 (Tom Morello Version) - Single/01. Just Like 73 (Tom Morello Version).m4a
 #EXTURL:file:///music/Songs/c/Countdown%20Italy/Singles/10.%20L%27Italiano.m4a
 #EXTINF:217,L'Italiano
 /music/Songs/c/Countdown Italy/Singles/10. L'Italiano.m4a
