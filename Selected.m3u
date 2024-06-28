@@ -1,5 +1,8 @@
-﻿#CURTRACK 101
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/l/Little%20Boys%20Blue/Hard%20Blue%20Space/04.%20Hard%20Blue%20Space.m4a
+#EXTINF:284,Hard Blue Space
+/music/Songs/l/Little Boys Blue/Hard Blue Space/04. Hard Blue Space.m4a
 #EXTURL:file:///music/Songs/d/Def%20Leppard/Just%20Like%2073%20(Tom%20Morello%20Version)%20-%20Single/01.%20Just%20Like%2073%20(Tom%20Morello%20Version).m4a
 #EXTINF:223,Just Like 73 (Tom Morello Version)
 /music/Songs/d/Def Leppard/Just Like 73 (Tom Morello Version) - Single/01. Just Like 73 (Tom Morello Version).m4a
