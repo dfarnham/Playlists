@@ -1,5 +1,14 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Songs/d/Donald%20Fagen/Kamakiriad/01.%20Trans-Island%20Skyway.m4a
+#EXTINF:390,Trans-Island Skyway
+/music/Songs/d/Donald Fagen/Kamakiriad/01. Trans-Island Skyway.m4a
+#EXTURL:file:///music/Songs/d/Donald%20Fagen/The%20Nightfly/05.%20New%20Frontier.m4a
+#EXTINF:381,New Frontier
+/music/Songs/d/Donald Fagen/The Nightfly/05. New Frontier.m4a
+#EXTURL:file:///music/Songs/d/Donald%20Fagen/Morph%20The%20Cat/02.%20H%20Gang.m4a
+#EXTINF:315,H Gang
+/music/Songs/d/Donald Fagen/Morph The Cat/02. H Gang.m4a
 #EXTURL:file:///music/Songs/s/Steely%20Dan/Before%20Steely%20Dan/20.%20Brain%20Tap%20Shuffle.m4a
 #EXTINF:186,Brain Tap Shuffle
 /music/Songs/s/Steely Dan/Before Steely Dan/20. Brain Tap Shuffle.m4a
