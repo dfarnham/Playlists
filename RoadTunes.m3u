@@ -1,52 +1,80 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/j/John%20Lyons%20Band/Sing%20Me%20Another%20Song/12.%20Bluestar%20Highway.m4a
+#EXTINF:183,Bluestar Highway
+/music/j/John Lyons Band/Sing Me Another Song/12. Bluestar Highway.m4a
+#EXTURL:file:///music/r/Ray%20Charles/Anthology/01.%20Hit%20The%20Road%20Jack.m4a
 #EXTINF:121,Hit The Road Jack
 /music/r/Ray Charles/Anthology/01. Hit The Road Jack.m4a
+#EXTURL:file:///music/c/Chris%20Knight/A%20Pretty%20Good%20Guy/09.%20Highway%20Junkie.m4a
 #EXTINF:237,Highway Junkie
 /music/c/Chris Knight/A Pretty Good Guy/09. Highway Junkie.m4a
+#EXTURL:file:///music/b/Buddy%20Miles/The%20Best%20of%20Buddy%20Miles/06.%20Dreams.m4a
 #EXTINF:294,Dreams
 /music/b/Buddy Miles/The Best of Buddy Miles/06. Dreams.m4a
+#EXTURL:file:///music/t/Talking%20Heads/Once%20In%20A%20Lifetime:%20The%20Talking%20Heads%20Box/42.%20The%20Lady%20Don%27t%20Mind.m4a
 #EXTINF:244,The Lady Don't Mind
 /music/t/Talking Heads/Once In A Lifetime: The Talking Heads Box/42. The Lady Don't Mind.m4a
+#EXTURL:file:///music/j/Jimmy%20D.%20Lane/It%27s%20Time/07.%20Hand%20On%20The%20Door.m4a
 #EXTINF:263,Hand On The Door
 /music/j/Jimmy D. Lane/It's Time/07. Hand On The Door.m4a
+#EXTURL:file:///music/l/Love%20And%20Rockets/Sorted!%20-%20The%20Best%20of%20Love%20And%20Rockets/14.%20Sweet%20Lover%20Hangover.m4a
 #EXTINF:311,Sweet Lover Hangover
 /music/l/Love And Rockets/Sorted! - The Best of Love And Rockets/14. Sweet Lover Hangover.m4a
+#EXTURL:file:///music/l/Lynyrd%20Skynyrd/Last%20of%20a%20Dyin%27%20Breed%20(Special%20Edition)/02.%20One%20Day%20At%20A%20Time.m4a
 #EXTINF:226,One Day At A Time
 /music/l/Lynyrd Skynyrd/Last of a Dyin' Breed (Special Edition)/02. One Day At A Time.m4a
+#EXTURL:file:///music/n/Nazareth/Rampant/04.%20Shanghai%27d%20in%20Shanghai.mp3
 #EXTINF:224,Shanghai'd in Shanghai
 /music/n/Nazareth/Rampant/04. Shanghai'd in Shanghai.mp3
+#EXTURL:file:///music/r/Replacements/Don%27t%20Tell%20A%20Soul/04.%20Achin%27%20To%20Be.m4a
 #EXTINF:221,Achin' To Be
 /music/r/Replacements/Don't Tell A Soul/04. Achin' To Be.m4a
+#EXTURL:file:///music/s/Shannon%20McNally/Geronimo/06.%20The%20Hard%20Way.m4a
 #EXTINF:267,The Hard Way
 /music/s/Shannon McNally/Geronimo/06. The Hard Way.m4a
+#EXTURL:file:///music/d/David%20Bowie/Space%20Oddity/02.%20Unwashed%20And%20Somewhat%20Slightly%20Dazed.m4a
 #EXTINF:372,Unwashed And Somewhat Slightly Dazed
 /music/d/David Bowie/Space Oddity/02. Unwashed And Somewhat Slightly Dazed.m4a
+#EXTURL:file:///music/j/James%20Gang/Yer%27%20Album/11.%20Stop.m4a
 #EXTINF:724,Stop
 /music/j/James Gang/Yer' Album/11. Stop.m4a
+#EXTURL:file:///music/e/Eels/Souljacker/03.%20Fresh%20Feeling.m4a
 #EXTINF:217,Fresh Feeling
 /music/e/Eels/Souljacker/03. Fresh Feeling.m4a
+#EXTURL:file:///music/d/Doobie%20Brothers/Long%20Train%20Runnin%27/03.%20Long%20Train%20Runnin%27%20(Full%20Guitar%20Mix).m4a
 #EXTINF:331,Long Train Runnin' (Full Guitar Mix)
 /music/d/Doobie Brothers/Long Train Runnin'/03. Long Train Runnin' (Full Guitar Mix).m4a
+#EXTURL:file:///music/d/Dwight%20Yoakam/dwightyoakamacoustic.net/20.%20Fast%20As%20You.m4a
 #EXTINF:236,Fast As You
 /music/d/Dwight Yoakam/dwightyoakamacoustic.net/20. Fast As You.m4a
+#EXTURL:file:///music/b/Butts%20Band/Butts%20Band/02.%20Baja%20Bus.mp3
 #EXTINF:281,Baja Bus
 /music/b/Butts Band/Butts Band/02. Baja Bus.mp3
+#EXTURL:file:///music/d/Devils%20Creek/Working%20The%20Chains/07.%20Kokomo%20Train.m4a
 #EXTINF:370,Kokomo Train
 /music/d/Devils Creek/Working The Chains/07. Kokomo Train.m4a
+#EXTURL:file:///music/r/Robby%20Z/What%27cha%20Want%20From%20Me%3F/11.%20San%20Ho%20Say.m4a
 #EXTINF:219,San Ho Say
 /music/r/Robby Z/What'cha Want From Me?/11. San Ho Say.m4a
+#EXTURL:file:///music/c/Cross%20Canadian%20Ragweed/Garage/07.%20Final%20Curtain.m4a
 #EXTINF:315,Final Curtain
 /music/c/Cross Canadian Ragweed/Garage/07. Final Curtain.m4a
+#EXTURL:file:///music/Compilation/Drive%20Time%20-%2018%20of%20The%20Best%20Radio%20Anthems/04.%20Never%20Miss%20Your%20Water.m4a
 #EXTINF:235,Never Miss Your Water
 /music/Compilation/Drive Time - 18 of The Best Radio Anthems/04. Never Miss Your Water.m4a
+#EXTURL:file:///music/l/Lords%20of%20The%20New%20Church/Killer%20Lords/05.%20Black%20Girl%20White%20Girl.m4a
 #EXTINF:222,Black Girl White Girl
 /music/l/Lords of The New Church/Killer Lords/05. Black Girl White Girl.m4a
+#EXTURL:file:///music/b/Bob%20Schneider/I%27m%20Good%20Now/05.%20I%27m%20Good%20Now.mp3
 #EXTINF:174,I'm Good Now
 /music/b/Bob Schneider/I'm Good Now/05. I'm Good Now.mp3
+#EXTURL:file:///music/m/Mighty%20Mike%20Schermer/Bad%20Tattoo/12.%20Up%20All%20Night.m4a
 #EXTINF:285,Up All Night
 /music/m/Mighty Mike Schermer/Bad Tattoo/12. Up All Night.m4a
+#EXTURL:file:///music/c/Charlie%20Hunter/Music!Music!Music!/01.%20Soul%20of%20a%20Man.m4a
 #EXTINF:289,Soul of a Man
 /music/c/Charlie Hunter/Music!Music!Music!/01. Soul of a Man.m4a
+#EXTURL:file:///music/Compilation/Texans%20-%20Live%20From%20Mountain%20Stage/08.%20Georgia%20On%20A%20Fast%20Train.mp3
 #EXTINF:227,Georgia On A Fast Train
 /music/Compilation/Texans - Live From Mountain Stage/08. Georgia On A Fast Train.mp3
