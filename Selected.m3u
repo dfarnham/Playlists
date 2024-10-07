@@ -1,5 +1,26 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 4
 #EXTM3U
+#EXTURL:file:///music/l/Los%20Lobos/Disconnected%20In%20New%20York%20City%20(Live)/04.%20Chuco%27s%20Cumbia.m4a
+#EXTINF:325,Chuco's Cumbia
+/music/l/Los Lobos/Disconnected In New York City (Live)/04. Chuco's Cumbia.m4a
+#EXTURL:file:///music/Compilation/Flower%20Power/Age%20of%20Aquarius/1-03.%20Summer%20In%20The%20City.m4a
+#EXTINF:161,Summer In The City
+/music/Compilation/Flower Power/Age of Aquarius/1-03. Summer In The City.m4a
+#EXTURL:file:///music/b/Bart%20Walker/Waiting%20On%20Daylight/03.%20Took%20It%20Like%20A%20Man.m4a
+#EXTINF:195,Took It Like A Man
+/music/b/Bart Walker/Waiting On Daylight/03. Took It Like A Man.m4a
+#EXTURL:file:///music/r/Robert%20Cray/The%20Definitive%20Collection/07.%20Don%27t%20Be%20Afraid%20of%20The%20Dark.m4a
+#EXTINF:227,Don't Be Afraid of The Dark
+/music/r/Robert Cray/The Definitive Collection/07. Don't Be Afraid of The Dark.m4a
+#EXTURL:file:///music/b/Blue%20Oyster%20Cult/On%20Your%20Feet%20Or%20On%20Your%20Knees/02.%20Harvester%20of%20Eyes.m4a
+#EXTINF:295,Harvester of Eyes
+/music/b/Blue Oyster Cult/On Your Feet Or On Your Knees/02. Harvester of Eyes.m4a
+#EXTURL:file:///music/b/Buddaheads/Howlin%27%20At%20The%20Moon/02.%20Nothing%20To%20Lose.m4a
+#EXTINF:233,Nothing To Lose
+/music/b/Buddaheads/Howlin' At The Moon/02. Nothing To Lose.m4a
+#EXTURL:file:///music/a/A%20Flock%20of%20Seagulls/The%20Best%20of%20a%20Flock%20of%20Seagulls/01.%20I%20Ran.m4a
+#EXTINF:307,I Ran
+/music/a/A Flock of Seagulls/The Best of a Flock of Seagulls/01. I Ran.m4a
 #EXTURL:file:///music/l/Little%20Boys%20Blue/Hard%20Blue%20Space/04.%20Hard%20Blue%20Space.m4a
 #EXTINF:284,Hard Blue Space
 /music/l/Little Boys Blue/Hard Blue Space/04. Hard Blue Space.m4a
@@ -1425,24 +1446,6 @@
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/5-11.%20Ballad%20of%20Easy%20Rider.mp3
 #EXTINF:188,Ballad of Easy Rider
 /music/t/Tom Petty & The Heartbreakers/The Live Anthology/5-11. Ballad of Easy Rider.mp3
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/3-05.%20Melinda.m4a
-#EXTINF:495,Melinda
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/3-05. Melinda.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/3-09.%20Spike.m4a
-#EXTINF:460,Spike
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/3-09. Spike.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/4-02.%20Oh%20Well.m4a
-#EXTINF:215,Oh Well
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/4-02. Oh Well.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/4-05.%20My%20Life%20Your%20World.m4a
-#EXTINF:295,My Life Your World
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/4-05. My Life Your World.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/1-02.%20Nightwatchman.m4a
-#EXTINF:273,Nightwatchman
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/1-02. Nightwatchman.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/4-04.%20Crawling%20Back%20To%20You.m4a
-#EXTINF:278,Crawling Back To You
-/music/t/Tom Petty & The Heartbreakers/The Live Anthology/4-04. Crawling Back To You.m4a
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/5-04.%20Billy%20The%20Kid.mp3
 #EXTINF:309,Billy The Kid
 /music/t/Tom Petty & The Heartbreakers/The Live Anthology/5-04. Billy The Kid.mp3
@@ -2283,9 +2286,6 @@
 #EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Greatest%20Hits/10.%20Couldn%27t%20Stand%20The%20Weather.m4a
 #EXTINF:282,Couldn't Stand The Weather
 /music/s/Stevie Ray Vaughan & Double Trouble/Greatest Hits/10. Couldn't Stand The Weather.m4a
-#EXTURL:file:///music/e/Everlast/Whitey%20Ford%20Sings%20The%20Blues/04.%20What%20It%27s%20Like.mp3
-#EXTINF:303,What It's Like
-/music/e/Everlast/Whitey Ford Sings The Blues/04. What It's Like.mp3
 #EXTURL:file:///music/s/Sean%20Chambers%20Band/Live%20From%20The%20Long%20Island%20Blues%20Warehouse/08.%20Too%20Much%20Blues.m4a
 #EXTINF:220,Too Much Blues
 /music/s/Sean Chambers Band/Live From The Long Island Blues Warehouse/08. Too Much Blues.m4a
@@ -2520,9 +2520,6 @@
 #EXTURL:file:///music/h/Honeymoon%20Suite/Honeymoon%20Suite/01.%20New%20Girl%20Now.m4a
 #EXTINF:217,New Girl Now
 /music/h/Honeymoon Suite/Honeymoon Suite/01. New Girl Now.m4a
-#EXTURL:file:///music/z/Zuba/Zuba/03.%20Water%20Me%20Down.m4a
-#EXTINF:286,Water Me Down
-/music/z/Zuba/Zuba/03. Water Me Down.m4a
 #EXTURL:file:///music/s/Sonny%20Landreth/Grant%20Street/02.%20Broken%20Hearted%20Road.m4a
 #EXTINF:462,Broken Hearted Road
 /music/s/Sonny Landreth/Grant Street/02. Broken Hearted Road.m4a
@@ -3399,9 +3396,6 @@
 #EXTURL:file:///music/g/Guitar%20Shorty/Watch%20Your%20Back/04.%20What%20She%20Don%27t%20Know.m4a
 #EXTINF:196,What She Don't Know
 /music/g/Guitar Shorty/Watch Your Back/04. What She Don't Know.m4a
-#EXTURL:file:///music/g/Geoff%20Achison%20&%20The%20Souldiggers/Little%20Big%20Men%20(Remastered)/01.%20Crazy%20Horse.m4a
-#EXTINF:356,Crazy Horse
-/music/g/Geoff Achison & The Souldiggers/Little Big Men (Remastered)/01. Crazy Horse.m4a
 #EXTURL:file:///music/b/Barrington%20Levy/Singles/01.%20Here%20I%20Come%20(Jeymes%20Samuel%20Remix).m4a
 #EXTINF:106,Here I Come (Jeymes Samuel Remix)
 /music/b/Barrington Levy/Singles/01. Here I Come (Jeymes Samuel Remix).m4a
@@ -3624,9 +3618,6 @@
 #EXTURL:file:///music/Compilation/Sounds%20of%20The%20Eighties/1981/12.%20Bette%20Davis%20Eyes.m4a
 #EXTINF:228,Bette Davis Eyes
 /music/Compilation/Sounds of The Eighties/1981/12. Bette Davis Eyes.m4a
-#EXTURL:file:///music/z/Zuba/Soundboard%20%2795/04.%20The%20Strut.m4a
-#EXTINF:403,The Strut
-/music/z/Zuba/Soundboard '95/04. The Strut.m4a
 #EXTURL:file:///music/r/Rolling%20Stones/So%20Young%20-%20Single/01.%20So%20Young.m4a
 #EXTINF:198,So Young
 /music/r/Rolling Stones/So Young - Single/01. So Young.m4a
@@ -3753,9 +3744,6 @@
 #EXTURL:file:///music/m/Members/Working%20Girl/01.%20Working%20Girl%20(Martin%20Rushant%20Mix).m4a
 #EXTINF:252,Working Girl (Martin Rushant Mix)
 /music/m/Members/Working Girl/01. Working Girl (Martin Rushant Mix).m4a
-#EXTURL:file:///music/b/Belly/Feed%20The%20Tree%20-%20Single/Feed%20The%20Tree.mp3
-#EXTINF:207,Feed The Tree
-/music/b/Belly/Feed The Tree - Single/Feed The Tree.mp3
 #EXTURL:file:///music/g/George%20Thorogood%20&%20The%20Destroyers/The%20Baddest%20of%20George%20Thorogood%20&%20The%20Destroyers/03.%20I%27m%20A%20Steady%20Rollin%27%20Man.m4a
 #EXTINF:225,I'm A Steady Rollin' Man
 /music/g/George Thorogood & The Destroyers/The Baddest of George Thorogood & The Destroyers/03. I'm A Steady Rollin' Man.m4a
