@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/r/Ryan%20Bingham/American%20Love%20Song/03.%20Pontiac.flac
+#EXTINF:202,Pontiac
+/music/r/Ryan Bingham/American Love Song/03. Pontiac.flac
 #EXTURL:file:///music/t/Tas%20Cru/Riffin%27%20The%20Blue/01.%20Riffin%27%20The%20Blue.m4a
 #EXTINF:289,Riffin' The Blue
 /music/t/Tas Cru/Riffin' The Blue/01. Riffin' The Blue.m4a
