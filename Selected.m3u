@@ -12,9 +12,9 @@
 #EXTURL:file:///music/b/Bart%20Walker/Waiting%20On%20Daylight/03.%20Took%20It%20Like%20A%20Man.m4a
 #EXTINF:195,Took It Like A Man
 /music/b/Bart Walker/Waiting On Daylight/03. Took It Like A Man.m4a
-#EXTURL:file:///music/r/Robert%20Cray/The%20Definitive%20Collection/07.%20Don%27t%20Be%20Afraid%20of%20The%20Dark.m4a
+#EXTURL:file:///music/r/Robert%20Cray/The%20Definitive%20Collection/07.%20Don%27t%20Be%20Afraid%20of%20The%20Dark.flac
 #EXTINF:227,Don't Be Afraid of The Dark
-/music/r/Robert Cray/The Definitive Collection/07. Don't Be Afraid of The Dark.m4a
+/music/r/Robert Cray/The Definitive Collection/07. Don't Be Afraid of The Dark.flac
 #EXTURL:file:///music/b/Blue%20Oyster%20Cult/On%20Your%20Feet%20Or%20On%20Your%20Knees/02.%20Harvester%20of%20Eyes.m4a
 #EXTINF:295,Harvester of Eyes
 /music/b/Blue Oyster Cult/On Your Feet Or On Your Knees/02. Harvester of Eyes.m4a
@@ -60,9 +60,9 @@
 #EXTURL:file:///music/r/Ramones/Halfway%20To%20Sanity/09.%20A%20Real%20Cool%20Time.m4a
 #EXTINF:158,A Real Cool Time
 /music/r/Ramones/Halfway To Sanity/09. A Real Cool Time.m4a
-#EXTURL:file:///music/p/Pretenders/Break%20Up%20The%20Concrete/10.%20Break%20Up%20The%20Concrete.m4a
+#EXTURL:file:///music/p/Pretenders/Break%20Up%20The%20Concrete/10.%20Break%20Up%20The%20Concrete.flac
 #EXTINF:161,Break Up The Concrete
-/music/p/Pretenders/Break Up The Concrete/10. Break Up The Concrete.m4a
+/music/p/Pretenders/Break Up The Concrete/10. Break Up The Concrete.flac
 #EXTURL:file:///music/s/Stills-Young%20Band/Long%20May%20You%20Run/01.%20Long%20May%20You%20Run.m4a
 #EXTINF:235,Long May You Run
 /music/s/Stills-Young Band/Long May You Run/01. Long May You Run.m4a
@@ -84,12 +84,12 @@
 #EXTURL:file:///music/w/Warren%20Haynes/Man%20In%20Motion/01.%20Man%20In%20Motion.m4a
 #EXTINF:471,Man In Motion
 /music/w/Warren Haynes/Man In Motion/01. Man In Motion.m4a
-#EXTURL:file:///music/c/Corey%20Stevens/Road%20To%20Zen/09.%20Blues%20Are%20Here%20To%20Stay.m4a
+#EXTURL:file:///music/c/Corey%20Stevens/Road%20To%20Zen/09.%20Blues%20Are%20Here%20To%20Stay.flac
 #EXTINF:368,Blues Are Here To Stay
-/music/c/Corey Stevens/Road To Zen/09. Blues Are Here To Stay.m4a
-#EXTURL:file:///music/c/Corey%20Stevens/Road%20To%20Zen/05.%20One%20More%20Time.m4a
+/music/c/Corey Stevens/Road To Zen/09. Blues Are Here To Stay.flac
+#EXTURL:file:///music/c/Corey%20Stevens/Road%20To%20Zen/05.%20One%20More%20Time.flac
 #EXTINF:253,One More Time
-/music/c/Corey Stevens/Road To Zen/05. One More Time.m4a
+/music/c/Corey Stevens/Road To Zen/05. One More Time.flac
 #EXTURL:file:///music/j/Jayhawks/Hollywood%20Town%20Hall/01.%20Waiting%20For%20The%20Sun.m4a
 #EXTINF:260,Waiting For The Sun
 /music/j/Jayhawks/Hollywood Town Hall/01. Waiting For The Sun.m4a
@@ -132,18 +132,18 @@
 #EXTURL:file:///music/s/Steely%20Dan/A%20Decade%20of%20Steely%20Dan%20(Remastered)/04.%20Deacon%20Blues.m4a
 #EXTINF:454,Deacon Blues
 /music/s/Steely Dan/A Decade of Steely Dan (Remastered)/04. Deacon Blues.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Anthology:%20Through%20The%20Years/1-02.%20American%20Girl.m4a
+#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Anthology:%20Through%20The%20Years/1-02.%20American%20Girl.flac
 #EXTINF:214,American Girl
-/music/t/Tom Petty & The Heartbreakers/Anthology: Through The Years/1-02. American Girl.m4a
-#EXTURL:file:///music/Compilation/Funk%20Gold/1-05.%20Rock%20Steady.m4a
+/music/t/Tom Petty & The Heartbreakers/Anthology: Through The Years/1-02. American Girl.flac
+#EXTURL:file:///music/Compilation/Funk%20Gold/1-05.%20Rock%20Steady.flac
 #EXTINF:194,Rock Steady
-/music/Compilation/Funk Gold/1-05. Rock Steady.m4a
-#EXTURL:file:///music/Compilation/Funk%20Gold/1-07.%20Outa-Space.m4a
+/music/Compilation/Funk Gold/1-05. Rock Steady.flac
+#EXTURL:file:///music/Compilation/Funk%20Gold/1-07.%20Outa-Space.flac
 #EXTINF:250,Outa-Space
-/music/Compilation/Funk Gold/1-07. Outa-Space.m4a
-#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2018/08.%20Time%20Zones.m4a
+/music/Compilation/Funk Gold/1-07. Outa-Space.flac
+#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2018/08.%20Time%20Zones.flac
 #EXTINF:309,Time Zones
-/music/Compilation/KBCO/KBCO Studio C Volume 18/08. Time Zones.m4a
+/music/Compilation/KBCO/KBCO Studio C Volume 18/08. Time Zones.flac
 #EXTURL:file:///music/Compilation/Bloodshot%20Records/Bloodshot%20Records%20Sampler%207/01.%20Ain%27t%20No%20Hidin%27%20Love.m4a
 #EXTINF:250,Ain't No Hidin' Love
 /music/Compilation/Bloodshot Records/Bloodshot Records Sampler 7/01. Ain't No Hidin' Love.m4a
@@ -171,9 +171,9 @@
 #EXTURL:file:///music/c/Climax%20Blues%20Band/Rich%20Man/01.%20Rich%20Man.m4a
 #EXTINF:351,Rich Man
 /music/c/Climax Blues Band/Rich Man/01. Rich Man.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Playback%20[Box%20Set]/The%20Other%20Sides/01.%20Casa%20Dega.m4a
+#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Playback%20[Box%20Set]/The%20Other%20Sides/01.%20Casa%20Dega.flac
 #EXTINF:217,Casa Dega
-/music/t/Tom Petty & The Heartbreakers/Playback [Box Set]/The Other Sides/01. Casa Dega.m4a
+/music/t/Tom Petty & The Heartbreakers/Playback [Box Set]/The Other Sides/01. Casa Dega.flac
 #EXTURL:file:///music/l/Little%20Boys%20Blue/Bad%20Love/07.%20Cajun%20Girl.m4a
 #EXTINF:213,Cajun Girl
 /music/l/Little Boys Blue/Bad Love/07. Cajun Girl.m4a
@@ -186,27 +186,27 @@
 #EXTURL:file:///music/Compilation/Verve%20Remixed/09.%20See-Line%20Woman%20(Masters%20At%20Work%20Remix).mp3
 #EXTINF:605,See-Line Woman (Masters At Work Remix)
 /music/Compilation/Verve Remixed/09. See-Line Woman (Masters At Work Remix).mp3
-#EXTURL:file:///music/d/Doobie%20Brothers/Toulouse%20Street/02.%20Rockin%27%20Down%20The%20Highway.m4a
+#EXTURL:file:///music/d/Doobie%20Brothers/Toulouse%20Street/02.%20Rockin%27%20Down%20The%20Highway.flac
 #EXTINF:203,Rockin' Down The Highway
-/music/d/Doobie Brothers/Toulouse Street/02. Rockin' Down The Highway.m4a
+/music/d/Doobie Brothers/Toulouse Street/02. Rockin' Down The Highway.flac
 #EXTURL:file:///music/b/Bruce%20Cockburn/Dancing%20In%20The%20Dragon%27s%20Jaws/01.%20Creation%20Dream.m4a
 #EXTINF:247,Creation Dream
 /music/b/Bruce Cockburn/Dancing In The Dragon's Jaws/01. Creation Dream.m4a
-#EXTURL:file:///music/j/Jim%20Suhler/Bad%20JuJu/10.%20Lover%27s%20Curse.m4a
+#EXTURL:file:///music/j/Jim%20Suhler/Bad%20JuJu/10.%20Lover%27s%20Curse.flac
 #EXTINF:321,Lover's Curse
-/music/j/Jim Suhler/Bad JuJu/10. Lover's Curse.m4a
+/music/j/Jim Suhler/Bad JuJu/10. Lover's Curse.flac
 #EXTURL:file:///music/l/Leftover%20Salmon/Euphoria/04.%20River%27s%20Rising.m4a
 #EXTINF:239,River's Rising
 /music/l/Leftover Salmon/Euphoria/04. River's Rising.m4a
 #EXTURL:file:///music/h/Humble%20Pie/Performance:%20Rockin%27%20The%20Fillmore/07.%20I%20Don%27t%20Need%20No%20Doctor.m4a
 #EXTINF:555,I Don't Need No Doctor
 /music/h/Humble Pie/Performance: Rockin' The Fillmore/07. I Don't Need No Doctor.m4a
-#EXTURL:file:///music/j/John%20Hiatt/Hiatt%20Comes%20Alive%20At%20Budokan%3F/03.%20Memphis%20In%20The%20Meantime.m4a
+#EXTURL:file:///music/j/John%20Hiatt/Hiatt%20Comes%20Alive%20At%20Budokan%3F/03.%20Memphis%20In%20The%20Meantime.flac
 #EXTINF:278,Memphis In The Meantime
-/music/j/John Hiatt/Hiatt Comes Alive At Budokan?/03. Memphis In The Meantime.m4a
-#EXTURL:file:///music/k/Keith%20Richards/Main%20Offender/01.%20999.m4a
+/music/j/John Hiatt/Hiatt Comes Alive At Budokan?/03. Memphis In The Meantime.flac
+#EXTURL:file:///music/k/Keith%20Richards/Main%20Offender/01.%20999.flac
 #EXTINF:350,999
-/music/k/Keith Richards/Main Offender/01. 999.m4a
+/music/k/Keith Richards/Main Offender/01. 999.flac
 #EXTURL:file:///music/r/Radio%204/Gotham!/04.%20Struggle.m4a
 #EXTINF:193,Struggle
 /music/r/Radio 4/Gotham!/04. Struggle.m4a
@@ -222,9 +222,9 @@
 #EXTURL:file:///music/k/Kid%20Rock/Kid%20Rock/11.%20Son%20of%20Detroit.m4a
 #EXTINF:260,Son of Detroit
 /music/k/Kid Rock/Kid Rock/11. Son of Detroit.m4a
-#EXTURL:file:///music/r/R.E.M./Dead%20Letter%20Office/04.%20Voice%20of%20Harold.m4a
+#EXTURL:file:///music/r/R.E.M./Dead%20Letter%20Office/04.%20Voice%20of%20Harold.flac
 #EXTINF:265,Voice of Harold
-/music/r/R.E.M./Dead Letter Office/04. Voice of Harold.m4a
+/music/r/R.E.M./Dead Letter Office/04. Voice of Harold.flac
 #EXTURL:file:///music/j/Joe%20Cocker/Joe%20Cocker%27s%20Greatest%20Hits/08.%20Feelin%27%20Alright.m4a
 #EXTINF:254,Feelin' Alright
 /music/j/Joe Cocker/Joe Cocker's Greatest Hits/08. Feelin' Alright.m4a
@@ -273,18 +273,18 @@
 #EXTURL:file:///music/h/Head%20East/20th%20Century%20Masters%20The%20Millennium%20Collection:%20The%20Best%20of%20Head%20East/01.%20Never%20Been%20Any%20Reason.m4a
 #EXTINF:311,Never Been Any Reason
 /music/h/Head East/20th Century Masters The Millennium Collection: The Best of Head East/01. Never Been Any Reason.m4a
-#EXTURL:file:///music/j/John%20Lee%20Hooker/The%20Healer/01.%20The%20Healer.m4a
+#EXTURL:file:///music/j/John%20Lee%20Hooker/The%20Healer/01.%20The%20Healer.flac
 #EXTINF:339,The Healer
-/music/j/John Lee Hooker/The Healer/01. The Healer.m4a
+/music/j/John Lee Hooker/The Healer/01. The Healer.flac
 #EXTURL:file:///music/f/Fig%20Dish/When%20Shove%20Goes%20Back%20To%20Push/05.%20Bend.m4a
 #EXTINF:235,Bend
 /music/f/Fig Dish/When Shove Goes Back To Push/05. Bend.m4a
-#EXTURL:file:///music/m/Mott%20The%20Hoople/All%20The%20Young%20Dudes/03.%20All%20The%20Young%20Dudes.m4a
+#EXTURL:file:///music/m/Mott%20The%20Hoople/All%20The%20Young%20Dudes/03.%20All%20The%20Young%20Dudes.flac
 #EXTINF:212,All The Young Dudes
-/music/m/Mott The Hoople/All The Young Dudes/03. All The Young Dudes.m4a
-#EXTURL:file:///music/m/Mott%20The%20Hoople/All%20The%20Young%20Dudes/08.%20Ready%20For%20Love%20-%20After%20Lights.m4a
+/music/m/Mott The Hoople/All The Young Dudes/03. All The Young Dudes.flac
+#EXTURL:file:///music/m/Mott%20The%20Hoople/All%20The%20Young%20Dudes/08.%20Ready%20For%20Love%20-%20After%20Lights.flac
 #EXTINF:407,Ready For Love / After Lights
-/music/m/Mott The Hoople/All The Young Dudes/08. Ready For Love - After Lights.m4a
+/music/m/Mott The Hoople/All The Young Dudes/08. Ready For Love - After Lights.flac
 #EXTURL:file:///music/b/Bachman-Turner%20Overdrive/The%20Anthology/1-03.%20Hold%20Back%20The%20Water.m4a
 #EXTINF:304,Hold Back The Water
 /music/b/Bachman-Turner Overdrive/The Anthology/1-03. Hold Back The Water.m4a
@@ -351,12 +351,12 @@
 #EXTURL:file:///music/s/Shawn%20Kellerman/Land%20of%20a%201000%20Dreams/11.%20Verb.m4a
 #EXTINF:273,Verb
 /music/s/Shawn Kellerman/Land of a 1000 Dreams/11. Verb.m4a
-#EXTURL:file:///music/a/Albert%20King%20&%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/06.%20Blues%20At%20Sunrise.m4a
+#EXTURL:file:///music/a/Albert%20King%20&%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/06.%20Blues%20At%20Sunrise.flac
 #EXTINF:910,Blues At Sunrise
-/music/a/Albert King & Stevie Ray Vaughan/In Session (Live)/06. Blues At Sunrise.m4a
-#EXTURL:file:///music/a/Albert%20King%20&%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/11.%20Don%27t%20Lie%20To%20Me.m4a
+/music/a/Albert King & Stevie Ray Vaughan/In Session (Live)/06. Blues At Sunrise.flac
+#EXTURL:file:///music/a/Albert%20King%20&%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/11.%20Don%27t%20Lie%20To%20Me.flac
 #EXTINF:537,Don't Lie To Me
-/music/a/Albert King & Stevie Ray Vaughan/In Session (Live)/11. Don't Lie To Me.m4a
+/music/a/Albert King & Stevie Ray Vaughan/In Session (Live)/11. Don't Lie To Me.flac
 #EXTURL:file:///music/p/Peter%20Wolf/Sleepless/04.%20Never%20Like%20This%20Before.m4a
 #EXTINF:201,Never Like This Before
 /music/p/Peter Wolf/Sleepless/04. Never Like This Before.m4a
@@ -369,15 +369,15 @@
 #EXTURL:file:///music/c/Clash/From%20Here%20To%20Eternity/12.%20Train%20In%20Vain.m4a
 #EXTINF:283,Train In Vain
 /music/c/Clash/From Here To Eternity/12. Train In Vain.m4a
-#EXTURL:file:///music/m/Mark%20Knopfler/All%20The%20Roadrunning/01.%20Beachcombing.m4a
+#EXTURL:file:///music/m/Mark%20Knopfler/All%20The%20Roadrunning/01.%20Beachcombing.flac
 #EXTINF:254,Beachcombing
-/music/m/Mark Knopfler/All The Roadrunning/01. Beachcombing.m4a
+/music/m/Mark Knopfler/All The Roadrunning/01. Beachcombing.flac
 #EXTURL:file:///music/l/Lou%20Reed/Rock%20N%20Roll%20Animal/01.%20Intro%20-%20Sweet%20Jane.mp3
 #EXTINF:469,Intro / Sweet Jane
 /music/l/Lou Reed/Rock N Roll Animal/01. Intro - Sweet Jane.mp3
-#EXTURL:file:///music/i/Indigenous/Live%20At%20Pachyderm%20Studio/07.%20I%20Wonder%20Why.m4a
+#EXTURL:file:///music/i/Indigenous/Live%20At%20Pachyderm%20Studio/07.%20I%20Wonder%20Why.flac
 #EXTINF:603,I Wonder Why
-/music/i/Indigenous/Live At Pachyderm Studio/07. I Wonder Why.m4a
+/music/i/Indigenous/Live At Pachyderm Studio/07. I Wonder Why.flac
 #EXTURL:file:///music/j/John%20Mayall/Silver%20Tones%20-%20The%20Best%20of%20John%20Mayall%20&%20The%20Bluesbreakers/01.%20Mail%20Order%20Mystics.m4a
 #EXTINF:282,Mail Order Mystics
 /music/j/John Mayall/Silver Tones - The Best of John Mayall & The Bluesbreakers/01. Mail Order Mystics.m4a
@@ -405,9 +405,9 @@
 #EXTURL:file:///music/d/Doobie%20Brothers/Best%20of%20The%20Doobies/01.%20China%20Groove.m4a
 #EXTINF:194,China Groove
 /music/d/Doobie Brothers/Best of The Doobies/01. China Groove.m4a
-#EXTURL:file:///music/a/AC-DC/Backtracks/Backtracks:%20Studio%20Rarities/07.%20Cold%20Hearted%20Man.m4a
+#EXTURL:file:///music/a/AC-DC/Backtracks/Backtracks:%20Studio%20Rarities/07.%20Cold%20Hearted%20Man.flac
 #EXTINF:216,Cold Hearted Man
-/music/a/AC-DC/Backtracks/Backtracks: Studio Rarities/07. Cold Hearted Man.m4a
+/music/a/AC-DC/Backtracks/Backtracks: Studio Rarities/07. Cold Hearted Man.flac
 #EXTURL:file:///music/l/Leo%20Kottke/The%20Best/2-04.%20Stealing.mp3
 #EXTINF:157,Stealing
 /music/l/Leo Kottke/The Best/2-04. Stealing.mp3
@@ -465,9 +465,9 @@
 #EXTURL:file:///music/b/Buddaheads/Howlin%27%20At%20The%20Moon/08.%20Train%20Train.m4a
 #EXTINF:245,Train Train
 /music/b/Buddaheads/Howlin' At The Moon/08. Train Train.m4a
-#EXTURL:file:///music/r/Runaways/The%20Runaways/01.%20Cherry%20Bomb.m4a
+#EXTURL:file:///music/r/Runaways/The%20Runaways/01.%20Cherry%20Bomb.flac
 #EXTINF:140,Cherry Bomb
-/music/r/Runaways/The Runaways/01. Cherry Bomb.m4a
+/music/r/Runaways/The Runaways/01. Cherry Bomb.flac
 #EXTURL:file:///music/t/Thomas%20Dolby/The%20Golden%20Age%20of%20Wireless/01.%20She%20Blinded%20Me%20With%20Science.m4a
 #EXTINF:222,She Blinded Me With Science
 /music/t/Thomas Dolby/The Golden Age of Wireless/01. She Blinded Me With Science.m4a
@@ -477,27 +477,27 @@
 #EXTURL:file:///music/e/Etta%20James/The%20Essential%20Etta%20James/2-03.%20Do%20I%20Make%20Myself%20Clear.m4a
 #EXTINF:181,Do I Make Myself Clear
 /music/e/Etta James/The Essential Etta James/2-03. Do I Make Myself Clear.m4a
-#EXTURL:file:///music/b/BossHoss/Internashville%20Urban%20Hymns/01.%20Yee%20Haw!.m4a
+#EXTURL:file:///music/b/BossHoss/Internashville%20Urban%20Hymns/01.%20Yee%20Haw!.flac
 #EXTINF:204,Yee Haw!
-/music/b/BossHoss/Internashville Urban Hymns/01. Yee Haw!.m4a
-#EXTURL:file:///music/m/Mudcrutch/Mudcrutch/01.%20Shady%20Grove.m4a
+/music/b/BossHoss/Internashville Urban Hymns/01. Yee Haw!.flac
+#EXTURL:file:///music/m/Mudcrutch/Mudcrutch/01.%20Shady%20Grove.flac
 #EXTINF:238,Shady Grove
-/music/m/Mudcrutch/Mudcrutch/01. Shady Grove.m4a
-#EXTURL:file:///music/m/Mudcrutch/Mudcrutch/13.%20Bootleg%20Flyer.m4a
+/music/m/Mudcrutch/Mudcrutch/01. Shady Grove.flac
+#EXTURL:file:///music/m/Mudcrutch/Mudcrutch/13.%20Bootleg%20Flyer.flac
 #EXTINF:228,Bootleg Flyer
-/music/m/Mudcrutch/Mudcrutch/13. Bootleg Flyer.m4a
+/music/m/Mudcrutch/Mudcrutch/13. Bootleg Flyer.flac
 #EXTURL:file:///music/g/Grateful%20Dead/The%20Best%20of%20The%20Grateful%20Dead/1-12.%20Sugar%20Magnolia.m4a
 #EXTINF:197,Sugar Magnolia
 /music/g/Grateful Dead/The Best of The Grateful Dead/1-12. Sugar Magnolia.m4a
 #EXTURL:file:///music/t/Ted%20Nugent/Cat%20Scratch%20Fever/05.%20Homebound.m4a
 #EXTINF:284,Homebound
 /music/t/Ted Nugent/Cat Scratch Fever/05. Homebound.m4a
-#EXTURL:file:///music/s/Stevie%20Nicks/The%20Wild%20Heart/07.%20I%20Will%20Run%20To%20You.m4a
+#EXTURL:file:///music/s/Stevie%20Nicks/The%20Wild%20Heart/07.%20I%20Will%20Run%20To%20You.flac
 #EXTINF:202,I Will Run To You
-/music/s/Stevie Nicks/The Wild Heart/07. I Will Run To You.m4a
-#EXTURL:file:///music/e/Eric%20Clapton/Eric%20Clapton%27s%20Rainbow%20Concert/13.%20Let%20It%20Rain.m4a
+/music/s/Stevie Nicks/The Wild Heart/07. I Will Run To You.flac
+#EXTURL:file:///music/e/Eric%20Clapton/Eric%20Clapton%27s%20Rainbow%20Concert/13.%20Let%20It%20Rain.flac
 #EXTINF:466,Let It Rain
-/music/e/Eric Clapton/Eric Clapton's Rainbow Concert/13. Let It Rain.m4a
+/music/e/Eric Clapton/Eric Clapton's Rainbow Concert/13. Let It Rain.flac
 #EXTURL:file:///music/Compilation/%2770%20Soul%20Number%201%27s/04.%20Theme%20From%20%22Which%20Way%20Is%20Up%22.m4a
 #EXTINF:187,Theme From "Which Way Is Up"
 /music/Compilation/'70 Soul Number 1's/04. Theme From "Which Way Is Up".m4a
@@ -507,15 +507,15 @@
 #EXTURL:file:///music/d/David%20Rawlings/Singles/03.%20Cumberland%20Gap.m4a
 #EXTINF:176,Cumberland Gap
 /music/d/David Rawlings/Singles/03. Cumberland Gap.m4a
-#EXTURL:file:///music/c/Corey%20Stevens/Blue%20Drops%20of%20Rain/02.%20Blue%20Drops%20of%20Rain.m4a
+#EXTURL:file:///music/c/Corey%20Stevens/Blue%20Drops%20of%20Rain/02.%20Blue%20Drops%20of%20Rain.flac
 #EXTINF:282,Blue Drops of Rain
-/music/c/Corey Stevens/Blue Drops of Rain/02. Blue Drops of Rain.m4a
+/music/c/Corey Stevens/Blue Drops of Rain/02. Blue Drops of Rain.flac
 #EXTURL:file:///music/s/Siouxsie%20&%20The%20Banshees/The%20Best%20of%20Siouxsie%20&%20The%20Banshees/14.%20The%20Killing%20Jar.m4a
 #EXTINF:239,The Killing Jar
 /music/s/Siouxsie & The Banshees/The Best of Siouxsie & The Banshees/14. The Killing Jar.m4a
-#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2011/06.%20Spooky.m4a
+#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2011/06.%20Spooky.flac
 #EXTINF:230,Spooky
-/music/Compilation/KBCO/KBCO Studio C Volume 11/06. Spooky.m4a
+/music/Compilation/KBCO/KBCO Studio C Volume 11/06. Spooky.flac
 #EXTURL:file:///music/d/Divinyls/Greatest%20Hits/14.%20I%20Touch%20Myself.mp3
 #EXTINF:227,I Touch Myself
 /music/d/Divinyls/Greatest Hits/14. I Touch Myself.mp3
@@ -528,9 +528,9 @@
 #EXTURL:file:///music/p/Primitive%20Radio%20Gods/Rocket/03.%20Standing%20Outside%20A%20Broken%20Phone%20Booth%20With%20Money%20In%20My%20Hand.m4a
 #EXTINF:336,Standing Outside A Broken Phone Booth With Money In My Hand
 /music/p/Primitive Radio Gods/Rocket/03. Standing Outside A Broken Phone Booth With Money In My Hand.m4a
-#EXTURL:file:///music/c/Counting%20Crows/Films%20About%20Ghosts:%20The%20Best%20of.../10.%20Big%20Yellow%20Taxi.m4a
+#EXTURL:file:///music/c/Counting%20Crows/Films%20About%20Ghosts:%20The%20Best%20of.../10.%20Big%20Yellow%20Taxi.flac
 #EXTINF:226,Big Yellow Taxi
-/music/c/Counting Crows/Films About Ghosts: The Best of.../10. Big Yellow Taxi.m4a
+/music/c/Counting Crows/Films About Ghosts: The Best of.../10. Big Yellow Taxi.flac
 #EXTURL:file:///music/g/Greg%20Kihn%20Band/%22Best%20of%20Beserkley%22%20%2775%20-%20%2784/17.%20Jeopardy.m4a
 #EXTINF:229,Jeopardy
 /music/g/Greg Kihn Band/"Best of Beserkley" '75 - '84/17. Jeopardy.m4a
@@ -558,18 +558,18 @@
 #EXTURL:file:///music/s/Storm%20Warning/Something%20Real/03.%20Charlie%27s%20Blues.m4a
 #EXTINF:331,Charlie's Blues
 /music/s/Storm Warning/Something Real/03. Charlie's Blues.m4a
-#EXTURL:file:///music/d/Deep%20Purple/Perfect%20Strangers/03.%20Nobody%27s%20Home.m4a
+#EXTURL:file:///music/d/Deep%20Purple/Perfect%20Strangers/03.%20Nobody%27s%20Home.flac
 #EXTINF:239,Nobody's Home
-/music/d/Deep Purple/Perfect Strangers/03. Nobody's Home.m4a
-#EXTURL:file:///music/m/Melissa%20Etheridge/Melissa%20Etheridge/03.%20Like%20The%20Way%20I%20Do.m4a
+/music/d/Deep Purple/Perfect Strangers/03. Nobody's Home.flac
+#EXTURL:file:///music/m/Melissa%20Etheridge/Melissa%20Etheridge/03.%20Like%20The%20Way%20I%20Do.flac
 #EXTINF:325,Like The Way I Do
-/music/m/Melissa Etheridge/Melissa Etheridge/03. Like The Way I Do.m4a
-#EXTURL:file:///music/j/Jonny%20Lang/Lie%20To%20Me/03.%20Good%20Morning%20Little%20School%20Girl.m4a
+/music/m/Melissa Etheridge/Melissa Etheridge/03. Like The Way I Do.flac
+#EXTURL:file:///music/j/Jonny%20Lang/Lie%20To%20Me/03.%20Good%20Morning%20Little%20School%20Girl.flac
 #EXTINF:254,Good Morning Little School Girl
-/music/j/Jonny Lang/Lie To Me/03. Good Morning Little School Girl.m4a
-#EXTURL:file:///music/j/Jonny%20Lang/Lie%20To%20Me/01.%20Lie%20To%20Me.m4a
+/music/j/Jonny Lang/Lie To Me/03. Good Morning Little School Girl.flac
+#EXTURL:file:///music/j/Jonny%20Lang/Lie%20To%20Me/01.%20Lie%20To%20Me.flac
 #EXTINF:251,Lie To Me
-/music/j/Jonny Lang/Lie To Me/01. Lie To Me.m4a
+/music/j/Jonny Lang/Lie To Me/01. Lie To Me.flac
 #EXTURL:file:///music/s/Soup%20Dragons/Lovegod/01.%20I%27m%20Free.m4a
 #EXTINF:238,I'm Free
 /music/s/Soup Dragons/Lovegod/01. I'm Free.m4a
@@ -591,12 +591,12 @@
 #EXTURL:file:///music/Soundtracks/The%20Waterboy/05.%20Peace%20Frog.mp3
 #EXTINF:177,Peace Frog
 /music/Soundtracks/The Waterboy/05. Peace Frog.mp3
-#EXTURL:file:///music/r/Refreshments/Fizzy%20Fuzzy%20Big%20&%20Buzzy/04.%20Mekong.m4a
+#EXTURL:file:///music/r/Refreshments/Fizzy%20Fuzzy%20Big%20&%20Buzzy/04.%20Mekong.flac
 #EXTINF:275,Mekong
-/music/r/Refreshments/Fizzy Fuzzy Big & Buzzy/04. Mekong.m4a
-#EXTURL:file:///music/r/Refreshments/Fizzy%20Fuzzy%20Big%20&%20Buzzy/02.%20European%20Swallow.m4a
+/music/r/Refreshments/Fizzy Fuzzy Big & Buzzy/04. Mekong.flac
+#EXTURL:file:///music/r/Refreshments/Fizzy%20Fuzzy%20Big%20&%20Buzzy/02.%20European%20Swallow.flac
 #EXTINF:273,European Swallow
-/music/r/Refreshments/Fizzy Fuzzy Big & Buzzy/02. European Swallow.m4a
+/music/r/Refreshments/Fizzy Fuzzy Big & Buzzy/02. European Swallow.flac
 #EXTURL:file:///music/d/Delta%20Moon/Howlin%27/01.%20You%20Don%27t%20Have%20To%20Go.m4a
 #EXTINF:254,You Don't Have To Go
 /music/d/Delta Moon/Howlin'/01. You Don't Have To Go.m4a
@@ -615,42 +615,42 @@
 #EXTURL:file:///music/l/Lynyrd%20Skynyrd/Second%20Helping%20(Remastered)/03.%20Don%27t%20Ask%20Me%20No%20Questions.m4a
 #EXTINF:206,Don't Ask Me No Questions
 /music/l/Lynyrd Skynyrd/Second Helping (Remastered)/03. Don't Ask Me No Questions.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/06.%20Please%20Don%27t%20Tell%20Her.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/06.%20Please%20Don%27t%20Tell%20Her.flac
 #EXTINF:247,Please Don't Tell Her
-/music/b/Big Head Todd & The Monsters/Beautiful World/06. Please Don't Tell Her.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/01.%20Resignation%20Superman.m4a
+/music/b/Big Head Todd & The Monsters/Beautiful World/06. Please Don't Tell Her.flac
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/01.%20Resignation%20Superman.flac
 #EXTINF:243,Resignation Superman
-/music/b/Big Head Todd & The Monsters/Beautiful World/01. Resignation Superman.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/03.%20Crazy%20Mary.m4a
+/music/b/Big Head Todd & The Monsters/Beautiful World/01. Resignation Superman.flac
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Beautiful%20World/03.%20Crazy%20Mary.flac
 #EXTINF:284,Crazy Mary
-/music/b/Big Head Todd & The Monsters/Beautiful World/03. Crazy Mary.m4a
+/music/b/Big Head Todd & The Monsters/Beautiful World/03. Crazy Mary.flac
 #EXTURL:file:///music/k/Kirsten%20Thien/Delicious/11.%20Get%20Outta%20The%20Funk,%20Get%20Into%20The%20Groove.m4a
 #EXTINF:224,Get Outta The Funk, Get Into The Groove
 /music/k/Kirsten Thien/Delicious/11. Get Outta The Funk, Get Into The Groove.m4a
 #EXTURL:file:///music/k/Kirsten%20Thien/Delicious/03.%20Please%20Drive%20(Feat.%20Hubert%20Sumlin).m4a
 #EXTINF:313,Please Drive (Feat. Hubert Sumlin)
 /music/k/Kirsten Thien/Delicious/03. Please Drive (Feat. Hubert Sumlin).m4a
-#EXTURL:file:///music/b/Blackfoot/Rattlesnake%20Rock%20%27N%27%20Roll:%20The%20Best%20of%20Blackfoot/04.%20Train,%20Train.m4a
+#EXTURL:file:///music/b/Blackfoot/Rattlesnake%20Rock%20%27N%27%20Roll:%20The%20Best%20of%20Blackfoot/04.%20Train,%20Train.flac
 #EXTINF:217,Train, Train
-/music/b/Blackfoot/Rattlesnake Rock 'N' Roll: The Best of Blackfoot/04. Train, Train.m4a
+/music/b/Blackfoot/Rattlesnake Rock 'N' Roll: The Best of Blackfoot/04. Train, Train.flac
 #EXTURL:file:///music/n/New%20Order/(the%20best%20of)%20New%20Order/01.%20True%20Faith-94.mp3
 #EXTINF:335,True Faith-94
 /music/n/New Order/(the best of) New Order/01. True Faith-94.mp3
-#EXTURL:file:///music/a/Amy%20Winehouse/Back%20To%20Black/01.%20Rehab.m4a
+#EXTURL:file:///music/a/Amy%20Winehouse/Back%20To%20Black/01.%20Rehab.flac
 #EXTINF:214,Rehab
-/music/a/Amy Winehouse/Back To Black/01. Rehab.m4a
+/music/a/Amy Winehouse/Back To Black/01. Rehab.flac
 #EXTURL:file:///music/Compilation/Blues%20Gold/2-12.%20Flood%20Down%20In%20Texas.m4a
 #EXTINF:624,Flood Down In Texas
 /music/Compilation/Blues Gold/2-12. Flood Down In Texas.m4a
 #EXTURL:file:///music/m/Mason%20Ruffner/Gypsy%20Blood/01.%20Gypsy%20Blood.m4a
 #EXTINF:275,Gypsy Blood
 /music/m/Mason Ruffner/Gypsy Blood/01. Gypsy Blood.m4a
-#EXTURL:file:///music/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Smokin%27%20O.P.%27s/06.%20Turn%20On%20Your%20Love%20Light.m4a
+#EXTURL:file:///music/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Smokin%27%20O.P.%27s/06.%20Turn%20On%20Your%20Love%20Light.flac
 #EXTINF:284,Turn On Your Love Light
-/music/b/Bob Seger & The Silver Bullet Band/Smokin' O.P.'s/06. Turn On Your Love Light.m4a
-#EXTURL:file:///music/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Smokin%27%20O.P.%27s/01.%20Bo%20Diddley.m4a
+/music/b/Bob Seger & The Silver Bullet Band/Smokin' O.P.'s/06. Turn On Your Love Light.flac
+#EXTURL:file:///music/b/Bob%20Seger%20&%20The%20Silver%20Bullet%20Band/Smokin%27%20O.P.%27s/01.%20Bo%20Diddley.flac
 #EXTINF:377,Bo Diddley
-/music/b/Bob Seger & The Silver Bullet Band/Smokin' O.P.'s/01. Bo Diddley.m4a
+/music/b/Bob Seger & The Silver Bullet Band/Smokin' O.P.'s/01. Bo Diddley.flac
 #EXTURL:file:///music/Compilation/Goin%27%20South/Goin%27%20South%20Disc%20I/05.%20Keep%20Your%20Hands%20To%20Yourself.mp3
 #EXTINF:205,Keep Your Hands To Yourself
 /music/Compilation/Goin' South/Goin' South Disc I/05. Keep Your Hands To Yourself.mp3
@@ -678,12 +678,12 @@
 #EXTURL:file:///music/t/Tommy%20Castro/Guilty%20of%20Love/08.%20Naugahyde.flac
 #EXTINF:238,Naugahyde
 /music/t/Tommy Castro/Guilty of Love/08. Naugahyde.flac
-#EXTURL:file:///music/t/Traffic/The%20Low%20Spark%20of%20High%20Heeled%20Boys/03.%20Rock%20&%20Roll%20Stew.m4a
+#EXTURL:file:///music/t/Traffic/The%20Low%20Spark%20of%20High%20Heeled%20Boys/03.%20Rock%20&%20Roll%20Stew.flac
 #EXTINF:261,Rock & Roll Stew
-/music/t/Traffic/The Low Spark of High Heeled Boys/03. Rock & Roll Stew.m4a
-#EXTURL:file:///music/t/Traffic/The%20Low%20Spark%20of%20High%20Heeled%20Boys/02.%20The%20Low%20Spark%20of%20High-Heeled%20Boys.m4a
+/music/t/Traffic/The Low Spark of High Heeled Boys/03. Rock & Roll Stew.flac
+#EXTURL:file:///music/t/Traffic/The%20Low%20Spark%20of%20High%20Heeled%20Boys/02.%20The%20Low%20Spark%20of%20High-Heeled%20Boys.flac
 #EXTINF:699,The Low Spark of High-Heeled Boys
-/music/t/Traffic/The Low Spark of High Heeled Boys/02. The Low Spark of High-Heeled Boys.m4a
+/music/t/Traffic/The Low Spark of High Heeled Boys/02. The Low Spark of High-Heeled Boys.flac
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/High%20Grass%20Dogs:%20Live%20From%20The%20Fillmore/08.%20Mona%20(Featuring%20Bo%20Diddley).mp3
 #EXTINF:345,Mona (Featuring Bo Diddley)
 /music/t/Tom Petty & The Heartbreakers/High Grass Dogs: Live From The Fillmore/08. Mona (Featuring Bo Diddley).mp3
@@ -702,30 +702,30 @@
 #EXTURL:file:///music/t/Toby%20Keith/Pull%20My%20Chain/06.%20Pull%20My%20Chain.m4a
 #EXTINF:238,Pull My Chain
 /music/t/Toby Keith/Pull My Chain/06. Pull My Chain.m4a
-#EXTURL:file:///music/j/Junior%20Wells/You%27re%20Tuff%20Enough:%20The%20Blue%20Rock%20Studio%20Recordings/14.%20It%27s%20A%20Man%20Down%20There.m4a
+#EXTURL:file:///music/j/Junior%20Wells/You%27re%20Tuff%20Enough:%20The%20Blue%20Rock%20Studio%20Recordings/14.%20It%27s%20A%20Man%20Down%20There.flac
 #EXTINF:131,It's A Man Down There
-/music/j/Junior Wells/You're Tuff Enough: The Blue Rock Studio Recordings/14. It's A Man Down There.m4a
-#EXTURL:file:///music/t/The%20Move/Hits%20&%20Rarities%20-%20Singles%20A%27s%20&%20B%27s/18.%20Brontosaurus.m4a
+/music/j/Junior Wells/You're Tuff Enough: The Blue Rock Studio Recordings/14. It's A Man Down There.flac
+#EXTURL:file:///music/t/The%20Move/Hits%20&%20Rarities%20-%20Singles%20A%27s%20&%20B%27s/18.%20Brontosaurus.flac
 #EXTINF:266,Brontosaurus
-/music/t/The Move/Hits & Rarities - Singles A's & B's/18. Brontosaurus.m4a
+/music/t/The Move/Hits & Rarities - Singles A's & B's/18. Brontosaurus.flac
 #EXTURL:file:///music/k/Kelly%20Richey/Sending%20Me%20Angels/03.%20Nobody%27s%20Fault%20But%20Mine.m4a
 #EXTINF:389,Nobody's Fault But Mine
 /music/k/Kelly Richey/Sending Me Angels/03. Nobody's Fault But Mine.m4a
 #EXTURL:file:///music/k/Kelly%20Richey/Sending%20Me%20Angels/03.%20Nobody%27s%20Fault%20But%20Mine.m4a
 #EXTINF:389,Nobody's Fault But Mine
 /music/k/Kelly Richey/Sending Me Angels/03. Nobody's Fault But Mine.m4a
-#EXTURL:file:///music/t/Tommy%20Tutone/Tommy%20Tutone%202/01.%20867-5309%20-%20Jenny.m4a
+#EXTURL:file:///music/t/Tommy%20Tutone/Tommy%20Tutone%202/01.%20867-5309%20-%20Jenny.flac
 #EXTINF:226,867-5309 / Jenny
-/music/t/Tommy Tutone/Tommy Tutone 2/01. 867-5309 - Jenny.m4a
+/music/t/Tommy Tutone/Tommy Tutone 2/01. 867-5309 - Jenny.flac
 #EXTURL:file:///music/p/Presidents%20of%20The%20United%20States%20of%20America/The%20Presidents%20of%20The%20United%20States%20of%20America/11.%20Back%20Porch.m4a
 #EXTINF:179,Back Porch
 /music/p/Presidents of The United States of America/The Presidents of The United States of America/11. Back Porch.m4a
 #EXTURL:file:///music/m/Mahogany%20Rush/Mahogany%20Rush%20IV/06.%20Dragonfly.m4a
 #EXTINF:307,Dragonfly
 /music/m/Mahogany Rush/Mahogany Rush IV/06. Dragonfly.m4a
-#EXTURL:file:///music/r/Rolling%20Stones/Undercover/02.%20She%20Was%20Hot.m4a
+#EXTURL:file:///music/r/Rolling%20Stones/Undercover/02.%20She%20Was%20Hot.flac
 #EXTINF:281,She Was Hot
-/music/r/Rolling Stones/Undercover/02. She Was Hot.m4a
+/music/r/Rolling Stones/Undercover/02. She Was Hot.flac
 #EXTURL:file:///music/h/Howard%20Jones/Best%20of%20Howard%20Jones/05.%20Things%20Can%20Only%20Get%20Better.m4a
 #EXTINF:243,Things Can Only Get Better
 /music/h/Howard Jones/Best of Howard Jones/05. Things Can Only Get Better.m4a
@@ -738,9 +738,9 @@
 #EXTURL:file:///music/Compilation/Sounds%20of%20The%20Eighties/1982/14.%20I%20Ran%20(So%20Far%20Away).m4a
 #EXTINF:220,I Ran (So Far Away)
 /music/Compilation/Sounds of The Eighties/1982/14. I Ran (So Far Away).m4a
-#EXTURL:file:///music/b/Bluesville%20Station/Step%20On%20The%20Gas/04.%20Big%20Bottom%20Baby.m4a
+#EXTURL:file:///music/b/Bluesville%20Station/Step%20On%20The%20Gas/04.%20Big%20Bottom%20Baby.flac
 #EXTINF:236,Big Bottom Baby
-/music/b/Bluesville Station/Step On The Gas/04. Big Bottom Baby.m4a
+/music/b/Bluesville Station/Step On The Gas/04. Big Bottom Baby.flac
 #EXTURL:file:///music/f/Fixx/Extended%20Versions/10.%20Driven%20Out%20(Acoustic).mp3
 #EXTINF:373,Driven Out (Acoustic)
 /music/f/Fixx/Extended Versions/10. Driven Out (Acoustic).mp3
@@ -753,12 +753,12 @@
 #EXTURL:file:///music/p/Paul%20Ramirez%20Band/Sex%20With%20A%20Dragon/03.%20Down%20Slow.mp3
 #EXTINF:267,Down Slow
 /music/p/Paul Ramirez Band/Sex With A Dragon/03. Down Slow.mp3
-#EXTURL:file:///music/r/Ronnie%20Earl%20&%20Duke%20Robillard/The%20Duke%20Meets%20The%20Earl/07.%20I%20Need%20You%20So%20Bad.m4a
+#EXTURL:file:///music/r/Ronnie%20Earl%20&%20Duke%20Robillard/The%20Duke%20Meets%20The%20Earl/07.%20I%20Need%20You%20So%20Bad.flac
 #EXTINF:496,I Need You So Bad
-/music/r/Ronnie Earl & Duke Robillard/The Duke Meets The Earl/07. I Need You So Bad.m4a
-#EXTURL:file:///music/r/Ronnie%20Earl%20&%20Duke%20Robillard/The%20Duke%20Meets%20The%20Earl/05.%20What%20Have%20I%20Done%20Wrong.m4a
+/music/r/Ronnie Earl & Duke Robillard/The Duke Meets The Earl/07. I Need You So Bad.flac
+#EXTURL:file:///music/r/Ronnie%20Earl%20&%20Duke%20Robillard/The%20Duke%20Meets%20The%20Earl/05.%20What%20Have%20I%20Done%20Wrong.flac
 #EXTINF:405,What Have I Done Wrong
-/music/r/Ronnie Earl & Duke Robillard/The Duke Meets The Earl/05. What Have I Done Wrong.m4a
+/music/r/Ronnie Earl & Duke Robillard/The Duke Meets The Earl/05. What Have I Done Wrong.flac
 #EXTURL:file:///music/t/Terence%20Trent%20Darby/Singles/Wishing%20Well.m4a
 #EXTINF:211,Wishing Well
 /music/t/Terence Trent Darby/Singles/Wishing Well.m4a
@@ -768,9 +768,9 @@
 #EXTURL:file:///music/d/Dire%20Straits/Dire%20Straits/02.%20Water%20of%20Love.m4a
 #EXTINF:330,Water of Love
 /music/d/Dire Straits/Dire Straits/02. Water of Love.m4a
-#EXTURL:file:///music/l/Lynyrd%20Skynyrd/Street%20Survivors%20(Deluxe%20Edition)/2-01.%20What%27s%20Your%20Name.m4a
+#EXTURL:file:///music/l/Lynyrd%20Skynyrd/Street%20Survivors%20(Deluxe%20Edition)/2-01.%20What%27s%20Your%20Name.flac
 #EXTINF:213,What's Your Name
-/music/l/Lynyrd Skynyrd/Street Survivors (Deluxe Edition)/2-01. What's Your Name.m4a
+/music/l/Lynyrd Skynyrd/Street Survivors (Deluxe Edition)/2-01. What's Your Name.flac
 #EXTURL:file:///music/r/Rory%20Gallagher/Top%20Priority/03.%20Wayward%20Child.m4a
 #EXTINF:208,Wayward Child
 /music/r/Rory Gallagher/Top Priority/03. Wayward Child.m4a
@@ -804,9 +804,9 @@
 #EXTURL:file:///music/a/Alarm/Eye%20of%20The%20Hurricane/01.%20Rain%20In%20The%20Summertime.m4a
 #EXTINF:314,Rain In The Summertime
 /music/a/Alarm/Eye of The Hurricane/01. Rain In The Summertime.m4a
-#EXTURL:file:///music/b/Bonnie%20Raitt/Luck%20of%20The%20Draw/01.%20Something%20To%20Talk%20About.m4a
+#EXTURL:file:///music/b/Bonnie%20Raitt/Luck%20of%20The%20Draw/01.%20Something%20To%20Talk%20About.flac
 #EXTINF:227,Something To Talk About
-/music/b/Bonnie Raitt/Luck of The Draw/01. Something To Talk About.m4a
+/music/b/Bonnie Raitt/Luck of The Draw/01. Something To Talk About.flac
 #EXTURL:file:///music/g/Grinderswitch/Ghost%20Train%20From%20Georgia/01.%20Where%27d%20You%20Learn%20To%20Love%20(Like%20This).m4a
 #EXTINF:297,Where'd You Learn To Love (Like This)
 /music/g/Grinderswitch/Ghost Train From Georgia/01. Where'd You Learn To Love (Like This).m4a
@@ -822,15 +822,15 @@
 #EXTURL:file:///music/d/Donald%20Fagen/Kamakiriad/01.%20Trans-Island%20Skyway.m4a
 #EXTINF:390,Trans-Island Skyway
 /music/d/Donald Fagen/Kamakiriad/01. Trans-Island Skyway.m4a
-#EXTURL:file:///music/b/Bob%20Marley/Legend/05.%20Buffalo%20Soldier.m4a
+#EXTURL:file:///music/b/Bob%20Marley/Legend/05.%20Buffalo%20Soldier.flac
 #EXTINF:164,Buffalo Soldier
-/music/b/Bob Marley/Legend/05. Buffalo Soldier.m4a
-#EXTURL:file:///music/j/John%20Mellencamp/The%20Best%20That%20I%20Could%20Do:%201978-1988/06.%20Pink%20Houses.m4a
+/music/b/Bob Marley/Legend/05. Buffalo Soldier.flac
+#EXTURL:file:///music/j/John%20Mellencamp/The%20Best%20That%20I%20Could%20Do:%201978-1988/06.%20Pink%20Houses.flac
 #EXTINF:284,Pink Houses
-/music/j/John Mellencamp/The Best That I Could Do: 1978-1988/06. Pink Houses.m4a
-#EXTURL:file:///music/j/John%20Mellencamp/The%20Best%20That%20I%20Could%20Do:%201978-1988/04.%20Jack%20And%20Diane.m4a
+/music/j/John Mellencamp/The Best That I Could Do: 1978-1988/06. Pink Houses.flac
+#EXTURL:file:///music/j/John%20Mellencamp/The%20Best%20That%20I%20Could%20Do:%201978-1988/04.%20Jack%20And%20Diane.flac
 #EXTINF:255,Jack And Diane
-/music/j/John Mellencamp/The Best That I Could Do: 1978-1988/04. Jack And Diane.m4a
+/music/j/John Mellencamp/The Best That I Could Do: 1978-1988/04. Jack And Diane.flac
 #EXTURL:file:///music/e/Eurythmics/Greatest%20Hits/05.%20Would%20I%20Lie%20To%20You%3F.m4a
 #EXTINF:263,Would I Lie To You?
 /music/e/Eurythmics/Greatest Hits/05. Would I Lie To You?.m4a
@@ -885,18 +885,18 @@
 #EXTURL:file:///music/b/Black%20Box/Singles/01.%20Everybody%20Everybody.m4a
 #EXTINF:247,Everybody Everybody
 /music/b/Black Box/Singles/01. Everybody Everybody.m4a
-#EXTURL:file:///music/d/Dandy%20Warhols/This%20Machine/01.%20Sad%20Vacation.m4a
+#EXTURL:file:///music/d/Dandy%20Warhols/This%20Machine/01.%20Sad%20Vacation.flac
 #EXTINF:268,Sad Vacation
-/music/d/Dandy Warhols/This Machine/01. Sad Vacation.m4a
+/music/d/Dandy Warhols/This Machine/01. Sad Vacation.flac
 #EXTURL:file:///music/b/Bjork/Debut/01.%20Human%20Behaviour.m4a
 #EXTINF:252,Human Behaviour
 /music/b/Bjork/Debut/01. Human Behaviour.m4a
 #EXTURL:file:///music/m/Meena/Tell%20Me/11.%20Where%20Is%20Your%20Love%20Gone.m4a
 #EXTINF:264,Where Is Your Love Gone
 /music/m/Meena/Tell Me/11. Where Is Your Love Gone.m4a
-#EXTURL:file:///music/t/Tab%20Benoit/Fever%20For%20The%20Bayou/08.%20The%20Blues%20Is%20Here%20To%20Stay.m4a
+#EXTURL:file:///music/t/Tab%20Benoit/Fever%20For%20The%20Bayou/08.%20The%20Blues%20Is%20Here%20To%20Stay.flac
 #EXTINF:362,The Blues Is Here To Stay
-/music/t/Tab Benoit/Fever For The Bayou/08. The Blues Is Here To Stay.m4a
+/music/t/Tab Benoit/Fever For The Bayou/08. The Blues Is Here To Stay.flac
 #EXTURL:file:///music/a/Aimee%20Mann/I%27m%20With%20Stupid/02.%20Choice%20In%20The%20Matter.m4a
 #EXTINF:193,Choice In The Matter
 /music/a/Aimee Mann/I'm With Stupid/02. Choice In The Matter.m4a
@@ -933,12 +933,12 @@
 #EXTURL:file:///music/c/Chris%20Isaak/Heart%20Shaped%20World/05.%20Wicked%20Game.m4a
 #EXTINF:289,Wicked Game
 /music/c/Chris Isaak/Heart Shaped World/05. Wicked Game.m4a
-#EXTURL:file:///music/d/Derek%20&%20The%20Dominos/Layla%20&%20Other%20Assorted%20Love%20Songs/13.%20Layla.m4a
+#EXTURL:file:///music/d/Derek%20&%20The%20Dominos/Layla%20&%20Other%20Assorted%20Love%20Songs/13.%20Layla.flac
 #EXTINF:425,Layla
-/music/d/Derek & The Dominos/Layla & Other Assorted Love Songs/13. Layla.m4a
-#EXTURL:file:///music/d/Derek%20&%20The%20Dominos/Layla%20&%20Other%20Assorted%20Love%20Songs/03.%20Keep%20On%20Growing.m4a
+/music/d/Derek & The Dominos/Layla & Other Assorted Love Songs/13. Layla.flac
+#EXTURL:file:///music/d/Derek%20&%20The%20Dominos/Layla%20&%20Other%20Assorted%20Love%20Songs/03.%20Keep%20On%20Growing.flac
 #EXTINF:382,Keep On Growing
-/music/d/Derek & The Dominos/Layla & Other Assorted Love Songs/03. Keep On Growing.m4a
+/music/d/Derek & The Dominos/Layla & Other Assorted Love Songs/03. Keep On Growing.flac
 #EXTURL:file:///music/c/Chayce%20Beckham/23%20-%20Single/01.%2023.m4a
 #EXTINF:228,23
 /music/c/Chayce Beckham/23 - Single/01. 23.m4a
@@ -951,12 +951,12 @@
 #EXTURL:file:///music/s/Sonny%20Moorman%20Group/Live%20As%20Hell/10.%20Key%20To%20The%20Highway.m4a
 #EXTINF:313,Key To The Highway
 /music/s/Sonny Moorman Group/Live As Hell/10. Key To The Highway.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Strategem/06.%20Angel%20Leads%20Me%20On.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Strategem/06.%20Angel%20Leads%20Me%20On.flac
 #EXTINF:301,Angel Leads Me On
-/music/b/Big Head Todd & The Monsters/Strategem/06. Angel Leads Me On.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Strategem/03.%20Wearing%20Only%20Flowers.m4a
+/music/b/Big Head Todd & The Monsters/Strategem/06. Angel Leads Me On.flac
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Strategem/03.%20Wearing%20Only%20Flowers.flac
 #EXTINF:283,Wearing Only Flowers
-/music/b/Big Head Todd & The Monsters/Strategem/03. Wearing Only Flowers.m4a
+/music/b/Big Head Todd & The Monsters/Strategem/03. Wearing Only Flowers.flac
 #EXTURL:file:///music/p/Pat%20Benatar/Best%20Shots/01.%20Love%20Is%20A%20Battlefield.m4a
 #EXTINF:322,Love Is A Battlefield
 /music/p/Pat Benatar/Best Shots/01. Love Is A Battlefield.m4a
@@ -969,12 +969,12 @@
 #EXTURL:file:///music/a/A-ha/Hunting%20High%20And%20Low/01.%20Take%20On%20Me.m4a
 #EXTINF:226,Take On Me
 /music/a/A-ha/Hunting High And Low/01. Take On Me.m4a
-#EXTURL:file:///music/i/Iggy%20Pop/Nude%20&%20Rude:%20The%20Best%20of%20Iggy%20Pop/09.%20Lust%20For%20Life.m4a
+#EXTURL:file:///music/i/Iggy%20Pop/Nude%20&%20Rude:%20The%20Best%20of%20Iggy%20Pop/09.%20Lust%20For%20Life.flac
 #EXTINF:313,Lust For Life
-/music/i/Iggy Pop/Nude & Rude: The Best of Iggy Pop/09. Lust For Life.m4a
-#EXTURL:file:///music/i/Iggy%20Pop/Nude%20&%20Rude:%20The%20Best%20of%20Iggy%20Pop/15.%20Candy.m4a
+/music/i/Iggy Pop/Nude & Rude: The Best of Iggy Pop/09. Lust For Life.flac
+#EXTURL:file:///music/i/Iggy%20Pop/Nude%20&%20Rude:%20The%20Best%20of%20Iggy%20Pop/15.%20Candy.flac
 #EXTINF:256,Candy
-/music/i/Iggy Pop/Nude & Rude: The Best of Iggy Pop/15. Candy.m4a
+/music/i/Iggy Pop/Nude & Rude: The Best of Iggy Pop/15. Candy.flac
 #EXTURL:file:///music/f/Fabulous%20Thunderbirds/Powerful%20Stuff/06.%20Powerful%20Stuff.m4a
 #EXTINF:273,Powerful Stuff
 /music/f/Fabulous Thunderbirds/Powerful Stuff/06. Powerful Stuff.m4a
@@ -996,48 +996,48 @@
 #EXTURL:file:///music/l/Lonnie%20Mack/Strike%20Like%20Lightning/06.%20Strike%20Like%20Lightning.m4a
 #EXTINF:223,Strike Like Lightning
 /music/l/Lonnie Mack/Strike Like Lightning/06. Strike Like Lightning.m4a
-#EXTURL:file:///music/r/Robert%20Cray/Nothin%20But%20Love/01.%20(Won%27t%20Be)%20Coming%20Home.m4a
+#EXTURL:file:///music/r/Robert%20Cray/Nothin%20But%20Love/01.%20(Won%27t%20Be)%20Coming%20Home.flac
 #EXTINF:292,(Won't Be) Coming Home
-/music/r/Robert Cray/Nothin But Love/01. (Won't Be) Coming Home.m4a
+/music/r/Robert Cray/Nothin But Love/01. (Won't Be) Coming Home.flac
 #EXTURL:file:///music/h/Hoodoo%20Gurus/Mars%20Needs%20Guitars!/01.%20Bittersweet.m4a
 #EXTINF:231,Bittersweet
 /music/h/Hoodoo Gurus/Mars Needs Guitars!/01. Bittersweet.m4a
 #EXTURL:file:///music/h/Hoodoo%20Gurus/Mars%20Needs%20Guitars!/06.%20Hayride%20To%20Hell.m4a
 #EXTINF:196,Hayride To Hell
 /music/h/Hoodoo Gurus/Mars Needs Guitars!/06. Hayride To Hell.m4a
-#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/17.%20Middle%20of%20The%20Road.m4a
+#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/17.%20Middle%20of%20The%20Road.flac
 #EXTINF:254,Middle of The Road
-/music/p/Pretenders/Greatest Hits/17. Middle of The Road.m4a
-#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/08.%20I%20Got%20You%20Babe.m4a
+/music/p/Pretenders/Greatest Hits/17. Middle of The Road.flac
+#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/08.%20I%20Got%20You%20Babe.flac
 #EXTINF:188,I Got You Babe
-/music/p/Pretenders/Greatest Hits/08. I Got You Babe.m4a
-#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/10.%20Spiritual%20High%20(State%20of%20Independence).m4a
+/music/p/Pretenders/Greatest Hits/08. I Got You Babe.flac
+#EXTURL:file:///music/p/Pretenders/Greatest%20Hits/10.%20Spiritual%20High%20(State%20of%20Independence).flac
 #EXTINF:270,Spiritual High (State of Independence)
-/music/p/Pretenders/Greatest Hits/10. Spiritual High (State of Independence).m4a
-#EXTURL:file:///music/b/Buffalo%20Springfield/Retrospective:%20The%20Best%20of%20Buffalo%20Springfield/01.%20For%20What%20It%27s%20Worth.m4a
+/music/p/Pretenders/Greatest Hits/10. Spiritual High (State of Independence).flac
+#EXTURL:file:///music/b/Buffalo%20Springfield/Retrospective:%20The%20Best%20of%20Buffalo%20Springfield/01.%20For%20What%20It%27s%20Worth.flac
 #EXTINF:160,For What It's Worth
-/music/b/Buffalo Springfield/Retrospective: The Best of Buffalo Springfield/01. For What It's Worth.m4a
+/music/b/Buffalo Springfield/Retrospective: The Best of Buffalo Springfield/01. For What It's Worth.flac
 #EXTURL:file:///music/j/Janis%20Joplin/18%20Essential%20Songs/18.%20Me%20&%20Bobby%20McGee.mp3
 #EXTINF:237,Me & Bobby McGee
 /music/j/Janis Joplin/18 Essential Songs/18. Me & Bobby McGee.mp3
 #EXTURL:file:///music/Soundtracks/The%20Commitments/01.%20Mustang%20Sally.m4a
 #EXTINF:239,Mustang Sally
 /music/Soundtracks/The Commitments/01. Mustang Sally.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Midnight%20Radio/05.%20The%20Moose%20Song.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Midnight%20Radio/05.%20The%20Moose%20Song.flac
 #EXTINF:377,The Moose Song
-/music/b/Big Head Todd & The Monsters/Midnight Radio/05. The Moose Song.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Midnight%20Radio/03.%20Dinner%20With%20Ivan.m4a
+/music/b/Big Head Todd & The Monsters/Midnight Radio/05. The Moose Song.flac
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Midnight%20Radio/03.%20Dinner%20With%20Ivan.flac
 #EXTINF:274,Dinner With Ivan
-/music/b/Big Head Todd & The Monsters/Midnight Radio/03. Dinner With Ivan.m4a
+/music/b/Big Head Todd & The Monsters/Midnight Radio/03. Dinner With Ivan.flac
 #EXTURL:file:///music/d/Deep%20Purple/Come%20Taste%20The%20Band/03.%20Gettin%27%20Tighter.m4a
 #EXTINF:218,Gettin' Tighter
 /music/d/Deep Purple/Come Taste The Band/03. Gettin' Tighter.m4a
 #EXTURL:file:///music/j/J.%20Geils%20Band/J.%20Geils%20Band/02.%20Ice%20Breaker%20(For%20The%20Big%20%22M%22).m4a
 #EXTINF:137,Ice Breaker (For The Big "M")
 /music/j/J. Geils Band/J. Geils Band/02. Ice Breaker (For The Big "M").m4a
-#EXTURL:file:///music/j/John%20Fogerty/Wrote%20A%20Song%20For%20Everyone/08.%20Born%20On%20The%20Bayou%20(With%20Kid%20Rock).m4a
+#EXTURL:file:///music/j/John%20Fogerty/Wrote%20A%20Song%20For%20Everyone/08.%20Born%20On%20The%20Bayou%20(With%20Kid%20Rock).flac
 #EXTINF:286,Born On The Bayou (With Kid Rock)
-/music/j/John Fogerty/Wrote A Song For Everyone/08. Born On The Bayou (With Kid Rock).m4a
+/music/j/John Fogerty/Wrote A Song For Everyone/08. Born On The Bayou (With Kid Rock).flac
 #EXTURL:file:///music/Compilation/Flower%20Power/Born%20To%20Be%20Wild/1-12.%20Cloud%20Nine.m4a
 #EXTINF:208,Cloud Nine
 /music/Compilation/Flower Power/Born To Be Wild/1-12. Cloud Nine.m4a
@@ -1062,9 +1062,9 @@
 #EXTURL:file:///music/k/Kansas/Point%20of%20Know%20Return%20(Expanded%20Edition)/04.%20Portrait%20(He%20Knew).m4a
 #EXTINF:276,Portrait (He Knew)
 /music/k/Kansas/Point of Know Return (Expanded Edition)/04. Portrait (He Knew).m4a
-#EXTURL:file:///music/f/Fleetwood%20Mac/Rumours%20-%20Deluxe/1-08.%20You%20Make%20Loving%20Fun.m4a
+#EXTURL:file:///music/f/Fleetwood%20Mac/Rumours%20-%20Deluxe/1-08.%20You%20Make%20Loving%20Fun.flac
 #EXTINF:216,You Make Loving Fun
-/music/f/Fleetwood Mac/Rumours - Deluxe/1-08. You Make Loving Fun.m4a
+/music/f/Fleetwood Mac/Rumours - Deluxe/1-08. You Make Loving Fun.flac
 #EXTURL:file:///music/n/Neil%20Young/Psychedelic%20Pill/01.%20Driftin%27%20Back.m4a
 #EXTINF:1655,Driftin' Back
 /music/n/Neil Young/Psychedelic Pill/01. Driftin' Back.m4a
@@ -1074,9 +1074,9 @@
 #EXTURL:file:///music/p/Pistol%20Annies/Hell%20On%20Heels/01.%20Hell%20On%20Heels.m4a
 #EXTINF:195,Hell On Heels
 /music/p/Pistol Annies/Hell On Heels/01. Hell On Heels.m4a
-#EXTURL:file:///music/d/Donald%20Fagen/Morph%20The%20Cat/02.%20H%20Gang.m4a
+#EXTURL:file:///music/d/Donald%20Fagen/Morph%20The%20Cat/02.%20H%20Gang.flac
 #EXTINF:315,H Gang
-/music/d/Donald Fagen/Morph The Cat/02. H Gang.m4a
+/music/d/Donald Fagen/Morph The Cat/02. H Gang.flac
 #EXTURL:file:///music/d/Dan%20Auerbach/Waiting%20on%20a%20Song/08.%20Stand%20by%20My%20Girl.m4a
 #EXTINF:233,Stand by My Girl
 /music/d/Dan Auerbach/Waiting on a Song/08. Stand by My Girl.m4a
@@ -1095,12 +1095,12 @@
 #EXTURL:file:///music/a/Austin%20Young%20&%20NO%20Difference/Singles/02.%20Blue%20As%20Can%20Be.m4a
 #EXTINF:235,Blue As Can Be
 /music/a/Austin Young & NO Difference/Singles/02. Blue As Can Be.m4a
-#EXTURL:file:///music/e/Erja%20Lyytinen/Songs%20From%20The%20Road/05.%20Grip%20of%20The%20Blues.m4a
+#EXTURL:file:///music/e/Erja%20Lyytinen/Songs%20From%20The%20Road/05.%20Grip%20of%20The%20Blues.flac
 #EXTINF:359,Grip of The Blues
-/music/e/Erja Lyytinen/Songs From The Road/05. Grip of The Blues.m4a
-#EXTURL:file:///music/e/Erja%20Lyytinen/Songs%20From%20The%20Road/02.%20Voracious%20Love.m4a
+/music/e/Erja Lyytinen/Songs From The Road/05. Grip of The Blues.flac
+#EXTURL:file:///music/e/Erja%20Lyytinen/Songs%20From%20The%20Road/02.%20Voracious%20Love.flac
 #EXTINF:257,Voracious Love
-/music/e/Erja Lyytinen/Songs From The Road/02. Voracious Love.m4a
+/music/e/Erja Lyytinen/Songs From The Road/02. Voracious Love.flac
 #EXTURL:file:///music/c/Charlie%20Musselwhite/One%20Night%20In%20America/09.%20Big%20River.m4a
 #EXTINF:320,Big River
 /music/c/Charlie Musselwhite/One Night In America/09. Big River.m4a
@@ -1137,9 +1137,9 @@
 #EXTURL:file:///music/t/Thorbjorn%20Risager/Come%20On%20In/01.%20Come%20On%20In.flac
 #EXTINF:249,Come On In
 /music/t/Thorbjorn Risager/Come On In/01. Come On In.flac
-#EXTURL:file:///music/d/Doobie%20Brothers/The%20Captain%20And%20Me/02.%20Long%20Train%20Runnin%27.m4a
+#EXTURL:file:///music/d/Doobie%20Brothers/The%20Captain%20And%20Me/02.%20Long%20Train%20Runnin%27.flac
 #EXTINF:208,Long Train Runnin'
-/music/d/Doobie Brothers/The Captain And Me/02. Long Train Runnin'.m4a
+/music/d/Doobie Brothers/The Captain And Me/02. Long Train Runnin'.flac
 #EXTURL:file:///music/r/Rolling%20Stones/Honk/18.%20Emotional%20Rescue.m4a
 #EXTINF:340,Emotional Rescue
 /music/r/Rolling Stones/Honk/18. Emotional Rescue.m4a
@@ -1167,36 +1167,6 @@
 #EXTURL:file:///music/t/Ted%20Nugent/Ted%20Nugent/01.%20Stranglehold.m4a
 #EXTINF:503,Stranglehold
 /music/t/Ted Nugent/Ted Nugent/01. Stranglehold.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/01.%20Cosmic%20Thing.m4a
-#EXTINF:232,Cosmic Thing
-/music/b/B-52's/Cosmic Thing/01. Cosmic Thing.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/07.%20Bushfire.m4a
-#EXTINF:297,Bushfire
-/music/b/B-52's/Cosmic Thing/07. Bushfire.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/09.%20Topaz.m4a
-#EXTINF:261,Topaz
-/music/b/B-52's/Cosmic Thing/09. Topaz.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/03.%20Deadbeat%20Club.m4a
-#EXTINF:287,Deadbeat Club
-/music/b/B-52's/Cosmic Thing/03. Deadbeat Club.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/05.%20Junebug.m4a
-#EXTINF:307,Junebug
-/music/b/B-52's/Cosmic Thing/05. Junebug.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/06.%20Roam.m4a
-#EXTINF:295,Roam
-/music/b/B-52's/Cosmic Thing/06. Roam.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/02.%20Dry%20County.m4a
-#EXTINF:294,Dry County
-/music/b/B-52's/Cosmic Thing/02. Dry County.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/04.%20Love%20Shack.m4a
-#EXTINF:321,Love Shack
-/music/b/B-52's/Cosmic Thing/04. Love Shack.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/08.%20Channel%20Z.m4a
-#EXTINF:289,Channel Z
-/music/b/B-52's/Cosmic Thing/08. Channel Z.m4a
-#EXTURL:file:///music/b/B-52%27s/Cosmic%20Thing/10.%20Follow%20Your%20Bliss.m4a
-#EXTINF:248,Follow Your Bliss
-/music/b/B-52's/Cosmic Thing/10. Follow Your Bliss.m4a
 #EXTURL:file:///music/t/Too%20Slim%20&%20The%20Taildraggers/Shiver/02.%20Daddies%20Bones.m4a
 #EXTINF:295,Daddies Bones
 /music/t/Too Slim & The Taildraggers/Shiver/02. Daddies Bones.m4a
@@ -1218,12 +1188,12 @@
 #EXTURL:file:///music/s/Subdudes/Annunciation/01.%20(You%27ll%20Be)%20Satisfied.m4a
 #EXTINF:234,(You'll Be) Satisfied
 /music/s/Subdudes/Annunciation/01. (You'll Be) Satisfied.m4a
-#EXTURL:file:///music/b/Bad%20Company/Run%20With%20The%20Pack/01.%20Live%20For%20The%20Music.m4a
+#EXTURL:file:///music/b/Bad%20Company/Run%20With%20The%20Pack/01.%20Live%20For%20The%20Music.flac
 #EXTINF:238,Live For The Music
-/music/b/Bad Company/Run With The Pack/01. Live For The Music.m4a
-#EXTURL:file:///music/b/Bad%20Company/Run%20With%20The%20Pack/06.%20Silver,%20Blue%20&%20Gold.m4a
+/music/b/Bad Company/Run With The Pack/01. Live For The Music.flac
+#EXTURL:file:///music/b/Bad%20Company/Run%20With%20The%20Pack/06.%20Silver,%20Blue%20&%20Gold.flac
 #EXTINF:304,Silver, Blue & Gold
-/music/b/Bad Company/Run With The Pack/06. Silver, Blue & Gold.m4a
+/music/b/Bad Company/Run With The Pack/06. Silver, Blue & Gold.flac
 #EXTURL:file:///music/d/Delbert%20McClinton/Cost%20of%20Living/08.%20Down%20Into%20Mexico.m4a
 #EXTINF:275,Down Into Mexico
 /music/d/Delbert McClinton/Cost of Living/08. Down Into Mexico.m4a
@@ -1239,9 +1209,9 @@
 #EXTURL:file:///music/b/Brian%20Jonestown%20Massacre/Strung%20Out%20In%20Heaven/01.%20Going%20To%20Hell.m4a
 #EXTINF:178,Going To Hell
 /music/b/Brian Jonestown Massacre/Strung Out In Heaven/01. Going To Hell.m4a
-#EXTURL:file:///music/m/Meena/Feel%20Me/08.%20Come%20To%20Mama.m4a
+#EXTURL:file:///music/m/Meena/Feel%20Me/08.%20Come%20To%20Mama.flac
 #EXTINF:285,Come To Mama
-/music/m/Meena/Feel Me/08. Come To Mama.m4a
+/music/m/Meena/Feel Me/08. Come To Mama.flac
 #EXTURL:file:///music/s/Steely%20Dan/Everything%20Must%20Go/01.%20The%20Last%20Mall.m4a
 #EXTINF:216,The Last Mall
 /music/s/Steely Dan/Everything Must Go/01. The Last Mall.m4a
@@ -1257,21 +1227,21 @@
 #EXTURL:file:///music/b/Boston/Greatest%20Hits/04.%20Peace%20of%20Mind.m4a
 #EXTINF:302,Peace of Mind
 /music/b/Boston/Greatest Hits/04. Peace of Mind.m4a
-#EXTURL:file:///music/b/Bob%20Dylan/Together%20Through%20Life/10.%20It%27s%20All%20Good.m4a
+#EXTURL:file:///music/b/Bob%20Dylan/Together%20Through%20Life/10.%20It%27s%20All%20Good.flac
 #EXTINF:327,It's All Good
-/music/b/Bob Dylan/Together Through Life/10. It's All Good.m4a
-#EXTURL:file:///music/j/Joe%20Perry%20Project/The%20Best%20of%20The%20Joe%20Perry%20Project/01.%20Let%20The%20Music%20Do%20The%20Talking.m4a
+/music/b/Bob Dylan/Together Through Life/10. It's All Good.flac
+#EXTURL:file:///music/j/Joe%20Perry%20Project/The%20Best%20of%20The%20Joe%20Perry%20Project/01.%20Let%20The%20Music%20Do%20The%20Talking.flac
 #EXTINF:283,Let The Music Do The Talking
-/music/j/Joe Perry Project/The Best of The Joe Perry Project/01. Let The Music Do The Talking.m4a
+/music/j/Joe Perry Project/The Best of The Joe Perry Project/01. Let The Music Do The Talking.flac
 #EXTURL:file:///music/c/Concrete%20Blonde/Bloodletting/09.%20Joey.m4a
 #EXTINF:248,Joey
 /music/c/Concrete Blonde/Bloodletting/09. Joey.m4a
 #EXTURL:file:///music/t/Tanya%20Tucker/Soon/01.%20You%20Just%20Watch%20Me.mp3
 #EXTINF:274,You Just Watch Me
 /music/t/Tanya Tucker/Soon/01. You Just Watch Me.mp3
-#EXTURL:file:///music/w/Warren%20Haynes/Ashes%20&%20Dust/08.%20Gold%20Dust%20Woman.m4a
+#EXTURL:file:///music/w/Warren%20Haynes/Ashes%20&%20Dust/08.%20Gold%20Dust%20Woman.flac
 #EXTINF:383,Gold Dust Woman
-/music/w/Warren Haynes/Ashes & Dust/08. Gold Dust Woman.m4a
+/music/w/Warren Haynes/Ashes & Dust/08. Gold Dust Woman.flac
 #EXTURL:file:///music/b/Buddy%20Guy/Damn%20Right%20I%20Got%20The%20Blues/04.%20Mustang%20Sally.m4a
 #EXTINF:279,Mustang Sally
 /music/b/Buddy Guy/Damn Right I Got The Blues/04. Mustang Sally.m4a
@@ -1287,9 +1257,9 @@
 #EXTURL:file:///music/d/Dave%20Mason/The%20Best%20of%20Dave%20Mason/10.%20Feelin%27%20Alright%3F.m4a
 #EXTINF:381,Feelin' Alright?
 /music/d/Dave Mason/The Best of Dave Mason/10. Feelin' Alright?.m4a
-#EXTURL:file:///music/h/Hootie%20&%20The%20Blowfish/Cracked%20Rear%20View/04.%20Only%20Wanna%20Be%20With%20You.m4a
+#EXTURL:file:///music/h/Hootie%20&%20The%20Blowfish/Cracked%20Rear%20View/04.%20Only%20Wanna%20Be%20With%20You.flac
 #EXTINF:226,Only Wanna Be With You
-/music/h/Hootie & The Blowfish/Cracked Rear View/04. Only Wanna Be With You.m4a
+/music/h/Hootie & The Blowfish/Cracked Rear View/04. Only Wanna Be With You.flac
 #EXTURL:file:///music/f/Freak%20Power/Drive-Thru%20Booty/02.%20Turn%20On,%20Tune%20In,%20Cop%20Out.m4a
 #EXTINF:264,Turn On, Tune In, Cop Out
 /music/f/Freak Power/Drive-Thru Booty/02. Turn On, Tune In, Cop Out.m4a
@@ -1305,21 +1275,21 @@
 #EXTURL:file:///music/j/James%20Montgomery%20Band/High%20Roller/04.%20Schoolin%27%20Them%20Dice.mp3
 #EXTINF:243,Schoolin' Them Dice
 /music/j/James Montgomery Band/High Roller/04. Schoolin' Them Dice.mp3
-#EXTURL:file:///music/j/James%20McMurtry/Live%20In%20Aught%20-%20Three/08.%20Choctaw%20Bingo.m4a
+#EXTURL:file:///music/j/James%20McMurtry/Live%20In%20Aught%20-%20Three/08.%20Choctaw%20Bingo.flac
 #EXTINF:527,Choctaw Bingo
-/music/j/James McMurtry/Live In Aught - Three/08. Choctaw Bingo.m4a
-#EXTURL:file:///music/j/James%20McMurtry/Live%20In%20Aught%20-%20Three/09.%20Lights%20of%20Cheyenne.m4a
+/music/j/James McMurtry/Live In Aught - Three/08. Choctaw Bingo.flac
+#EXTURL:file:///music/j/James%20McMurtry/Live%20In%20Aught%20-%20Three/09.%20Lights%20of%20Cheyenne.flac
 #EXTINF:398,Lights of Cheyenne
-/music/j/James McMurtry/Live In Aught - Three/09. Lights of Cheyenne.m4a
+/music/j/James McMurtry/Live In Aught - Three/09. Lights of Cheyenne.flac
 #EXTURL:file:///music/i/Isley%20Brothers/Super%20Hits/03.%20The%20Heat%20Is%20On%20(Part%201%20&%202).m4a
 #EXTINF:333,The Heat Is On (Part 1 & 2)
 /music/i/Isley Brothers/Super Hits/03. The Heat Is On (Part 1 & 2).m4a
 #EXTURL:file:///music/o/Otis%20Rush/Singles/01.%20Intro-Watermelon%20Man%20(Live).mp3
 #EXTINF:470,Intro-Watermelon Man (Live)
 /music/o/Otis Rush/Singles/01. Intro-Watermelon Man (Live).mp3
-#EXTURL:file:///music/e/Edwin%20McCain/Honor%20Among%20Thieves/01.%20Alive.m4a
+#EXTURL:file:///music/e/Edwin%20McCain/Honor%20Among%20Thieves/01.%20Alive.flac
 #EXTINF:242,Alive
-/music/e/Edwin McCain/Honor Among Thieves/01. Alive.m4a
+/music/e/Edwin McCain/Honor Among Thieves/01. Alive.flac
 #EXTURL:file:///music/d/David%20Essex/Singles/05.%20Rock%20On.mp3
 #EXTINF:204,Rock On
 /music/d/David Essex/Singles/05. Rock On.mp3
@@ -1359,9 +1329,9 @@
 #EXTURL:file:///music/n/No%20Doubt/The%20Singles%201992-2003/02.%20It%27s%20My%20Life.m4a
 #EXTINF:225,It's My Life
 /music/n/No Doubt/The Singles 1992-2003/02. It's My Life.m4a
-#EXTURL:file:///music/e/Eagles/Long%20Road%20Out%20of%20Eden/2-05.%20Last%20Good%20Time%20In%20Town.m4a
+#EXTURL:file:///music/e/Eagles/Long%20Road%20Out%20of%20Eden/2-05.%20Last%20Good%20Time%20In%20Town.flac
 #EXTINF:427,Last Good Time In Town
-/music/e/Eagles/Long Road Out of Eden/2-05. Last Good Time In Town.m4a
+/music/e/Eagles/Long Road Out of Eden/2-05. Last Good Time In Town.flac
 #EXTURL:file:///music/f/Fastball/Singles/01.%20The%20Way.mp3
 #EXTINF:257,The Way
 /music/f/Fastball/Singles/01. The Way.mp3
@@ -1371,9 +1341,9 @@
 #EXTURL:file:///music/f/Faces/A%20Nod%20Is%20As%20Good%20As%20A%20Wink...%20To%20A%20Blind%20Horse/05.%20Stay%20With%20Me.m4a
 #EXTINF:280,Stay With Me
 /music/f/Faces/A Nod Is As Good As A Wink... To A Blind Horse/05. Stay With Me.m4a
-#EXTURL:file:///music/r/Rolling%20Stones/Emotional%20Rescue/09.%20She%27s%20So%20Cold.m4a
+#EXTURL:file:///music/r/Rolling%20Stones/Emotional%20Rescue/09.%20She%27s%20So%20Cold.flac
 #EXTINF:253,She's So Cold
-/music/r/Rolling Stones/Emotional Rescue/09. She's So Cold.m4a
+/music/r/Rolling Stones/Emotional Rescue/09. She's So Cold.flac
 #EXTURL:file:///music/w/Walter%20Trout%20Band/Deep%20Trout/06.%20Kill%20The%20Monkey.mp3
 #EXTINF:253,Kill The Monkey
 /music/w/Walter Trout Band/Deep Trout/06. Kill The Monkey.mp3
@@ -1401,24 +1371,24 @@
 #EXTURL:file:///music/w/WOLFFE/01.%20Shoot%20You%20Down.m4a
 #EXTINF:234,Shoot You Down
 /music/w/WOLFFE/01. Shoot You Down.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Crimes%20of%20Passion/05.%20Come%20On.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Crimes%20of%20Passion/05.%20Come%20On.flac
 #EXTINF:169,Come On
-/music/b/Big Head Todd & The Monsters/Crimes of Passion/05. Come On.m4a
+/music/b/Big Head Todd & The Monsters/Crimes of Passion/05. Come On.flac
 #EXTURL:file:///music/e/Electric%20Light%20Orchestra/ELO%20Classics/01.%20Evil%20Woman.mp3
 #EXTINF:258,Evil Woman
 /music/e/Electric Light Orchestra/ELO Classics/01. Evil Woman.mp3
-#EXTURL:file:///music/s/Stacy%20Mitchhart/Gotta%20Get%20The%20Feeling%20Back%20Again/09.%20I%27ll%20Play%20The%20Blues%20For%20You.m4a
+#EXTURL:file:///music/s/Stacy%20Mitchhart/Gotta%20Get%20The%20Feeling%20Back%20Again/09.%20I%27ll%20Play%20The%20Blues%20For%20You.flac
 #EXTINF:320,I'll Play The Blues For You
-/music/s/Stacy Mitchhart/Gotta Get The Feeling Back Again/09. I'll Play The Blues For You.m4a
+/music/s/Stacy Mitchhart/Gotta Get The Feeling Back Again/09. I'll Play The Blues For You.flac
 #EXTURL:file:///music/Compilation/BaadAsssss%20Cinema/02.%20Expansions.mp3
 #EXTINF:365,Expansions
 /music/Compilation/BaadAsssss Cinema/02. Expansions.mp3
-#EXTURL:file:///music/d/Debbie%20Davies/Love%20The%20Game/06.%20Can%27t%20Find%20The%20Blues.m4a
+#EXTURL:file:///music/d/Debbie%20Davies/Love%20The%20Game/06.%20Can%27t%20Find%20The%20Blues.flac
 #EXTINF:187,Can't Find The Blues
-/music/d/Debbie Davies/Love The Game/06. Can't Find The Blues.m4a
-#EXTURL:file:///music/d/Debbie%20Davies/Love%20The%20Game/03.%20Fired%20Up.m4a
+/music/d/Debbie Davies/Love The Game/06. Can't Find The Blues.flac
+#EXTURL:file:///music/d/Debbie%20Davies/Love%20The%20Game/03.%20Fired%20Up.flac
 #EXTINF:274,Fired Up
-/music/d/Debbie Davies/Love The Game/03. Fired Up.m4a
+/music/d/Debbie Davies/Love The Game/03. Fired Up.flac
 #EXTURL:file:///music/j/Johnnie%20Marshall/With%20All%20My%20Might/01.%20That%27s%20When%20The%20Blues%20Puts%20Its%20Hook%20In%20You.m4a
 #EXTINF:263,That's When The Blues Puts Its Hook In You
 /music/j/Johnnie Marshall/With All My Might/01. That's When The Blues Puts Its Hook In You.m4a
@@ -1431,9 +1401,9 @@
 #EXTURL:file:///music/Compilation/KFOG/Volume%2016/16.%20Love%27s%20A%20Mystery.mp3
 #EXTINF:183,Love's A Mystery
 /music/Compilation/KFOG/Volume 16/16. Love's A Mystery.mp3
-#EXTURL:file:///music/r/Rolling%20Stones/It%27s%20Only%20Rock%20%27N%27%20Roll/07.%20Dance%20Little%20Sister.m4a
+#EXTURL:file:///music/r/Rolling%20Stones/It%27s%20Only%20Rock%20%27N%27%20Roll/07.%20Dance%20Little%20Sister.flac
 #EXTINF:251,Dance Little Sister
-/music/r/Rolling Stones/It's Only Rock 'N' Roll/07. Dance Little Sister.m4a
+/music/r/Rolling Stones/It's Only Rock 'N' Roll/07. Dance Little Sister.flac
 #EXTURL:file:///music/h/Halestorm/Into%20The%20Wild%20Life%20(Deluxe)/13.%20I%20Like%20It%20Heavy.m4a
 #EXTINF:293,I Like It Heavy
 /music/h/Halestorm/Into The Wild Life (Deluxe)/13. I Like It Heavy.m4a
@@ -1443,21 +1413,21 @@
 #EXTURL:file:///music/e/Elton%20John/Duets/04.%20Shakey%20Ground.m4a
 #EXTINF:230,Shakey Ground
 /music/e/Elton John/Duets/04. Shakey Ground.m4a
-#EXTURL:file:///music/l/Lynyrd%20Skynyrd/Gold%20&%20Platinum/1-03.%20Gimme%20Three%20Steps.m4a
+#EXTURL:file:///music/l/Lynyrd%20Skynyrd/Gold%20&%20Platinum/1-03.%20Gimme%20Three%20Steps.flac
 #EXTINF:318,Gimme Three Steps
-/music/l/Lynyrd Skynyrd/Gold & Platinum/1-03. Gimme Three Steps.m4a
+/music/l/Lynyrd Skynyrd/Gold & Platinum/1-03. Gimme Three Steps.flac
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/5-11.%20Ballad%20of%20Easy%20Rider.mp3
 #EXTINF:188,Ballad of Easy Rider
 /music/t/Tom Petty & The Heartbreakers/The Live Anthology/5-11. Ballad of Easy Rider.mp3
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Live%20Anthology/5-04.%20Billy%20The%20Kid.mp3
 #EXTINF:309,Billy The Kid
 /music/t/Tom Petty & The Heartbreakers/The Live Anthology/5-04. Billy The Kid.mp3
-#EXTURL:file:///music/d/Dire%20Straits/On%20Every%20Street/05.%20The%20Bug.m4a
+#EXTURL:file:///music/d/Dire%20Straits/On%20Every%20Street/05.%20The%20Bug.flac
 #EXTINF:256,The Bug
-/music/d/Dire Straits/On Every Street/05. The Bug.m4a
-#EXTURL:file:///music/d/Dire%20Straits/On%20Every%20Street/01.%20Calling%20Elvis.m4a
+/music/d/Dire Straits/On Every Street/05. The Bug.flac
+#EXTURL:file:///music/d/Dire%20Straits/On%20Every%20Street/01.%20Calling%20Elvis.flac
 #EXTINF:386,Calling Elvis
-/music/d/Dire Straits/On Every Street/01. Calling Elvis.m4a
+/music/d/Dire Straits/On Every Street/01. Calling Elvis.flac
 #EXTURL:file:///music/a/Autograph/Sign%20In%20Please/02.%20Turn%20Up%20The%20Radio.m4a
 #EXTINF:278,Turn Up The Radio
 /music/a/Autograph/Sign In Please/02. Turn Up The Radio.m4a
@@ -1485,9 +1455,9 @@
 #EXTURL:file:///music/g/Grace%20Potter%20&%20The%20Nocturnals/Nothing%20But%20The%20Water/01.%20Toothbrush%20And%20My%20Table.m4a
 #EXTINF:269,Toothbrush And My Table
 /music/g/Grace Potter & The Nocturnals/Nothing But The Water/01. Toothbrush And My Table.m4a
-#EXTURL:file:///music/i/Indigo%20Girls/Indigo%20Girls/01.%20Closer%20To%20Fine.m4a
+#EXTURL:file:///music/i/Indigo%20Girls/Indigo%20Girls/01.%20Closer%20To%20Fine.flac
 #EXTINF:242,Closer To Fine
-/music/i/Indigo Girls/Indigo Girls/01. Closer To Fine.m4a
+/music/i/Indigo Girls/Indigo Girls/01. Closer To Fine.flac
 #EXTURL:file:///music/m/Mark%20Knopfler/Down%20The%20Road%20Wherever%20(Deluxe)/02.%20Back%20On%20The%20Dance%20Floor.m4a
 #EXTINF:330,Back On The Dance Floor
 /music/m/Mark Knopfler/Down The Road Wherever (Deluxe)/02. Back On The Dance Floor.m4a
@@ -1503,9 +1473,9 @@
 #EXTURL:file:///music/s/Supertramp/Crime%20of%20The%20Century/02.%20Bloody%20Well%20Right.m4a
 #EXTINF:271,Bloody Well Right
 /music/s/Supertramp/Crime of The Century/02. Bloody Well Right.m4a
-#EXTURL:file:///music/i/INXS/The%20Greatest%20Hits/10.%20Suicide%20Blonde.m4a
+#EXTURL:file:///music/i/INXS/The%20Greatest%20Hits/10.%20Suicide%20Blonde.flac
 #EXTINF:231,Suicide Blonde
-/music/i/INXS/The Greatest Hits/10. Suicide Blonde.m4a
+/music/i/INXS/The Greatest Hits/10. Suicide Blonde.flac
 #EXTURL:file:///music/j/Janis%20Joplin/Pearl/05.%20Buried%20Alive%20In%20The%20Blues.m4a
 #EXTINF:144,Buried Alive In The Blues
 /music/j/Janis Joplin/Pearl/05. Buried Alive In The Blues.m4a
@@ -1530,9 +1500,9 @@
 #EXTURL:file:///music/n/Neil%20Young/Harvest%20Moon/01.%20Unknown%20Legend.flac
 #EXTINF:272,Unknown Legend
 /music/n/Neil Young/Harvest Moon/01. Unknown Legend.flac
-#EXTURL:file:///music/e/Eric%20Clapton%20&%20Steve%20Winwood/Live%20From%20Madison%20Square%20Garden/1-09.%20Double%20Trouble.m4a
+#EXTURL:file:///music/e/Eric%20Clapton%20&%20Steve%20Winwood/Live%20From%20Madison%20Square%20Garden/1-09.%20Double%20Trouble.flac
 #EXTINF:486,Double Trouble
-/music/e/Eric Clapton & Steve Winwood/Live From Madison Square Garden/1-09. Double Trouble.m4a
+/music/e/Eric Clapton & Steve Winwood/Live From Madison Square Garden/1-09. Double Trouble.flac
 #EXTURL:file:///music/p/Phish/Live%20Phish%208/1-05.%20Back%20At%20The%20Chicken%20Shack.m4a
 #EXTINF:438,Back At The Chicken Shack
 /music/p/Phish/Live Phish 8/1-05. Back At The Chicken Shack.m4a
@@ -1548,18 +1518,18 @@
 #EXTURL:file:///music/r/Ron%20Wood/Mad%20Lad:%20A%20Live%20Tribute%20To%20Chuck%20Berry/03.%20Mad%20Lad.flac
 #EXTINF:193,Mad Lad
 /music/r/Ron Wood/Mad Lad: A Live Tribute To Chuck Berry/03. Mad Lad.flac
-#EXTURL:file:///music/d/David%20Lindley%20&%20El%20Rayo-X/Very%20Greasy/06.%20Werewolves%20of%20London.m4a
+#EXTURL:file:///music/d/David%20Lindley%20&%20El%20Rayo-X/Very%20Greasy/06.%20Werewolves%20of%20London.flac
 #EXTINF:223,Werewolves of London
-/music/d/David Lindley & El Rayo-X/Very Greasy/06. Werewolves of London.m4a
+/music/d/David Lindley & El Rayo-X/Very Greasy/06. Werewolves of London.flac
 #EXTURL:file:///music/k/Kiss/Dressed%20To%20Kill/06.%20C%27mon%20And%20Love%20Me.m4a
 #EXTINF:175,C'mon And Love Me
 /music/k/Kiss/Dressed To Kill/06. C'mon And Love Me.m4a
-#EXTURL:file:///music/r/Rolling%20Stones/Flashpoint/04.%20Miss%20You.m4a
+#EXTURL:file:///music/r/Rolling%20Stones/Flashpoint/04.%20Miss%20You.flac
 #EXTINF:355,Miss You
-/music/r/Rolling Stones/Flashpoint/04. Miss You.m4a
-#EXTURL:file:///music/r/Rolling%20Stones/Flashpoint/17.%20Sex%20Drive.m4a
+/music/r/Rolling Stones/Flashpoint/04. Miss You.flac
+#EXTURL:file:///music/r/Rolling%20Stones/Flashpoint/17.%20Sex%20Drive.flac
 #EXTINF:269,Sex Drive
-/music/r/Rolling Stones/Flashpoint/17. Sex Drive.m4a
+/music/r/Rolling Stones/Flashpoint/17. Sex Drive.flac
 #EXTURL:file:///music/j/James%20Burton/The%20Guitar%20Sounds%20of%20James%20Burton/01.%20Polk%20Salad%20Annie.m4a
 #EXTINF:214,Polk Salad Annie
 /music/j/James Burton/The Guitar Sounds of James Burton/01. Polk Salad Annie.m4a
@@ -1581,9 +1551,9 @@
 #EXTURL:file:///music/Compilation/Rock%20Monsters/1-14.%20Black%20Betty.mp3
 #EXTINF:235,Black Betty
 /music/Compilation/Rock Monsters/1-14. Black Betty.mp3
-#EXTURL:file:///music/s/Sheryl%20Crow/C%27mon,%20C%27mon/02.%20Soak%20Up%20The%20Sun.m4a
+#EXTURL:file:///music/s/Sheryl%20Crow/C%27mon,%20C%27mon/02.%20Soak%20Up%20The%20Sun.flac
 #EXTINF:292,Soak Up The Sun
-/music/s/Sheryl Crow/C'mon, C'mon/02. Soak Up The Sun.m4a
+/music/s/Sheryl Crow/C'mon, C'mon/02. Soak Up The Sun.flac
 #EXTURL:file:///music/r/Radiators/Law%20of%20The%20Fish/03.%20Doctor%20Doctor.m4a
 #EXTINF:243,Doctor Doctor
 /music/r/Radiators/Law of The Fish/03. Doctor Doctor.m4a
@@ -1596,24 +1566,24 @@
 #EXTURL:file:///music/s/Slits/Cut/11.%20I%20Heard%20It%20Through%20The%20Grapevine.m4a
 #EXTINF:237,I Heard It Through The Grapevine
 /music/s/Slits/Cut/11. I Heard It Through The Grapevine.m4a
-#EXTURL:file:///music/l/Lyle%20Lovett/Pontiac/06.%20She%27s%20No%20Lady.m4a
+#EXTURL:file:///music/l/Lyle%20Lovett/Pontiac/06.%20She%27s%20No%20Lady.flac
 #EXTINF:195,She's No Lady
-/music/l/Lyle Lovett/Pontiac/06. She's No Lady.m4a
-#EXTURL:file:///music/t/Tommy%20Bolin/Private%20Eyes/03.%20Post%20Toastee.m4a
+/music/l/Lyle Lovett/Pontiac/06. She's No Lady.flac
+#EXTURL:file:///music/t/Tommy%20Bolin/Private%20Eyes/03.%20Post%20Toastee.flac
 #EXTINF:540,Post Toastee
-/music/t/Tommy Bolin/Private Eyes/03. Post Toastee.m4a
-#EXTURL:file:///music/t/Tommy%20Bolin/Private%20Eyes/01.%20Bustin%27%20Out%20For%20Rosey.m4a
+/music/t/Tommy Bolin/Private Eyes/03. Post Toastee.flac
+#EXTURL:file:///music/t/Tommy%20Bolin/Private%20Eyes/01.%20Bustin%27%20Out%20For%20Rosey.flac
 #EXTINF:261,Bustin' Out For Rosey
-/music/t/Tommy Bolin/Private Eyes/01. Bustin' Out For Rosey.m4a
-#EXTURL:file:///music/s/Sheryl%20Crow/Tuesday%20Night%20Music%20Club/04.%20Can%27t%20Cry%20Anymore.m4a
+/music/t/Tommy Bolin/Private Eyes/01. Bustin' Out For Rosey.flac
+#EXTURL:file:///music/s/Sheryl%20Crow/Tuesday%20Night%20Music%20Club/04.%20Can%27t%20Cry%20Anymore.flac
 #EXTINF:221,Can't Cry Anymore
-/music/s/Sheryl Crow/Tuesday Night Music Club/04. Can't Cry Anymore.m4a
+/music/s/Sheryl Crow/Tuesday Night Music Club/04. Can't Cry Anymore.flac
 #EXTURL:file:///music/s/Sundays/Reading,%20Writing%20And%20Arithmetic/02.%20Here%27s%20Where%20The%20Story%20Ends.m4a
 #EXTINF:234,Here's Where The Story Ends
 /music/s/Sundays/Reading, Writing And Arithmetic/02. Here's Where The Story Ends.m4a
-#EXTURL:file:///music/p/Poco/Gold/17.%20Magnolia.m4a
+#EXTURL:file:///music/p/Poco/Gold/17.%20Magnolia.flac
 #EXTINF:409,Magnolia
-/music/p/Poco/Gold/17. Magnolia.m4a
+/music/p/Poco/Gold/17. Magnolia.flac
 #EXTURL:file:///music/m/Mark%20Kerr/One%20Drink%20Away%20From%20The%20Blues/05.%20The%20Thrill%20Is%20Gone.m4a
 #EXTINF:307,The Thrill Is Gone
 /music/m/Mark Kerr/One Drink Away From The Blues/05. The Thrill Is Gone.m4a
@@ -1638,12 +1608,12 @@
 #EXTURL:file:///music/w/Warren%20Haynes/Singles/River%27s%20Gonna%20Rise.mp3
 #EXTINF:479,River's Gonna Rise
 /music/w/Warren Haynes/Singles/River's Gonna Rise.mp3
-#EXTURL:file:///music/g/Gales%20Brothers/Left%20Hand%20Brand/04.%20House%20of%20Blues.m4a
+#EXTURL:file:///music/g/Gales%20Brothers/Left%20Hand%20Brand/04.%20House%20of%20Blues.flac
 #EXTINF:317,House of Blues
-/music/g/Gales Brothers/Left Hand Brand/04. House of Blues.m4a
-#EXTURL:file:///music/g/Gales%20Brothers/Left%20Hand%20Brand/05.%20Worried%20Man.m4a
+/music/g/Gales Brothers/Left Hand Brand/04. House of Blues.flac
+#EXTURL:file:///music/g/Gales%20Brothers/Left%20Hand%20Brand/05.%20Worried%20Man.flac
 #EXTINF:265,Worried Man
-/music/g/Gales Brothers/Left Hand Brand/05. Worried Man.m4a
+/music/g/Gales Brothers/Left Hand Brand/05. Worried Man.flac
 #EXTURL:file:///music/r/Red%20Rockers/Singles/01.%20China.m4a
 #EXTINF:241,China
 /music/r/Red Rockers/Singles/01. China.m4a
@@ -1671,12 +1641,12 @@
 #EXTURL:file:///music/s/Southern%20Culture%20On%20The%20Skids/Plastic%20Seat%20Sweat/11.%20House%20of%20Bamboo.m4a
 #EXTINF:183,House of Bamboo
 /music/s/Southern Culture On The Skids/Plastic Seat Sweat/11. House of Bamboo.m4a
-#EXTURL:file:///music/s/Santana/Supernatural/05.%20Smooth%20(feat.%20Rob%20Thomas).m4a
+#EXTURL:file:///music/s/Santana/Supernatural/05.%20Smooth%20(feat.%20Rob%20Thomas).flac
 #EXTINF:298,Smooth (feat. Rob Thomas)
-/music/s/Santana/Supernatural/05. Smooth (feat. Rob Thomas).m4a
-#EXTURL:file:///music/t/Thin%20Lizzy/Greatest%20Hits/2-01.%20Whiskey%20In%20The%20Jar.m4a
+/music/s/Santana/Supernatural/05. Smooth (feat. Rob Thomas).flac
+#EXTURL:file:///music/t/Thin%20Lizzy/Greatest%20Hits/2-01.%20Whiskey%20In%20The%20Jar.flac
 #EXTINF:346,Whiskey In The Jar
-/music/t/Thin Lizzy/Greatest Hits/2-01. Whiskey In The Jar.m4a
+/music/t/Thin Lizzy/Greatest Hits/2-01. Whiskey In The Jar.flac
 #EXTURL:file:///music/f/Free/The%20Best%20of%20Free/07.%20All%20Right%20Now.mp3
 #EXTINF:333,All Right Now
 /music/f/Free/The Best of Free/07. All Right Now.mp3
@@ -1713,9 +1683,9 @@
 #EXTURL:file:///music/c/Church/Starfish/02.%20Under%20The%20Milky%20Way.m4a
 #EXTINF:296,Under The Milky Way
 /music/c/Church/Starfish/02. Under The Milky Way.m4a
-#EXTURL:file:///music/r/REO%20Speedwagon/The%20Hits/14.%20Ridin%27%20The%20Storm%20Out.m4a
+#EXTURL:file:///music/r/REO%20Speedwagon/The%20Hits/14.%20Ridin%27%20The%20Storm%20Out.flac
 #EXTINF:351,Ridin' The Storm Out
-/music/r/REO Speedwagon/The Hits/14. Ridin' The Storm Out.m4a
+/music/r/REO Speedwagon/The Hits/14. Ridin' The Storm Out.flac
 #EXTURL:file:///music/b/Brownsville%20Station/Yeah!/09.%20Barefootin%27.m4a
 #EXTINF:175,Barefootin'
 /music/b/Brownsville Station/Yeah!/09. Barefootin'.m4a
@@ -1758,21 +1728,21 @@
 #EXTURL:file:///music/b/Blondie/Greatest%20Hits:%20Blondie/17.%20Good%20Boys%20(Blow-Up%20Mix).m4a
 #EXTINF:365,Good Boys (Blow-Up Mix)
 /music/b/Blondie/Greatest Hits: Blondie/17. Good Boys (Blow-Up Mix).m4a
-#EXTURL:file:///music/a/Alanis%20Morissette/Jagged%20Little%20Pill/01.%20All%20I%20Really%20Want.m4a
+#EXTURL:file:///music/a/Alanis%20Morissette/Jagged%20Little%20Pill/01.%20All%20I%20Really%20Want.flac
 #EXTINF:284,All I Really Want
-/music/a/Alanis Morissette/Jagged Little Pill/01. All I Really Want.m4a
+/music/a/Alanis Morissette/Jagged Little Pill/01. All I Really Want.flac
 #EXTURL:file:///music/a/AC-DC/%2774%20Jailbreak/04.%20Soul%20Stripper.m4a
 #EXTINF:385,Soul Stripper
 /music/a/AC-DC/'74 Jailbreak/04. Soul Stripper.m4a
-#EXTURL:file:///music/t/The%20Band/Greatest%20Hits/01.%20The%20Weight.m4a
+#EXTURL:file:///music/t/The%20Band/Greatest%20Hits/01.%20The%20Weight.flac
 #EXTINF:274,The Weight
-/music/t/The Band/Greatest Hits/01. The Weight.m4a
-#EXTURL:file:///music/t/The%20Band/Greatest%20Hits/05.%20Up%20On%20Cripple%20Creek.m4a
+/music/t/The Band/Greatest Hits/01. The Weight.flac
+#EXTURL:file:///music/t/The%20Band/Greatest%20Hits/05.%20Up%20On%20Cripple%20Creek.flac
 #EXTINF:270,Up On Cripple Creek
-/music/t/The Band/Greatest Hits/05. Up On Cripple Creek.m4a
-#EXTURL:file:///music/c/Chris%20Ribaudo/Time%20Passes/10.%20Blues%20Jam%20(feat.%20Josh%20Amara).m4a
+/music/t/The Band/Greatest Hits/05. Up On Cripple Creek.flac
+#EXTURL:file:///music/c/Chris%20Ribaudo/Time%20Passes/10.%20Blues%20Jam%20(feat.%20Josh%20Amara).flac
 #EXTINF:213,Blues Jam (feat. Josh Amara)
-/music/c/Chris Ribaudo/Time Passes/10. Blues Jam (feat. Josh Amara).m4a
+/music/c/Chris Ribaudo/Time Passes/10. Blues Jam (feat. Josh Amara).flac
 #EXTURL:file:///music/c/Curtis%20Mayfield/Superfly%20-%20Deluxe%2025th%20Anniversary%20Edition/1-02.%20Pusherman.m4a
 #EXTINF:305,Pusherman
 /music/c/Curtis Mayfield/Superfly - Deluxe 25th Anniversary Edition/1-02. Pusherman.m4a
@@ -1782,15 +1752,15 @@
 #EXTURL:file:///music/Compilation/Cities%2097%20Sampler/New%20Music%20New%20Names%202007/05.%20Golden%20Days.m4a
 #EXTINF:260,Golden Days
 /music/Compilation/Cities 97 Sampler/New Music New Names 2007/05. Golden Days.m4a
-#EXTURL:file:///music/g/Guitar%20Pete/Raw%20Deal/01.%20Raw%20Deal.m4a
+#EXTURL:file:///music/g/Guitar%20Pete/Raw%20Deal/01.%20Raw%20Deal.flac
 #EXTINF:502,Raw Deal
-/music/g/Guitar Pete/Raw Deal/01. Raw Deal.m4a
+/music/g/Guitar Pete/Raw Deal/01. Raw Deal.flac
 #EXTURL:file:///music/j/Johnny%20Winter/Live%20In%20N.Y.C.%20%2797/08.%20Johnny%20Guitar.mp3
 #EXTINF:271,Johnny Guitar
 /music/j/Johnny Winter/Live In N.Y.C. '97/08. Johnny Guitar.mp3
-#EXTURL:file:///music/a/Aerosmith/Rocks/08.%20Lick%20And%20A%20Promise.m4a
+#EXTURL:file:///music/a/Aerosmith/Rocks/08.%20Lick%20And%20A%20Promise.flac
 #EXTINF:185,Lick And A Promise
-/music/a/Aerosmith/Rocks/08. Lick And A Promise.m4a
+/music/a/Aerosmith/Rocks/08. Lick And A Promise.flac
 #EXTURL:file:///music/r/Reckless%20Sleepers/Big%20Boss%20Sounds/10.%20It%20Came%20Quick%20(And%20It%20Didn%27t%20Stay%20Long).m4a
 #EXTINF:199,It Came Quick (And It Didn't Stay Long)
 /music/r/Reckless Sleepers/Big Boss Sounds/10. It Came Quick (And It Didn't Stay Long).m4a
@@ -1803,15 +1773,15 @@
 #EXTURL:file:///music/j/John%20Mayall/Along%20For%20The%20Ride/13.%20She%20Don%27t%20Play%20By%20The%20Rules.m4a
 #EXTINF:313,She Don't Play By The Rules
 /music/j/John Mayall/Along For The Ride/13. She Don't Play By The Rules.m4a
-#EXTURL:file:///music/s/Sheryl%20Crow/Live%20From%20Central%20Park/06.%20A%20Change%20Would%20Do%20You%20Good.m4a
+#EXTURL:file:///music/s/Sheryl%20Crow/Live%20From%20Central%20Park/06.%20A%20Change%20Would%20Do%20You%20Good.flac
 #EXTINF:317,A Change Would Do You Good
-/music/s/Sheryl Crow/Live From Central Park/06. A Change Would Do You Good.m4a
-#EXTURL:file:///music/w/War/Anthology/Disc2/02.%20Low%20Rider.m4a
+/music/s/Sheryl Crow/Live From Central Park/06. A Change Would Do You Good.flac
+#EXTURL:file:///music/w/War/Anthology/Disc2/02.%20Low%20Rider.flac
 #EXTINF:190,Low Rider
-/music/w/War/Anthology/Disc2/02. Low Rider.m4a
-#EXTURL:file:///music/w/War/Anthology/Disc2/11.%20Outlaw.m4a
+/music/w/War/Anthology/Disc2/02. Low Rider.flac
+#EXTURL:file:///music/w/War/Anthology/Disc2/11.%20Outlaw.flac
 #EXTINF:240,Outlaw
-/music/w/War/Anthology/Disc2/11. Outlaw.m4a
+/music/w/War/Anthology/Disc2/11. Outlaw.flac
 #EXTURL:file:///music/s/Styx/Greatest%20Hits/04.%20Too%20Much%20Time%20On%20My%20Hands.m4a
 #EXTINF:273,Too Much Time On My Hands
 /music/s/Styx/Greatest Hits/04. Too Much Time On My Hands.m4a
@@ -1824,15 +1794,15 @@
 #EXTURL:file:///music/Compilation/Living%20In%20Oblivion:%20The%2080%27s%20Greatest%20Hits/Disc5/11.%20Birds%20Fly%20(Whisper%20To%20A%20Scream).mp3
 #EXTINF:223,Birds Fly (Whisper To A Scream)
 /music/Compilation/Living In Oblivion: The 80's Greatest Hits/Disc5/11. Birds Fly (Whisper To A Scream).mp3
-#EXTURL:file:///music/b/Bob%20Dylan/Greatest%20Hits/09.%20Positively%204th%20Street.m4a
+#EXTURL:file:///music/b/Bob%20Dylan/Greatest%20Hits/09.%20Positively%204th%20Street.flac
 #EXTINF:236,Positively 4th Street
-/music/b/Bob Dylan/Greatest Hits/09. Positively 4th Street.m4a
+/music/b/Bob Dylan/Greatest Hits/09. Positively 4th Street.flac
 #EXTURL:file:///music/g/George%20Harrison/The%20Best%20of%20George%20Harrison/08.%20My%20Sweet%20Lord.m4a
 #EXTINF:280,My Sweet Lord
 /music/g/George Harrison/The Best of George Harrison/08. My Sweet Lord.m4a
-#EXTURL:file:///music/j/Johnny%20A/Sometime%20Tuesday%20Morning/01.%20Sometime%20Tuesday%20Morning.m4a
+#EXTURL:file:///music/j/Johnny%20A/Sometime%20Tuesday%20Morning/01.%20Sometime%20Tuesday%20Morning.flac
 #EXTINF:266,Sometime Tuesday Morning
-/music/j/Johnny A/Sometime Tuesday Morning/01. Sometime Tuesday Morning.m4a
+/music/j/Johnny A/Sometime Tuesday Morning/01. Sometime Tuesday Morning.flac
 #EXTURL:file:///music/j/Jeremiah%20Johnson%20&%20The%20Texas%20Alligators/Dirty%20Mind/02.%20Dirty%20Mind.m4a
 #EXTINF:324,Dirty Mind
 /music/j/Jeremiah Johnson & The Texas Alligators/Dirty Mind/02. Dirty Mind.m4a
@@ -1851,9 +1821,9 @@
 #EXTURL:file:///music/l/Little%20River%20Band/All-Time%20Greatest%20Hits/04.%20Take%20It%20Easy%20On%20Me.mp3
 #EXTINF:226,Take It Easy On Me
 /music/l/Little River Band/All-Time Greatest Hits/04. Take It Easy On Me.mp3
-#EXTURL:file:///music/t/Traveling%20Wilburys/Traveling%20Wilburys%20Vol.%201/04.%20Last%20Night.m4a
+#EXTURL:file:///music/t/Traveling%20Wilburys/Traveling%20Wilburys%20Vol.%201/04.%20Last%20Night.flac
 #EXTINF:231,Last Night
-/music/t/Traveling Wilburys/Traveling Wilburys Vol. 1/04. Last Night.m4a
+/music/t/Traveling Wilburys/Traveling Wilburys Vol. 1/04. Last Night.flac
 #EXTURL:file:///music/q/Quicksilver%20Messenger%20Service/Singles/What%20About%20Me.mp3
 #EXTINF:399,What About Me
 /music/q/Quicksilver Messenger Service/Singles/What About Me.mp3
@@ -1866,48 +1836,42 @@
 #EXTURL:file:///music/s/Sonia%20Dada/A%20Day%20At%20The%20Beach/08.%20Sail%20Away.m4a
 #EXTINF:249,Sail Away
 /music/s/Sonia Dada/A Day At The Beach/08. Sail Away.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/03.%20Johnny%27s%20Jam.m4a
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/03.%20Johnny%27s%20Jam.flac
 #EXTINF:248,Johnny's Jam
-/music/j/Johnnie Marshall/Live For Today/03. Johnny's Jam.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/06.%20Not%20Like%20This%20Before.m4a
+/music/j/Johnnie Marshall/Live For Today/03. Johnny's Jam.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/06.%20Not%20Like%20This%20Before.flac
 #EXTINF:295,Not Like This Before
-/music/j/Johnnie Marshall/Live For Today/06. Not Like This Before.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/09.%20Love%20To%20Play%20Them%20Blues.m4a
+/music/j/Johnnie Marshall/Live For Today/06. Not Like This Before.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/09.%20Love%20To%20Play%20Them%20Blues.flac
 #EXTINF:225,Love To Play Them Blues
-/music/j/Johnnie Marshall/Live For Today/09. Love To Play Them Blues.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/04.%20Live%20For%20Today.m4a
+/music/j/Johnnie Marshall/Live For Today/09. Love To Play Them Blues.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/04.%20Live%20For%20Today.flac
 #EXTINF:222,Live For Today
-/music/j/Johnnie Marshall/Live For Today/04. Live For Today.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/02.%20On%20My%20Way%20To%20Memphis.m4a
+/music/j/Johnnie Marshall/Live For Today/04. Live For Today.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/02.%20On%20My%20Way%20To%20Memphis.flac
 #EXTINF:233,On My Way To Memphis
-/music/j/Johnnie Marshall/Live For Today/02. On My Way To Memphis.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/07.%204%20O%27Clock%20In%20The%20Morning.m4a
+/music/j/Johnnie Marshall/Live For Today/02. On My Way To Memphis.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/07.%204%20O%27Clock%20In%20The%20Morning.flac
 #EXTINF:353,4 O'Clock In The Morning
-/music/j/Johnnie Marshall/Live For Today/07. 4 O'Clock In The Morning.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/11.%20Sweetest%20Thing%20I%20Know.m4a
+/music/j/Johnnie Marshall/Live For Today/07. 4 O'Clock In The Morning.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/11.%20Sweetest%20Thing%20I%20Know.flac
 #EXTINF:331,Sweetest Thing I Know
-/music/j/Johnnie Marshall/Live For Today/11. Sweetest Thing I Know.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/08.%20Dave%27s%20C.C.%20Groove.m4a
+/music/j/Johnnie Marshall/Live For Today/11. Sweetest Thing I Know.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/08.%20Dave%27s%20C.C.%20Groove.flac
 #EXTINF:243,Dave's C.C. Groove
-/music/j/Johnnie Marshall/Live For Today/08. Dave's C.C. Groove.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/05.%20Jodi%20Man.m4a
+/music/j/Johnnie Marshall/Live For Today/08. Dave's C.C. Groove.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/05.%20Jodi%20Man.flac
 #EXTINF:268,Jodi Man
-/music/j/Johnnie Marshall/Live For Today/05. Jodi Man.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/01.%20Let%27s%20Hope%20Our%20Love%20Is%20Not%20A%20Mistake.m4a
+/music/j/Johnnie Marshall/Live For Today/05. Jodi Man.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/01.%20Let%27s%20Hope%20Our%20Love%20Is%20Not%20A%20Mistake.flac
 #EXTINF:278,Let's Hope Our Love Is Not A Mistake
-/music/j/Johnnie Marshall/Live For Today/01. Let's Hope Our Love Is Not A Mistake.m4a
-#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/10.%20Crazy%20%27bout%20My%20Woman.m4a
+/music/j/Johnnie Marshall/Live For Today/01. Let's Hope Our Love Is Not A Mistake.flac
+#EXTURL:file:///music/j/Johnnie%20Marshall/Live%20For%20Today/10.%20Crazy%20%27bout%20My%20Woman.flac
 #EXTINF:214,Crazy 'bout My Woman
-/music/j/Johnnie Marshall/Live For Today/10. Crazy 'bout My Woman.m4a
-#EXTURL:file:///music/s/Steve%20Winwood/About%20Time/14.%20Voodoo%20Chile.m4a
-#EXTINF:888,Voodoo Chile
-/music/s/Steve Winwood/About Time/14. Voodoo Chile.m4a
-#EXTURL:file:///music/s/Steve%20Winwood/About%20Time/13.%20Why%20Can%27t%20We%20Live%20Together%20(Live).m4a
-#EXTINF:395,Why Can't We Live Together (Live)
-/music/s/Steve Winwood/About Time/13. Why Can't We Live Together (Live).m4a
-#EXTURL:file:///music/s/Steve%20Winwood/About%20Time/01.%20Different%20Light.m4a
+/music/j/Johnnie Marshall/Live For Today/10. Crazy 'bout My Woman.flac
+#EXTURL:file:///music/s/Steve%20Winwood/About%20Time/01.%20Different%20Light.flac
 #EXTINF:395,Different Light
-/music/s/Steve Winwood/About Time/01. Different Light.m4a
+/music/s/Steve Winwood/About Time/01. Different Light.flac
 #EXTURL:file:///music/p/Psychedelic%20Furs/Greatest%20Hits/11.%20Heartbreak%20Beat.m4a
 #EXTINF:312,Heartbreak Beat
 /music/p/Psychedelic Furs/Greatest Hits/11. Heartbreak Beat.m4a
@@ -1950,12 +1914,12 @@
 #EXTURL:file:///music/a/Alannah%20Myles/Singles/03.%20Black%20Velvet.m4a
 #EXTINF:285,Black Velvet
 /music/a/Alannah Myles/Singles/03. Black Velvet.m4a
-#EXTURL:file:///music/p/Peter%20Frampton/Fingerprints/01.%20Boot%20It%20Up.m4a
+#EXTURL:file:///music/p/Peter%20Frampton/Fingerprints/01.%20Boot%20It%20Up.flac
 #EXTINF:208,Boot It Up
-/music/p/Peter Frampton/Fingerprints/01. Boot It Up.m4a
-#EXTURL:file:///music/r/Roy%20Buchanan/Live%20Stock/03.%20Further%20On%20Up%20The%20Road.m4a
+/music/p/Peter Frampton/Fingerprints/01. Boot It Up.flac
+#EXTURL:file:///music/r/Roy%20Buchanan/Live%20Stock/03.%20Further%20On%20Up%20The%20Road.flac
 #EXTINF:221,Further On Up The Road
-/music/r/Roy Buchanan/Live Stock/03. Further On Up The Road.m4a
+/music/r/Roy Buchanan/Live Stock/03. Further On Up The Road.flac
 #EXTURL:file:///music/t/Tommy%20Castro/Whole%20Lotta%20Soul/05.%20What%20You%20Gonna%27%20Do%20Now%3F.mp3
 #EXTINF:309,What You Gonna' Do Now?
 /music/t/Tommy Castro/Whole Lotta Soul/05. What You Gonna' Do Now?.mp3
@@ -1974,36 +1938,36 @@
 #EXTURL:file:///music/t/Too%20Slim%20&%20The%20Taildraggers/Tales%20of%20Sin%20And%20Redemption/11.%20Too%20Cool.m4a
 #EXTINF:352,Too Cool
 /music/t/Too Slim & The Taildraggers/Tales of Sin And Redemption/11. Too Cool.m4a
-#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Hard%20Promises/04.%20Something%20Big.m4a
+#EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Hard%20Promises/04.%20Something%20Big.flac
 #EXTINF:284,Something Big
-/music/t/Tom Petty & The Heartbreakers/Hard Promises/04. Something Big.m4a
+/music/t/Tom Petty & The Heartbreakers/Hard Promises/04. Something Big.flac
 #EXTURL:file:///music/j/Jim%20Suhler/Live%20At%20Blue%20Cat%20Blues/03.%20I%20Wonder%20Why.m4a
 #EXTINF:477,I Wonder Why
 /music/j/Jim Suhler/Live At Blue Cat Blues/03. I Wonder Why.m4a
-#EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Ledbetter%20Heights/12.%20Ledbetter%20Heights.m4a
+#EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Ledbetter%20Heights/12.%20Ledbetter%20Heights.flac
 #EXTINF:371,Ledbetter Heights
-/music/k/Kenny Wayne Shepherd/Ledbetter Heights/12. Ledbetter Heights.m4a
-#EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Ledbetter%20Heights/02.%20Deja%20Voodoo.m4a
+/music/k/Kenny Wayne Shepherd/Ledbetter Heights/12. Ledbetter Heights.flac
+#EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Ledbetter%20Heights/02.%20Deja%20Voodoo.flac
 #EXTINF:368,Deja Voodoo
-/music/k/Kenny Wayne Shepherd/Ledbetter Heights/02. Deja Voodoo.m4a
+/music/k/Kenny Wayne Shepherd/Ledbetter Heights/02. Deja Voodoo.flac
 #EXTURL:file:///music/n/North%20Mississippi%20Allstars/Hill%20Country%20Revue/02.%20Po%20Black%20Maddie%20-%20Skinny%20Woman%20-%20Po%20Black%20Maddie.m4a
 #EXTINF:774,Po Black Maddie / Skinny Woman / Po Black Maddie
 /music/n/North Mississippi Allstars/Hill Country Revue/02. Po Black Maddie - Skinny Woman - Po Black Maddie.m4a
 #EXTURL:file:///music/a/AC-DC/7%22%20Bootleg%20Single%20%22Nutcrackers%22%20Vol.1/She%27s%20My%20Baby.mp3
 #EXTINF:214,She's My Baby
 /music/a/AC-DC/7" Bootleg Single "Nutcrackers" Vol.1/She's My Baby.mp3
-#EXTURL:file:///music/j/J.J.%20Cale/Roll%20On/07.%20Fonda-Lina.m4a
+#EXTURL:file:///music/j/J.J.%20Cale/Roll%20On/07.%20Fonda-Lina.flac
 #EXTINF:201,Fonda-Lina
-/music/j/J.J. Cale/Roll On/07. Fonda-Lina.m4a
-#EXTURL:file:///music/j/J.J.%20Cale/Roll%20On/03.%20Where%20The%20Sun%20Don%27t%20Shine.m4a
+/music/j/J.J. Cale/Roll On/07. Fonda-Lina.flac
+#EXTURL:file:///music/j/J.J.%20Cale/Roll%20On/03.%20Where%20The%20Sun%20Don%27t%20Shine.flac
 #EXTINF:187,Where The Sun Don't Shine
-/music/j/J.J. Cale/Roll On/03. Where The Sun Don't Shine.m4a
+/music/j/J.J. Cale/Roll On/03. Where The Sun Don't Shine.flac
 #EXTURL:file:///music/d/Dolly%20Parton/Singles/02.%20Shine.m4a
 #EXTINF:311,Shine
 /music/d/Dolly Parton/Singles/02. Shine.m4a
-#EXTURL:file:///music/b/BoDeans/The%20Best%20of%20BoDeans:%20Slash%20And%20Burn/02.%20Fadeaway.m4a
+#EXTURL:file:///music/b/BoDeans/The%20Best%20of%20BoDeans:%20Slash%20And%20Burn/02.%20Fadeaway.flac
 #EXTINF:267,Fadeaway
-/music/b/BoDeans/The Best of BoDeans: Slash And Burn/02. Fadeaway.m4a
+/music/b/BoDeans/The Best of BoDeans: Slash And Burn/02. Fadeaway.flac
 #EXTURL:file:///music/c/Charlie%20Hunter/Music!Music!Music!/01.%20Soul%20of%20a%20Man.m4a
 #EXTINF:289,Soul of a Man
 /music/c/Charlie Hunter/Music!Music!Music!/01. Soul of a Man.m4a
@@ -2061,9 +2025,9 @@
 #EXTURL:file:///music/g/Greg%20Kurstin/Action%20Figure%20Party/06.%20Clock%20Radio.m4a
 #EXTINF:271,Clock Radio
 /music/g/Greg Kurstin/Action Figure Party/06. Clock Radio.m4a
-#EXTURL:file:///music/g/Guns%20N%27%20Roses/Appetite%20For%20Destruction/09.%20Sweet%20Child%20O%27%20Mine.m4a
+#EXTURL:file:///music/g/Guns%20N%27%20Roses/Appetite%20For%20Destruction/09.%20Sweet%20Child%20O%27%20Mine.flac
 #EXTINF:356,Sweet Child O' Mine
-/music/g/Guns N' Roses/Appetite For Destruction/09. Sweet Child O' Mine.m4a
+/music/g/Guns N' Roses/Appetite For Destruction/09. Sweet Child O' Mine.flac
 #EXTURL:file:///music/b/Bon%20Jovi/Cross%20Road/01.%20Livin%27%20On%20A%20Prayer.m4a
 #EXTINF:251,Livin' On A Prayer
 /music/b/Bon Jovi/Cross Road/01. Livin' On A Prayer.m4a
@@ -2085,15 +2049,15 @@
 #EXTURL:file:///music/Soundtracks/Coneheads/02.%20Tainted%20Love.mp3
 #EXTINF:162,Tainted Love
 /music/Soundtracks/Coneheads/02. Tainted Love.mp3
-#EXTURL:file:///music/b/Blues%20Traveler/Suzie%20Cracks%20The%20Whip/07.%20Don%27t%20Wanna%20Go%20(Feat.%20Crystal%20Bowersox).m4a
+#EXTURL:file:///music/b/Blues%20Traveler/Suzie%20Cracks%20The%20Whip/07.%20Don%27t%20Wanna%20Go%20(Feat.%20Crystal%20Bowersox).flac
 #EXTINF:231,Don't Wanna Go (feat. Crystal Bowersox)
-/music/b/Blues Traveler/Suzie Cracks The Whip/07. Don't Wanna Go (Feat. Crystal Bowersox).m4a
+/music/b/Blues Traveler/Suzie Cracks The Whip/07. Don't Wanna Go (Feat. Crystal Bowersox).flac
 #EXTURL:file:///music/j/J.J.%20Cale/Guitar%20Man/03.%20Days%20Go%20By.m4a
 #EXTINF:207,Days Go By
 /music/j/J.J. Cale/Guitar Man/03. Days Go By.m4a
-#EXTURL:file:///music/b/Black%20Angels/Indigo%20Meadow/12.%20You%27re%20Mine.m4a
+#EXTURL:file:///music/b/Black%20Angels/Indigo%20Meadow/12.%20You%27re%20Mine.flac
 #EXTINF:220,You're Mine
-/music/b/Black Angels/Indigo Meadow/12. You're Mine.m4a
+/music/b/Black Angels/Indigo Meadow/12. You're Mine.flac
 #EXTURL:file:///music/k/Keb%27%20Mo%27/Oklahoma/01.%20I%20Remember%20You.m4a
 #EXTINF:295,I Remember You
 /music/k/Keb' Mo'/Oklahoma/01. I Remember You.m4a
@@ -2106,9 +2070,9 @@
 #EXTURL:file:///music/a/Allman%20Brothers%20Band/An%20Evening%20With%20The%20Allman%20Brothers%20Band:%202nd%20Set/08.%20Jessica.m4a
 #EXTINF:965,Jessica
 /music/a/Allman Brothers Band/An Evening With The Allman Brothers Band: 2nd Set/08. Jessica.m4a
-#EXTURL:file:///music/t/Tab%20Benoit/Nice%20And%20Warm/01.%20Nice%20And%20Warm.m4a
+#EXTURL:file:///music/t/Tab%20Benoit/Nice%20And%20Warm/01.%20Nice%20And%20Warm.flac
 #EXTINF:438,Nice And Warm
-/music/t/Tab Benoit/Nice And Warm/01. Nice And Warm.m4a
+/music/t/Tab Benoit/Nice And Warm/01. Nice And Warm.flac
 #EXTURL:file:///music/f/Firm/The%20Firm/05.%20Radioactive.m4a
 #EXTINF:169,Radioactive
 /music/f/Firm/The Firm/05. Radioactive.m4a
@@ -2139,9 +2103,9 @@
 #EXTURL:file:///music/p/Peter%20Murphy/Deep/07.%20Cuts%20You%20Up.m4a
 #EXTINF:327,Cuts You Up
 /music/p/Peter Murphy/Deep/07. Cuts You Up.m4a
-#EXTURL:file:///music/0-9/38%20Special/Anthology/1-07.%20Wild-Eyed%20Southern%20Boys.m4a
+#EXTURL:file:///music/0-9/38%20Special/Anthology/1-07.%20Wild-Eyed%20Southern%20Boys.flac
 #EXTINF:257,Wild-Eyed Southern Boys
-/music/0-9/38 Special/Anthology/1-07. Wild-Eyed Southern Boys.m4a
+/music/0-9/38 Special/Anthology/1-07. Wild-Eyed Southern Boys.flac
 #EXTURL:file:///music/w/World%20Party/Goodbye%20Jumbo/04.%20Put%20The%20Message%20In%20The%20Box.m4a
 #EXTINF:256,Put The Message In The Box
 /music/w/World Party/Goodbye Jumbo/04. Put The Message In The Box.m4a
@@ -2157,21 +2121,21 @@
 #EXTURL:file:///music/v/Van%20Morrison/Best%20of%20Van%20Morrison/06.%20Brown%20Eyed%20Girl.mp3
 #EXTINF:185,Brown Eyed Girl
 /music/v/Van Morrison/Best of Van Morrison/06. Brown Eyed Girl.mp3
-#EXTURL:file:///music/a/Atlanta%20Rhythm%20Section/The%20Best%20of%20Atlanta%20Rhythm%20Section/02.%20Champagne%20Jam.m4a
+#EXTURL:file:///music/a/Atlanta%20Rhythm%20Section/The%20Best%20of%20Atlanta%20Rhythm%20Section/02.%20Champagne%20Jam.flac
 #EXTINF:275,Champagne Jam
-/music/a/Atlanta Rhythm Section/The Best of Atlanta Rhythm Section/02. Champagne Jam.m4a
-#EXTURL:file:///music/s/Sheryl%20Crow/Sheryl%20Crow/02.%20A%20Change%20Would%20Do%20You%20Good.m4a
+/music/a/Atlanta Rhythm Section/The Best of Atlanta Rhythm Section/02. Champagne Jam.flac
+#EXTURL:file:///music/s/Sheryl%20Crow/Sheryl%20Crow/02.%20A%20Change%20Would%20Do%20You%20Good.flac
 #EXTINF:229,A Change Would Do You Good
-/music/s/Sheryl Crow/Sheryl Crow/02. A Change Would Do You Good.m4a
-#EXTURL:file:///music/e/Eric%20Clapton/Complete%20Clapton/2-06.%20Pretending.m4a
+/music/s/Sheryl Crow/Sheryl Crow/02. A Change Would Do You Good.flac
+#EXTURL:file:///music/e/Eric%20Clapton/Complete%20Clapton/2-06.%20Pretending.flac
 #EXTINF:283,Pretending
-/music/e/Eric Clapton/Complete Clapton/2-06. Pretending.m4a
-#EXTURL:file:///music/e/Eric%20Clapton/Complete%20Clapton/2-15.%20Sweet%20Home%20Chicago.m4a
+/music/e/Eric Clapton/Complete Clapton/2-06. Pretending.flac
+#EXTURL:file:///music/e/Eric%20Clapton/Complete%20Clapton/2-15.%20Sweet%20Home%20Chicago.flac
 #EXTINF:317,Sweet Home Chicago
-/music/e/Eric Clapton/Complete Clapton/2-15. Sweet Home Chicago.m4a
-#EXTURL:file:///music/e/Edie%20Brickell/Shooting%20Rubberbands%20At%20The%20Stars/01.%20What%20I%20Am.m4a
+/music/e/Eric Clapton/Complete Clapton/2-15. Sweet Home Chicago.flac
+#EXTURL:file:///music/e/Edie%20Brickell/Shooting%20Rubberbands%20At%20The%20Stars/01.%20What%20I%20Am.flac
 #EXTINF:298,What I Am
-/music/e/Edie Brickell/Shooting Rubberbands At The Stars/01. What I Am.m4a
+/music/e/Edie Brickell/Shooting Rubberbands At The Stars/01. What I Am.flac
 #EXTURL:file:///music/m/Matt%20Schofield/Heads,%20Tails%20&%20Aces/01.%20What%20I%20Wanna%20Hear.m4a
 #EXTINF:362,What I Wanna Hear
 /music/m/Matt Schofield/Heads, Tails & Aces/01. What I Wanna Hear.m4a
@@ -2211,9 +2175,9 @@
 #EXTURL:file:///music/p/Pete%20Yorn/Musicforthemorningafter/01.%20Life%20On%20A%20Chain.m4a
 #EXTINF:227,Life On A Chain
 /music/p/Pete Yorn/Musicforthemorningafter/01. Life On A Chain.m4a
-#EXTURL:file:///music/j/Joan%20Osborne/Bring%20It%20On%20Home/01.%20I%20Don%27t%20Need%20No%20Doctor.m4a
+#EXTURL:file:///music/j/Joan%20Osborne/Bring%20It%20On%20Home/01.%20I%20Don%27t%20Need%20No%20Doctor.flac
 #EXTINF:200,I Don't Need No Doctor
-/music/j/Joan Osborne/Bring It On Home/01. I Don't Need No Doctor.m4a
+/music/j/Joan Osborne/Bring It On Home/01. I Don't Need No Doctor.flac
 #EXTURL:file:///music/Compilation/Nuggets:%20A%20Classic%20Collection%20From%20The%20Psychedelic%20Sixties/12.%20Wild%20Thing.m4a
 #EXTINF:155,Wild Thing
 /music/Compilation/Nuggets: A Classic Collection From The Psychedelic Sixties/12. Wild Thing.m4a
@@ -2250,9 +2214,9 @@
 #EXTURL:file:///music/s/Semisonic/Feeling%20Strangely%20Fine/01.%20Closing%20Time.m4a
 #EXTINF:274,Closing Time
 /music/s/Semisonic/Feeling Strangely Fine/01. Closing Time.m4a
-#EXTURL:file:///music/c/Chris%20Rea/The%20Road%20To%20Hell/04.%20Texas.m4a
+#EXTURL:file:///music/c/Chris%20Rea/The%20Road%20To%20Hell/04.%20Texas.flac
 #EXTINF:310,Texas
-/music/c/Chris Rea/The Road To Hell/04. Texas.m4a
+/music/c/Chris Rea/The Road To Hell/04. Texas.flac
 #EXTURL:file:///music/s/Steppenwolf/Steppenwolf/11.%20The%20Ostrich.m4a
 #EXTINF:345,The Ostrich
 /music/s/Steppenwolf/Steppenwolf/11. The Ostrich.m4a
@@ -2268,12 +2232,12 @@
 #EXTURL:file:///music/l/Lew%20Jetton%20&%2061%20South/State%20Line%20Blues/01.%20Curse%20The%20Day.m4a
 #EXTINF:272,Curse The Day
 /music/l/Lew Jetton & 61 South/State Line Blues/01. Curse The Day.m4a
-#EXTURL:file:///music/p/Paul%20McCartney/Venus%20And%20Mars/11.%20Listen%20To%20What%20The%20Man%20Said.m4a
+#EXTURL:file:///music/p/Paul%20McCartney/Venus%20And%20Mars/11.%20Listen%20To%20What%20The%20Man%20Said.flac
 #EXTINF:241,Listen To What The Man Said
-/music/p/Paul McCartney/Venus And Mars/11. Listen To What The Man Said.m4a
-#EXTURL:file:///music/p/Paul%20McCartney/Venus%20And%20Mars/06.%20Letting%20Go.m4a
+/music/p/Paul McCartney/Venus And Mars/11. Listen To What The Man Said.flac
+#EXTURL:file:///music/p/Paul%20McCartney/Venus%20And%20Mars/06.%20Letting%20Go.flac
 #EXTINF:273,Letting Go
-/music/p/Paul McCartney/Venus And Mars/06. Letting Go.m4a
+/music/p/Paul McCartney/Venus And Mars/06. Letting Go.flac
 #EXTURL:file:///music/c/Collective%20Soul/Home/1-03.%20Listen.m4a
 #EXTINF:273,Listen
 /music/c/Collective Soul/Home/1-03. Listen.m4a
@@ -2283,12 +2247,12 @@
 #EXTURL:file:///music/t/Tommy%20Castro/The%20Legendary%20Rhythm%20&%20Blues%20Revue/07.%20Fog%20(feat.%20Trampled%20Under%20Foot).m4a
 #EXTINF:384,Fog (Feat. Trampled Under Foot)
 /music/t/Tommy Castro/The Legendary Rhythm & Blues Revue/07. Fog (feat. Trampled Under Foot).m4a
-#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Greatest%20Hits/06.%20Little%20Wing.m4a
+#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Greatest%20Hits/06.%20Little%20Wing.flac
 #EXTINF:408,Little Wing
-/music/s/Stevie Ray Vaughan & Double Trouble/Greatest Hits/06. Little Wing.m4a
-#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Greatest%20Hits/10.%20Couldn%27t%20Stand%20The%20Weather.m4a
+/music/s/Stevie Ray Vaughan & Double Trouble/Greatest Hits/06. Little Wing.flac
+#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Greatest%20Hits/10.%20Couldn%27t%20Stand%20The%20Weather.flac
 #EXTINF:282,Couldn't Stand The Weather
-/music/s/Stevie Ray Vaughan & Double Trouble/Greatest Hits/10. Couldn't Stand The Weather.m4a
+/music/s/Stevie Ray Vaughan & Double Trouble/Greatest Hits/10. Couldn't Stand The Weather.flac
 #EXTURL:file:///music/s/Sean%20Chambers%20Band/Live%20From%20The%20Long%20Island%20Blues%20Warehouse/08.%20Too%20Much%20Blues.m4a
 #EXTINF:220,Too Much Blues
 /music/s/Sean Chambers Band/Live From The Long Island Blues Warehouse/08. Too Much Blues.m4a
@@ -2304,9 +2268,9 @@
 #EXTURL:file:///music/b/Better%20Than%20Ezra/Greatest%20Hits/02.%20Good.m4a
 #EXTINF:185,Good
 /music/b/Better Than Ezra/Greatest Hits/02. Good.m4a
-#EXTURL:file:///music/s/Savoy%20Brown/The%20Millennium%20Collection%20-%20The%20Best%20of%20Savoy%20Brown/03.%20I%27m%20Tired.m4a
+#EXTURL:file:///music/s/Savoy%20Brown/The%20Millennium%20Collection%20-%20The%20Best%20of%20Savoy%20Brown/03.%20I%27m%20Tired.flac
 #EXTINF:206,I'm Tired
-/music/s/Savoy Brown/The Millennium Collection - The Best of Savoy Brown/03. I'm Tired.m4a
+/music/s/Savoy Brown/The Millennium Collection - The Best of Savoy Brown/03. I'm Tired.flac
 #EXTURL:file:///music/f/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/03.%20Dance,%20Dance.m4a
 #EXTINF:180,Dance, Dance
 /music/f/Fall Out Boy/From Under The Cork Tree/03. Dance, Dance.m4a
@@ -2343,9 +2307,9 @@
 #EXTURL:file:///music/g/Gin%20Blossoms/New%20Miserable%20Experience/02.%20Hey%20Jealousy.m4a
 #EXTINF:237,Hey Jealousy
 /music/g/Gin Blossoms/New Miserable Experience/02. Hey Jealousy.m4a
-#EXTURL:file:///music/g/Gregg%20Allman%20Band/Just%20Before%20The%20Bullets%20Fly/01.%20Demons.m4a
+#EXTURL:file:///music/g/Gregg%20Allman%20Band/Just%20Before%20The%20Bullets%20Fly/01.%20Demons.flac
 #EXTINF:210,Demons
-/music/g/Gregg Allman Band/Just Before The Bullets Fly/01. Demons.m4a
+/music/g/Gregg Allman Band/Just Before The Bullets Fly/01. Demons.flac
 #EXTURL:file:///music/Compilation/The%20New%20York%20Rock%20And%20Soul%20Revue/Live%20At%20The%20Beacon/12.%20Minute%20By%20Minute.m4a
 #EXTINF:376,Minute By Minute
 /music/Compilation/The New York Rock And Soul Revue/Live At The Beacon/12. Minute By Minute.m4a
@@ -2364,15 +2328,15 @@
 #EXTURL:file:///music/b/Boz%20Scaggs/Come%20On%20Home/01.%20It%20All%20Went%20Down%20The%20Drain.m4a
 #EXTINF:333,It All Went Down The Drain
 /music/b/Boz Scaggs/Come On Home/01. It All Went Down The Drain.m4a
-#EXTURL:file:///music/m/Mamas%20&%20The%20Papas/20th%20Century%20Masters%20The%20Millennium%20Collection:%20The%20Best%20of%20The%20Mamas%20&%20The%20Papas/01.%20California%20Dreamin%27.m4a
+#EXTURL:file:///music/m/Mamas%20&%20The%20Papas/20th%20Century%20Masters%20The%20Millennium%20Collection:%20The%20Best%20of%20The%20Mamas%20&%20The%20Papas/01.%20California%20Dreamin%27.flac
 #EXTINF:161,California Dreamin'
-/music/m/Mamas & The Papas/20th Century Masters The Millennium Collection: The Best of The Mamas & The Papas/01. California Dreamin'.m4a
-#EXTURL:file:///music/u/U2/Under%20A%20Blood%20Red%20Sky/05.%20Sunday%20Bloody%20Sunday.m4a
+/music/m/Mamas & The Papas/20th Century Masters The Millennium Collection: The Best of The Mamas & The Papas/01. California Dreamin'.flac
+#EXTURL:file:///music/u/U2/Under%20A%20Blood%20Red%20Sky/05.%20Sunday%20Bloody%20Sunday.flac
 #EXTINF:326,Sunday Bloody Sunday
-/music/u/U2/Under A Blood Red Sky/05. Sunday Bloody Sunday.m4a
-#EXTURL:file:///music/u/U2/Under%20A%20Blood%20Red%20Sky/01.%20Gloria.m4a
+/music/u/U2/Under A Blood Red Sky/05. Sunday Bloody Sunday.flac
+#EXTURL:file:///music/u/U2/Under%20A%20Blood%20Red%20Sky/01.%20Gloria.flac
 #EXTINF:284,Gloria
-/music/u/U2/Under A Blood Red Sky/01. Gloria.m4a
+/music/u/U2/Under A Blood Red Sky/01. Gloria.flac
 #EXTURL:file:///music/0-9/4%20Non%20Blondes/Bigger,%20Better,%20Faster,%20More!/03.%20What%27s%20Up%3F.m4a
 #EXTINF:291,What's Up?
 /music/0-9/4 Non Blondes/Bigger, Better, Faster, More!/03. What's Up?.m4a
@@ -2421,57 +2385,57 @@
 #EXTURL:file:///music/j/John%20Fogerty/Revival/01.%20Don%27t%20You%20Wish%20It%20Was%20True.m4a
 #EXTINF:249,Don't You Wish It Was True
 /music/j/John Fogerty/Revival/01. Don't You Wish It Was True.m4a
-#EXTURL:file:///music/s/Susan%20Tedeschi/Better%20Days/06.%20You%27re%20On%20My%20Hair%20[Instrumental].m4a
+#EXTURL:file:///music/s/Susan%20Tedeschi/Better%20Days/06.%20You%27re%20On%20My%20Hair%20[Instrumental].flac
 #EXTINF:255,You're On My Hair [Instrumental]
-/music/s/Susan Tedeschi/Better Days/06. You're On My Hair [Instrumental].m4a
-#EXTURL:file:///music/d/Doors/L.A.%20Woman/10.%20Riders%20On%20The%20Storm.m4a
+/music/s/Susan Tedeschi/Better Days/06. You're On My Hair [Instrumental].flac
+#EXTURL:file:///music/d/Doors/L.A.%20Woman/10.%20Riders%20On%20The%20Storm.flac
 #EXTINF:435,Riders On The Storm
-/music/d/Doors/L.A. Woman/10. Riders On The Storm.m4a
-#EXTURL:file:///music/d/Doors/L.A.%20Woman/05.%20L.A.%20Woman.m4a
+/music/d/Doors/L.A. Woman/10. Riders On The Storm.flac
+#EXTURL:file:///music/d/Doors/L.A.%20Woman/05.%20L.A.%20Woman.flac
 #EXTINF:469,L.A. Woman
-/music/d/Doors/L.A. Woman/05. L.A. Woman.m4a
-#EXTURL:file:///music/d/Doors/L.A.%20Woman/01.%20The%20Changeling.m4a
+/music/d/Doors/L.A. Woman/05. L.A. Woman.flac
+#EXTURL:file:///music/d/Doors/L.A.%20Woman/01.%20The%20Changeling.flac
 #EXTINF:259,The Changeling
-/music/d/Doors/L.A. Woman/01. The Changeling.m4a
+/music/d/Doors/L.A. Woman/01. The Changeling.flac
 #EXTURL:file:///music/Compilation/Sounds%20of%20The%20Seventies/1978/03.%20Because%20The%20Night.m4a
 #EXTINF:203,Because The Night
 /music/Compilation/Sounds of The Seventies/1978/03. Because The Night.m4a
 #EXTURL:file:///music/c/Chris%20Knight/A%20Pretty%20Good%20Guy/09.%20Highway%20Junkie.m4a
 #EXTINF:237,Highway Junkie
 /music/c/Chris Knight/A Pretty Good Guy/09. Highway Junkie.m4a
-#EXTURL:file:///music/a/Aerosmith/Get%20Your%20Wings/06.%20Train%20Kept%20A%20Rollin%27.m4a
+#EXTURL:file:///music/a/Aerosmith/Get%20Your%20Wings/06.%20Train%20Kept%20A%20Rollin%27.flac
 #EXTINF:333,Train Kept A Rollin'
-/music/a/Aerosmith/Get Your Wings/06. Train Kept A Rollin'.m4a
+/music/a/Aerosmith/Get Your Wings/06. Train Kept A Rollin'.flac
 #EXTURL:file:///music/c/Carl%20Wyatt%20&%20The%20Delta%20Voodoo%20Kings/Live%20At%20the%20Entr%27pot/04.%20Two%20Woman%20In%20A%20Pickup%20Truck.m4a
 #EXTINF:746,Two Woman In A Pickup Truck
 /music/c/Carl Wyatt & The Delta Voodoo Kings/Live At the Entr'pot/04. Two Woman In A Pickup Truck.m4a
 #EXTURL:file:///music/Compilation/AM%20Gold%201977/04.%20Couldn%27t%20Get%20It%20Right.m4a
 #EXTINF:193,Couldn't Get It Right
 /music/Compilation/AM Gold 1977/04. Couldn't Get It Right.m4a
-#EXTURL:file:///music/j/J.J.%20Cale%20&%20Eric%20Clapton/The%20Road%20To%20Escondido/01.%20Danger.m4a
+#EXTURL:file:///music/j/J.J.%20Cale%20&%20Eric%20Clapton/The%20Road%20To%20Escondido/01.%20Danger.flac
 #EXTINF:334,Danger
-/music/j/J.J. Cale & Eric Clapton/The Road To Escondido/01. Danger.m4a
+/music/j/J.J. Cale & Eric Clapton/The Road To Escondido/01. Danger.flac
 #EXTURL:file:///music/l/Lynyrd%20Skynyrd/Skynyrd%27s%20First%20And...Last/02.%20Preacher%27s%20Daughter.m4a
 #EXTINF:220,Preacher's Daughter
 /music/l/Lynyrd Skynyrd/Skynyrd's First And...Last/02. Preacher's Daughter.m4a
-#EXTURL:file:///music/c/Crowded%20House/Woodface/01.%20Chocolate%20Cake.m4a
+#EXTURL:file:///music/c/Crowded%20House/Woodface/01.%20Chocolate%20Cake.flac
 #EXTINF:242,Chocolate Cake
-/music/c/Crowded House/Woodface/01. Chocolate Cake.m4a
+/music/c/Crowded House/Woodface/01. Chocolate Cake.flac
 #EXTURL:file:///music/b/Blackberry%20Smoke/Little%20Piece%20of%20Dixie/03.%20Bottom%20of%20This.m4a
 #EXTINF:221,Bottom of This
 /music/b/Blackberry Smoke/Little Piece of Dixie/03. Bottom of This.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Riviera/10.%20Riviera.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Riviera/10.%20Riviera.flac
 #EXTINF:241,Riviera
-/music/b/Big Head Todd & The Monsters/Riviera/10. Riviera.m4a
+/music/b/Big Head Todd & The Monsters/Riviera/10. Riviera.flac
 #EXTURL:file:///music/s/Supertramp/Breakfast%20In%20America/02.%20The%20Logical%20Song.m4a
 #EXTINF:247,The Logical Song
 /music/s/Supertramp/Breakfast In America/02. The Logical Song.m4a
-#EXTURL:file:///music/g/Ghost%20Town%20Blues%20Band/Dark%20Horse/01.%20Another%20Lover.m4a
+#EXTURL:file:///music/g/Ghost%20Town%20Blues%20Band/Dark%20Horse/01.%20Another%20Lover.flac
 #EXTINF:207,Another Lover
-/music/g/Ghost Town Blues Band/Dark Horse/01. Another Lover.m4a
-#EXTURL:file:///music/g/Ghost%20Town%20Blues%20Band/Dark%20Horse/11.%20Real%20Funky%20Groove.m4a
+/music/g/Ghost Town Blues Band/Dark Horse/01. Another Lover.flac
+#EXTURL:file:///music/g/Ghost%20Town%20Blues%20Band/Dark%20Horse/11.%20Real%20Funky%20Groove.flac
 #EXTINF:239,Real Funky Groove
-/music/g/Ghost Town Blues Band/Dark Horse/11. Real Funky Groove.m4a
+/music/g/Ghost Town Blues Band/Dark Horse/11. Real Funky Groove.flac
 #EXTURL:file:///music/d/David%20Shelley%20&%20Bluestone/Trick%20Bag/06.%20High%20Alert.m4a
 #EXTINF:246,High Alert
 /music/d/David Shelley & Bluestone/Trick Bag/06. High Alert.m4a
@@ -2499,12 +2463,12 @@
 #EXTURL:file:///music/s/Squeeze/Singles%2045%27s%20And%20Under/10.%20Tempted.m4a
 #EXTINF:237,Tempted
 /music/s/Squeeze/Singles 45's And Under/10. Tempted.m4a
-#EXTURL:file:///music/f/Fabian%20Anderhub/It%27s%20A%20Blues%20Thing/01.%20It%27s%20A%20Blues%20Thing.m4a
+#EXTURL:file:///music/f/Fabian%20Anderhub/It%27s%20A%20Blues%20Thing/01.%20It%27s%20A%20Blues%20Thing.flac
 #EXTINF:250,It's A Blues Thing
-/music/f/Fabian Anderhub/It's A Blues Thing/01. It's A Blues Thing.m4a
-#EXTURL:file:///music/t/Tommy%20Bolin/Teaser/05.%20Teaser.m4a
+/music/f/Fabian Anderhub/It's A Blues Thing/01. It's A Blues Thing.flac
+#EXTURL:file:///music/t/Tommy%20Bolin/Teaser/05.%20Teaser.flac
 #EXTINF:266,Teaser
-/music/t/Tommy Bolin/Teaser/05. Teaser.m4a
+/music/t/Tommy Bolin/Teaser/05. Teaser.flac
 #EXTURL:file:///music/d/Doobie%20Brothers/Stampede/02.%20Neal%27s%20Fandango.m4a
 #EXTINF:187,Neal's Fandango
 /music/d/Doobie Brothers/Stampede/02. Neal's Fandango.m4a
@@ -2523,21 +2487,21 @@
 #EXTURL:file:///music/h/Honeymoon%20Suite/Honeymoon%20Suite/01.%20New%20Girl%20Now.m4a
 #EXTINF:217,New Girl Now
 /music/h/Honeymoon Suite/Honeymoon Suite/01. New Girl Now.m4a
-#EXTURL:file:///music/s/Sonny%20Landreth/Grant%20Street/02.%20Broken%20Hearted%20Road.m4a
+#EXTURL:file:///music/s/Sonny%20Landreth/Grant%20Street/02.%20Broken%20Hearted%20Road.flac
 #EXTINF:462,Broken Hearted Road
-/music/s/Sonny Landreth/Grant Street/02. Broken Hearted Road.m4a
-#EXTURL:file:///music/w/Warren%20Zevon/The%20Best%20of%20Warren%20Zevon:%20A%20Quiet%20Normal%20Life/10.%20Lawyers,%20Guns%20And%20Money.m4a
+/music/s/Sonny Landreth/Grant Street/02. Broken Hearted Road.flac
+#EXTURL:file:///music/w/Warren%20Zevon/The%20Best%20of%20Warren%20Zevon:%20A%20Quiet%20Normal%20Life/10.%20Lawyers,%20Guns%20And%20Money.flac
 #EXTINF:181,Lawyers, Guns And Money
-/music/w/Warren Zevon/The Best of Warren Zevon: A Quiet Normal Life/10. Lawyers, Guns And Money.m4a
-#EXTURL:file:///music/w/Warren%20Zevon/The%20Best%20of%20Warren%20Zevon:%20A%20Quiet%20Normal%20Life/01.%20Werewolves%20of%20London.m4a
+/music/w/Warren Zevon/The Best of Warren Zevon: A Quiet Normal Life/10. Lawyers, Guns And Money.flac
+#EXTURL:file:///music/w/Warren%20Zevon/The%20Best%20of%20Warren%20Zevon:%20A%20Quiet%20Normal%20Life/01.%20Werewolves%20of%20London.flac
 #EXTINF:208,Werewolves of London
-/music/w/Warren Zevon/The Best of Warren Zevon: A Quiet Normal Life/01. Werewolves of London.m4a
+/music/w/Warren Zevon/The Best of Warren Zevon: A Quiet Normal Life/01. Werewolves of London.flac
 #EXTURL:file:///music/s/Sonny%20Moorman%20Group/Sonny%27s%20Blues/07.%20CC%20Rider.m4a
 #EXTINF:400,CC Rider
 /music/s/Sonny Moorman Group/Sonny's Blues/07. CC Rider.m4a
-#EXTURL:file:///music/d/Don%20Henley/Inside%20Job/10.%20Miss%20Ghost.m4a
+#EXTURL:file:///music/d/Don%20Henley/Inside%20Job/10.%20Miss%20Ghost.flac
 #EXTINF:401,Miss Ghost
-/music/d/Don Henley/Inside Job/10. Miss Ghost.m4a
+/music/d/Don Henley/Inside Job/10. Miss Ghost.flac
 #EXTURL:file:///music/h/Hill%20Country%20Revue/Zebra%20Ranch/14.%20Wild%20Horses.m4a
 #EXTINF:283,Wild Horses
 /music/h/Hill Country Revue/Zebra Ranch/14. Wild Horses.m4a
@@ -2571,30 +2535,30 @@
 #EXTURL:file:///music/r/Robert%20Palmer/Respect%20Yourself%20-%20Single/01.%20Respect%20Yourself.m4a
 #EXTINF:238,Respect Yourself
 /music/r/Robert Palmer/Respect Yourself - Single/01. Respect Yourself.m4a
-#EXTURL:file:///music/e/Edie%20Brickell/Picture%20Perfect%20Morning/01.%20Tomorrow%20Comes.m4a
+#EXTURL:file:///music/e/Edie%20Brickell/Picture%20Perfect%20Morning/01.%20Tomorrow%20Comes.flac
 #EXTINF:236,Tomorrow Comes
-/music/e/Edie Brickell/Picture Perfect Morning/01. Tomorrow Comes.m4a
-#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/08.%20I%20Got%20The%20Same%20Old%20Blues%20(feat.%20Tom%20Petty).m4a
+/music/e/Edie Brickell/Picture Perfect Morning/01. Tomorrow Comes.flac
+#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/08.%20I%20Got%20The%20Same%20Old%20Blues%20(feat.%20Tom%20Petty).flac
 #EXTINF:182,I Got The Same Old Blues (feat. Tom Petty)
-/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/08. I Got The Same Old Blues (feat. Tom Petty).m4a
-#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/03.%20Someday%20(feat.%20Mark%20Knopfler).m4a
+/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/08. I Got The Same Old Blues (feat. Tom Petty).flac
+#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/03.%20Someday%20(feat.%20Mark%20Knopfler).flac
 #EXTINF:228,Someday (feat. Mark Knopfler)
-/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/03. Someday (feat. Mark Knopfler).m4a
-#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/02.%20Rock%20And%20Roll%20Records%20(feat.%20Tom%20Petty).m4a
+/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/03. Someday (feat. Mark Knopfler).flac
+#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/02.%20Rock%20And%20Roll%20Records%20(feat.%20Tom%20Petty).flac
 #EXTINF:139,Rock And Roll Records (feat. Tom Petty)
-/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/02. Rock And Roll Records (feat. Tom Petty).m4a
-#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/12.%20The%20Old%20Man%20And%20Me%20(feat.%20Tom%20Petty).m4a
+/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/02. Rock And Roll Records (feat. Tom Petty).flac
+#EXTURL:file:///music/e/Eric%20Clapton%20&%20Friends/The%20Breeze%20(An%20Appreciation%20of%20JJ%20Cale)/12.%20The%20Old%20Man%20And%20Me%20(feat.%20Tom%20Petty).flac
 #EXTINF:176,The Old Man And Me (feat. Tom Petty)
-/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/12. The Old Man And Me (feat. Tom Petty).m4a
+/music/e/Eric Clapton & Friends/The Breeze (An Appreciation of JJ Cale)/12. The Old Man And Me (feat. Tom Petty).flac
 #EXTURL:file:///music/s/Scott%20Sharrard%20&%20The%20Brickyard/Scott%20Sharrard%20&%20The%20Brickyard/05.%20Stone%20Rollin.m4a
 #EXTINF:259,Stone Rollin
 /music/s/Scott Sharrard & The Brickyard/Scott Sharrard & The Brickyard/05. Stone Rollin.m4a
 #EXTURL:file:///music/f/Foghat/Live/03.%20I%20Just%20Want%20To%20Make%20Love%20To%20You.m4a
 #EXTINF:516,I Just Want To Make Love To You
 /music/f/Foghat/Live/03. I Just Want To Make Love To You.m4a
-#EXTURL:file:///music/e/Elvis%20Costello/The%20Best%20of%20Elvis%20Costello%20&%20The%20Attractions/02.%20Watching%20The%20Detectives.m4a
+#EXTURL:file:///music/e/Elvis%20Costello/The%20Best%20of%20Elvis%20Costello%20&%20The%20Attractions/02.%20Watching%20The%20Detectives.flac
 #EXTINF:221,Watching The Detectives
-/music/e/Elvis Costello/The Best of Elvis Costello & The Attractions/02. Watching The Detectives.m4a
+/music/e/Elvis Costello/The Best of Elvis Costello & The Attractions/02. Watching The Detectives.flac
 #EXTURL:file:///music/z/ZZ%20Top/Tres%20Hombres/01.%20Waitin%27%20For%20The%20Bus.m4a
 #EXTINF:173,Waitin' For The Bus
 /music/z/ZZ Top/Tres Hombres/01. Waitin' For The Bus.m4a
@@ -2610,9 +2574,9 @@
 #EXTURL:file:///music/a/Ambulance%20Ltd/Ambulance%20Ltd/01.%20Yoga%20Means%20Union.mp3
 #EXTINF:294,Yoga Means Union
 /music/a/Ambulance Ltd/Ambulance Ltd/01. Yoga Means Union.mp3
-#EXTURL:file:///music/b/Black%20Keys/The%20Big%20Come%20Up/03.%20I%27ll%20Be%20Your%20Man.m4a
+#EXTURL:file:///music/b/Black%20Keys/The%20Big%20Come%20Up/03.%20I%27ll%20Be%20Your%20Man.flac
 #EXTINF:142,I'll Be Your Man
-/music/b/Black Keys/The Big Come Up/03. I'll Be Your Man.m4a
+/music/b/Black Keys/The Big Come Up/03. I'll Be Your Man.flac
 #EXTURL:file:///music/a/Albert%20Cummings/Working%20Man/07.%20Party%20Right%20Here.m4a
 #EXTINF:193,Party Right Here
 /music/a/Albert Cummings/Working Man/07. Party Right Here.m4a
@@ -2628,15 +2592,15 @@
 #EXTURL:file:///music/j/James%20Montgomery%20Band/From%20Detroit%20To%20The%20Delta/09.%20Hit%20The%20Road%20Jack.m4a
 #EXTINF:374,Hit The Road Jack
 /music/j/James Montgomery Band/From Detroit To The Delta/09. Hit The Road Jack.m4a
-#EXTURL:file:///music/j/James%20Cotton%20Band/100%25%20Cotton/01.%20Boogie%20Thing.m4a
+#EXTURL:file:///music/j/James%20Cotton%20Band/100%25%20Cotton/01.%20Boogie%20Thing.flac
 #EXTINF:201,Boogie Thing
-/music/j/James Cotton Band/100% Cotton/01. Boogie Thing.m4a
-#EXTURL:file:///music/t/Toad%20The%20Wet%20Sprocket/Dulcinea/03.%20Something%27s%20Always%20Wrong.m4a
+/music/j/James Cotton Band/100% Cotton/01. Boogie Thing.flac
+#EXTURL:file:///music/t/Toad%20The%20Wet%20Sprocket/Dulcinea/03.%20Something%27s%20Always%20Wrong.flac
 #EXTINF:297,Something's Always Wrong
-/music/t/Toad The Wet Sprocket/Dulcinea/03. Something's Always Wrong.m4a
-#EXTURL:file:///music/t/Toad%20The%20Wet%20Sprocket/Dulcinea/01.%20Fly%20From%20Heaven.m4a
+/music/t/Toad The Wet Sprocket/Dulcinea/03. Something's Always Wrong.flac
+#EXTURL:file:///music/t/Toad%20The%20Wet%20Sprocket/Dulcinea/01.%20Fly%20From%20Heaven.flac
 #EXTINF:276,Fly From Heaven
-/music/t/Toad The Wet Sprocket/Dulcinea/01. Fly From Heaven.m4a
+/music/t/Toad The Wet Sprocket/Dulcinea/01. Fly From Heaven.flac
 #EXTURL:file:///music/c/Creedence%20Clearwater%20Revival/The%20Complete%20Collection%20(Digital%20Box)/3-06.%20Lodi.m4a
 #EXTINF:193,Lodi
 /music/c/Creedence Clearwater Revival/The Complete Collection (Digital Box)/3-06. Lodi.m4a
@@ -2649,12 +2613,12 @@
 #EXTURL:file:///music/l/La%27s/The%20La%27s/05.%20There%20She%20Goes.m4a
 #EXTINF:159,There She Goes
 /music/l/La's/The La's/05. There She Goes.m4a
-#EXTURL:file:///music/r/Robben%20Ford/Talk%20To%20Your%20Daughter/03.%20Help%20The%20Poor.m4a
+#EXTURL:file:///music/r/Robben%20Ford/Talk%20To%20Your%20Daughter/03.%20Help%20The%20Poor.flac
 #EXTINF:340,Help The Poor
-/music/r/Robben Ford/Talk To Your Daughter/03. Help The Poor.m4a
-#EXTURL:file:///music/r/Robben%20Ford/Talk%20To%20Your%20Daughter/01.%20Talk%20To%20Your%20Daughter.m4a
+/music/r/Robben Ford/Talk To Your Daughter/03. Help The Poor.flac
+#EXTURL:file:///music/r/Robben%20Ford/Talk%20To%20Your%20Daughter/01.%20Talk%20To%20Your%20Daughter.flac
 #EXTINF:246,Talk To Your Daughter
-/music/r/Robben Ford/Talk To Your Daughter/01. Talk To Your Daughter.m4a
+/music/r/Robben Ford/Talk To Your Daughter/01. Talk To Your Daughter.flac
 #EXTURL:file:///music/g/George%20Thorogood%20&%20The%20Destroyers/2120%20South%20Michigan%20Ave/07.%20Bo%20Diddley.m4a
 #EXTINF:187,Bo Diddley
 /music/g/George Thorogood & The Destroyers/2120 South Michigan Ave/07. Bo Diddley.m4a
@@ -2751,24 +2715,24 @@
 #EXTURL:file:///music/j/Jet/Get%20Born/02.%20Are%20You%20Gonna%20Be%20My%20Girl.m4a
 #EXTINF:215,Are You Gonna Be My Girl
 /music/j/Jet/Get Born/02. Are You Gonna Be My Girl.m4a
-#EXTURL:file:///music/j/Jeff%20Healey%20Band/See%20The%20Light/01.%20Confidence%20Man.m4a
+#EXTURL:file:///music/j/Jeff%20Healey%20Band/See%20The%20Light/01.%20Confidence%20Man.flac
 #EXTINF:194,Confidence Man
-/music/j/Jeff Healey Band/See The Light/01. Confidence Man.m4a
-#EXTURL:file:///music/j/Jeff%20Healey%20Band/See%20The%20Light/09.%20Blue%20Jean%20Blues.m4a
+/music/j/Jeff Healey Band/See The Light/01. Confidence Man.flac
+#EXTURL:file:///music/j/Jeff%20Healey%20Band/See%20The%20Light/09.%20Blue%20Jean%20Blues.flac
 #EXTINF:339,Blue Jean Blues
-/music/j/Jeff Healey Band/See The Light/09. Blue Jean Blues.m4a
+/music/j/Jeff Healey Band/See The Light/09. Blue Jean Blues.flac
 #EXTURL:file:///music/t/Tony%20Spinner/Earth%20Music%20For%20Aliens/09.%20Low%20Down%20Dirty%20Shame.m4a
 #EXTINF:336,Low Down Dirty Shame
 /music/t/Tony Spinner/Earth Music For Aliens/09. Low Down Dirty Shame.m4a
 #EXTURL:file:///music/t/Tony%20Spinner/Earth%20Music%20For%20Aliens/10.%20Got%20What%20I%20Wanted.m4a
 #EXTINF:204,Got What I Wanted
 /music/t/Tony Spinner/Earth Music For Aliens/10. Got What I Wanted.m4a
-#EXTURL:file:///music/a/Allman%20Brothers%20Band/Dreams/Disc3/09.%20Jessica.m4a
+#EXTURL:file:///music/a/Allman%20Brothers%20Band/Dreams/Disc3/09.%20Jessica.flac
 #EXTINF:450,Jessica
-/music/a/Allman Brothers Band/Dreams/Disc3/09. Jessica.m4a
-#EXTURL:file:///music/a/Allman%20Brothers%20Band/Dreams/Disc3/12.%20Long%20Time%20Gone.m4a
+/music/a/Allman Brothers Band/Dreams/Disc3/09. Jessica.flac
+#EXTURL:file:///music/a/Allman%20Brothers%20Band/Dreams/Disc3/12.%20Long%20Time%20Gone.flac
 #EXTINF:270,Long Time Gone
-/music/a/Allman Brothers Band/Dreams/Disc3/12. Long Time Gone.m4a
+/music/a/Allman Brothers Band/Dreams/Disc3/12. Long Time Gone.flac
 #EXTURL:file:///music/p/Pretenders/Pretenders%20(Expanded%20&%20Remastered)/12.%20Mystery%20Achievement.m4a
 #EXTINF:322,Mystery Achievement
 /music/p/Pretenders/Pretenders (Expanded & Remastered)/12. Mystery Achievement.m4a
@@ -2862,9 +2826,9 @@
 #EXTURL:file:///music/b/Billy%20Squier/Singles/06.%20Lonely%20Is%20The%20Night.mp3
 #EXTINF:282,Lonely Is The Night
 /music/b/Billy Squier/Singles/06. Lonely Is The Night.mp3
-#EXTURL:file:///music/l/Lucky%20Peterson/Move/05.%20Move.m4a
+#EXTURL:file:///music/l/Lucky%20Peterson/Move/05.%20Move.flac
 #EXTINF:237,Move
-/music/l/Lucky Peterson/Move/05. Move.m4a
+/music/l/Lucky Peterson/Move/05. Move.flac
 #EXTURL:file:///music/p/Peter%20Malick/Wrong%20Side%20of%20My%20Life/11.%20Blues%20Time.m4a
 #EXTINF:352,Blues Time
 /music/p/Peter Malick/Wrong Side of My Life/11. Blues Time.m4a
@@ -2874,18 +2838,18 @@
 #EXTURL:file:///music/e/Eric%20Clapton/Crossroads%202:%20Live%20In%20The%20Seventies/1-03.%20Willie%20And%20The%20Hand%20Jive%20-%20Get%20Ready.m4a
 #EXTINF:702,Willie And The Hand Jive / Get Ready
 /music/e/Eric Clapton/Crossroads 2: Live In The Seventies/1-03. Willie And The Hand Jive - Get Ready.m4a
-#EXTURL:file:///music/g/Goo%20Goo%20Dolls/A%20Boy%20Named%20Goo/06.%20Name.m4a
+#EXTURL:file:///music/g/Goo%20Goo%20Dolls/A%20Boy%20Named%20Goo/06.%20Name.flac
 #EXTINF:270,Name
-/music/g/Goo Goo Dolls/A Boy Named Goo/06. Name.m4a
-#EXTURL:file:///music/p/Paul%20McCartney/Band%20On%20The%20Run/01.%20Band%20On%20The%20Run.m4a
+/music/g/Goo Goo Dolls/A Boy Named Goo/06. Name.flac
+#EXTURL:file:///music/p/Paul%20McCartney/Band%20On%20The%20Run/01.%20Band%20On%20The%20Run.flac
 #EXTINF:314,Band On The Run
-/music/p/Paul McCartney/Band On The Run/01. Band On The Run.m4a
-#EXTURL:file:///music/p/Paul%20McCartney/Band%20On%20The%20Run/10.%20Nineteen%20Hundred%20And%20Eighty%20Five.m4a
+/music/p/Paul McCartney/Band On The Run/01. Band On The Run.flac
+#EXTURL:file:///music/p/Paul%20McCartney/Band%20On%20The%20Run/10.%20Nineteen%20Hundred%20And%20Eighty%20Five.flac
 #EXTINF:328,Nineteen Hundred And Eighty Five
-/music/p/Paul McCartney/Band On The Run/10. Nineteen Hundred And Eighty Five.m4a
-#EXTURL:file:///music/a/Average%20White%20Band/AWB/03.%20Pick%20Up%20The%20Pieces.m4a
+/music/p/Paul McCartney/Band On The Run/10. Nineteen Hundred And Eighty Five.flac
+#EXTURL:file:///music/a/Average%20White%20Band/AWB/03.%20Pick%20Up%20The%20Pieces.flac
 #EXTINF:240,Pick Up The Pieces
-/music/a/Average White Band/AWB/03. Pick Up The Pieces.m4a
+/music/a/Average White Band/AWB/03. Pick Up The Pieces.flac
 #EXTURL:file:///music/k/Kris%20Pohlmann%20Band/New%20Resolution/01.%20Feel%20The%20Same.m4a
 #EXTINF:272,Feel The Same
 /music/k/Kris Pohlmann Band/New Resolution/01. Feel The Same.m4a
@@ -2901,12 +2865,12 @@
 #EXTURL:file:///music/j/Jenny%20Lewis/Rabbit%20Fur%20Coat/09.%20Handle%20With%20Care.m4a
 #EXTINF:177,Handle With Care
 /music/j/Jenny Lewis/Rabbit Fur Coat/09. Handle With Care.m4a
-#EXTURL:file:///music/m/Molly%20Hatchet/Greatest%20Hits/05.%20Gator%20Country.m4a
+#EXTURL:file:///music/m/Molly%20Hatchet/Greatest%20Hits/05.%20Gator%20Country.flac
 #EXTINF:377,Gator Country
-/music/m/Molly Hatchet/Greatest Hits/05. Gator Country.m4a
-#EXTURL:file:///music/m/Molly%20Hatchet/Greatest%20Hits/10.%20Beatin%27%20The%20Odds.m4a
+/music/m/Molly Hatchet/Greatest Hits/05. Gator Country.flac
+#EXTURL:file:///music/m/Molly%20Hatchet/Greatest%20Hits/10.%20Beatin%27%20The%20Odds.flac
 #EXTINF:219,Beatin' The Odds
-/music/m/Molly Hatchet/Greatest Hits/10. Beatin' The Odds.m4a
+/music/m/Molly Hatchet/Greatest Hits/10. Beatin' The Odds.flac
 #EXTURL:file:///music/w/Wilko%20Johnson%20&%20Roger%20Daltrey/Going%20Back%20Home/03.%20I%20Keep%20It%20To%20Myself.m4a
 #EXTINF:201,I Keep It To Myself
 /music/w/Wilko Johnson & Roger Daltrey/Going Back Home/03. I Keep It To Myself.m4a
@@ -2928,9 +2892,9 @@
 #EXTURL:file:///music/s/Stephen%20Stills/Stephen%20Stills%202/02.%20Nothin%27%20To%20Do%20But%20Today.m4a
 #EXTINF:163,Nothin' To Do But Today
 /music/s/Stephen Stills/Stephen Stills 2/02. Nothin' To Do But Today.m4a
-#EXTURL:file:///music/a/Angel%20City/Face%20To%20Face/01.%20Take%20A%20Long%20Line.m4a
+#EXTURL:file:///music/a/Angel%20City/Face%20To%20Face/01.%20Take%20A%20Long%20Line.flac
 #EXTINF:180,Take A Long Line
-/music/a/Angel City/Face To Face/01. Take A Long Line.m4a
+/music/a/Angel City/Face To Face/01. Take A Long Line.flac
 #EXTURL:file:///music/s/Stevie%20Wonder/Original%20Musiquarium%201/1-04.%20Front%20Line.m4a
 #EXTINF:358,Front Line
 /music/s/Stevie Wonder/Original Musiquarium 1/1-04. Front Line.m4a
@@ -2964,9 +2928,9 @@
 #EXTURL:file:///music/b/Brave%20Belt/Brave%20Belt%20II/10.%20Another%20Way%20Out.m4a
 #EXTINF:211,Another Way Out
 /music/b/Brave Belt/Brave Belt II/10. Another Way Out.m4a
-#EXTURL:file:///music/j/Jack%20Green/Humanesque/01.%20Murder.m4a
+#EXTURL:file:///music/j/Jack%20Green/Humanesque/01.%20Murder.flac
 #EXTINF:201,Murder
-/music/j/Jack Green/Humanesque/01. Murder.m4a
+/music/j/Jack Green/Humanesque/01. Murder.flac
 #EXTURL:file:///music/Compilation/KFOG/Volume%2017/11.%20I%20Know%20You%20Rider.mp3
 #EXTINF:411,I Know You Rider
 /music/Compilation/KFOG/Volume 17/11. I Know You Rider.mp3
@@ -3009,9 +2973,9 @@
 #EXTURL:file:///music/t/Toni%20Childs/Union/01.%20Don%27t%20Walk%20Away.m4a
 #EXTINF:239,Don't Walk Away
 /music/t/Toni Childs/Union/01. Don't Walk Away.m4a
-#EXTURL:file:///music/a/Aerosmith/Pump/05.%20Water%20Song%20-%20Janie%27s%20Got%20A%20Gun.m4a
+#EXTURL:file:///music/a/Aerosmith/Pump/05.%20Water%20Song%20-%20Janie%27s%20Got%20A%20Gun.flac
 #EXTINF:333,Water Song / Janie's Got A Gun
-/music/a/Aerosmith/Pump/05. Water Song - Janie's Got A Gun.m4a
+/music/a/Aerosmith/Pump/05. Water Song - Janie's Got A Gun.flac
 #EXTURL:file:///music/r/Radio%20Birdman/The%20Essential%20Radio%20Birdman%20(1974-1978)/15.%20Hanging%20On.m4a
 #EXTINF:218,Hanging On
 /music/r/Radio Birdman/The Essential Radio Birdman (1974-1978)/15. Hanging On.m4a
@@ -3021,12 +2985,12 @@
 #EXTURL:file:///music/r/Radio%20Birdman/The%20Essential%20Radio%20Birdman%20(1974-1978)/16.%20Crying%20Sun.m4a
 #EXTINF:176,Crying Sun
 /music/r/Radio Birdman/The Essential Radio Birdman (1974-1978)/16. Crying Sun.m4a
-#EXTURL:file:///music/b/B.B.%20King/Deuces%20Wild/03.%20Rock%20Me%20Baby.m4a
+#EXTURL:file:///music/b/B.B.%20King/Deuces%20Wild/03.%20Rock%20Me%20Baby.flac
 #EXTINF:398,Rock Me Baby
-/music/b/B.B. King/Deuces Wild/03. Rock Me Baby.m4a
-#EXTURL:file:///music/b/B.B.%20King/Deuces%20Wild/02.%20The%20Thrill%20Is%20Gone.m4a
+/music/b/B.B. King/Deuces Wild/03. Rock Me Baby.flac
+#EXTURL:file:///music/b/B.B.%20King/Deuces%20Wild/02.%20The%20Thrill%20Is%20Gone.flac
 #EXTINF:300,The Thrill Is Gone
-/music/b/B.B. King/Deuces Wild/02. The Thrill Is Gone.m4a
+/music/b/B.B. King/Deuces Wild/02. The Thrill Is Gone.flac
 #EXTURL:file:///music/g/Gin%20Wigmore/Gravel%20&%20Wine/01.%20Black%20Sheep.m4a
 #EXTINF:183,Black Sheep
 /music/g/Gin Wigmore/Gravel & Wine/01. Black Sheep.m4a
@@ -3063,12 +3027,12 @@
 #EXTURL:file:///music/j/Jason%20Elmore%20&%20Hoodoo%20Witch/Upside%20Your%20Head/13.%20Nobody%20Knows.m4a
 #EXTINF:212,Nobody Knows
 /music/j/Jason Elmore & Hoodoo Witch/Upside Your Head/13. Nobody Knows.m4a
-#EXTURL:file:///music/m/Mark%20May%20&%20The%20Agitators/Telephone%20Road/03.%20Sweet%20Spot.m4a
+#EXTURL:file:///music/m/Mark%20May%20&%20The%20Agitators/Telephone%20Road/03.%20Sweet%20Spot.flac
 #EXTINF:294,Sweet Spot
-/music/m/Mark May & The Agitators/Telephone Road/03. Sweet Spot.m4a
-#EXTURL:file:///music/m/Mark%20May%20&%20The%20Agitators/Telephone%20Road/01.%20Mercury%20Blues.m4a
+/music/m/Mark May & The Agitators/Telephone Road/03. Sweet Spot.flac
+#EXTURL:file:///music/m/Mark%20May%20&%20The%20Agitators/Telephone%20Road/01.%20Mercury%20Blues.flac
 #EXTINF:319,Mercury Blues
-/music/m/Mark May & The Agitators/Telephone Road/01. Mercury Blues.m4a
+/music/m/Mark May & The Agitators/Telephone Road/01. Mercury Blues.flac
 #EXTURL:file:///music/w/Widespread%20Panic/Earth%20To%20Atlanta/1-02.%20Pigeons.mp3
 #EXTINF:505,Pigeons
 /music/w/Widespread Panic/Earth To Atlanta/1-02. Pigeons.mp3
@@ -3078,15 +3042,12 @@
 #EXTURL:file:///music/w/Widespread%20Panic/Earth%20To%20Atlanta/2-04.%20Second%20Skin.mp3
 #EXTINF:725,Second Skin
 /music/w/Widespread Panic/Earth To Atlanta/2-04. Second Skin.mp3
-#EXTURL:file:///music/l/Live/Throwing%20Copper/02.%20Selling%20The%20Drama.m4a
-#EXTINF:206,Selling The Drama
-/music/l/Live/Throwing Copper/02. Selling The Drama.m4a
-#EXTURL:file:///music/r/Ronnie%20Earl/The%20Colour%20of%20Love/05.%20Deep%20Pockets.m4a
+#EXTURL:file:///music/r/Ronnie%20Earl/The%20Colour%20of%20Love/05.%20Deep%20Pockets.flac
 #EXTINF:307,Deep Pockets
-/music/r/Ronnie Earl/The Colour of Love/05. Deep Pockets.m4a
-#EXTURL:file:///music/a/Adele/21/01.%20Rolling%20In%20The%20Deep.m4a
+/music/r/Ronnie Earl/The Colour of Love/05. Deep Pockets.flac
+#EXTURL:file:///music/a/Adele/21/01.%20Rolling%20In%20The%20Deep.flac
 #EXTINF:228,Rolling In The Deep
-/music/a/Adele/21/01. Rolling In The Deep.m4a
+/music/a/Adele/21/01. Rolling In The Deep.flac
 #EXTURL:file:///music/t/Talking%20Heads/Once%20In%20A%20Lifetime:%20The%20Talking%20Heads%20Box/52.%20(Nothing%20But)%20Flowers.m4a
 #EXTINF:332,(Nothing But) Flowers
 /music/t/Talking Heads/Once In A Lifetime: The Talking Heads Box/52. (Nothing But) Flowers.m4a
@@ -3099,24 +3060,24 @@
 #EXTURL:file:///music/j/Jimmy%20Buffett/Buffett%20Live:%20Tuesdays,%20Thursdays,%20Saturdays/14.%20Margaritaville%20(Lost%20Verse%20Included).m4a
 #EXTINF:335,Margaritaville (Lost Verse Included)
 /music/j/Jimmy Buffett/Buffett Live: Tuesdays, Thursdays, Saturdays/14. Margaritaville (Lost Verse Included).m4a
-#EXTURL:file:///music/n/No%20Doubt/Tragic%20Kingdom/03.%20Just%20A%20Girl.m4a
+#EXTURL:file:///music/n/No%20Doubt/Tragic%20Kingdom/03.%20Just%20A%20Girl.flac
 #EXTINF:209,Just A Girl
-/music/n/No Doubt/Tragic Kingdom/03. Just A Girl.m4a
+/music/n/No Doubt/Tragic Kingdom/03. Just A Girl.flac
 #EXTURL:file:///music/t/Tedeschi%20Trucks%20Band/Made%20Up%20Mind/01.%20Made%20Up%20Mind.m4a
 #EXTINF:234,Made Up Mind
 /music/t/Tedeschi Trucks Band/Made Up Mind/01. Made Up Mind.m4a
-#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/01.%20Analog%20Man.m4a
+#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/01.%20Analog%20Man.flac
 #EXTINF:242,Analog Man
-/music/j/Joe Walsh/Analog Man (Bonus Track Version)/01. Analog Man.m4a
-#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/03.%20Lucky%20That%20Way.m4a
+/music/j/Joe Walsh/Analog Man (Bonus Track Version)/01. Analog Man.flac
+#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/03.%20Lucky%20That%20Way.flac
 #EXTINF:254,Lucky That Way
-/music/j/Joe Walsh/Analog Man (Bonus Track Version)/03. Lucky That Way.m4a
-#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/09.%20Funk%2050.m4a
+/music/j/Joe Walsh/Analog Man (Bonus Track Version)/03. Lucky That Way.flac
+#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/09.%20Funk%2050.flac
 #EXTINF:117,Funk 50
-/music/j/Joe Walsh/Analog Man (Bonus Track Version)/09. Funk 50.m4a
-#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/10.%20India.m4a
+/music/j/Joe Walsh/Analog Man (Bonus Track Version)/09. Funk 50.flac
+#EXTURL:file:///music/j/Joe%20Walsh/Analog%20Man%20(Bonus%20Track%20Version)/10.%20India.flac
 #EXTINF:224,India
-/music/j/Joe Walsh/Analog Man (Bonus Track Version)/10. India.m4a
+/music/j/Joe Walsh/Analog Man (Bonus Track Version)/10. India.flac
 #EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Rocksteady/01.%20Rocksteady.m4a
 #EXTINF:267,Rocksteady
 /music/b/Big Head Todd & The Monsters/Rocksteady/01. Rocksteady.m4a
@@ -3129,21 +3090,21 @@
 #EXTURL:file:///music/g/Golden%20Earring/Last%20Blast%20of%20The%20Century/1-09.%20Twilight%20Zone.mp3
 #EXTINF:757,Twilight Zone
 /music/g/Golden Earring/Last Blast of The Century/1-09. Twilight Zone.mp3
-#EXTURL:file:///music/t/Ten%20Years%20After/A%20Space%20In%20Time/03.%20I%27d%20Love%20To%20Change%20The%20World.m4a
+#EXTURL:file:///music/t/Ten%20Years%20After/A%20Space%20In%20Time/03.%20I%27d%20Love%20To%20Change%20The%20World.flac
 #EXTINF:223,I'd Love To Change The World
-/music/t/Ten Years After/A Space In Time/03. I'd Love To Change The World.m4a
+/music/t/Ten Years After/A Space In Time/03. I'd Love To Change The World.flac
 #EXTURL:file:///music/b/B.B.%20King/Paying%20The%20Cost%20To%20Be%20The%20Boss/01.%20The%20Thrill%20Is%20Gone.m4a
 #EXTINF:296,The Thrill Is Gone
 /music/b/B.B. King/Paying The Cost To Be The Boss/01. The Thrill Is Gone.m4a
 #EXTURL:file:///music/p/Portugal.%20The%20Man/Woodstock/04.%20Feel%20It%20Still.m4a
 #EXTINF:163,Feel It Still
 /music/p/Portugal. The Man/Woodstock/04. Feel It Still.m4a
-#EXTURL:file:///music/b/Blind%20Faith/Blind%20Faith/02.%20Can%27t%20Find%20My%20Way%20Home.m4a
+#EXTURL:file:///music/b/Blind%20Faith/Blind%20Faith/02.%20Can%27t%20Find%20My%20Way%20Home.flac
 #EXTINF:196,Can't Find My Way Home
-/music/b/Blind Faith/Blind Faith/02. Can't Find My Way Home.m4a
-#EXTURL:file:///music/a/Aerosmith/Aerosmith%27s%20Greatest%20Hits/04.%20Walk%20This%20Way.m4a
+/music/b/Blind Faith/Blind Faith/02. Can't Find My Way Home.flac
+#EXTURL:file:///music/a/Aerosmith/Aerosmith%27s%20Greatest%20Hits/04.%20Walk%20This%20Way.flac
 #EXTINF:212,Walk This Way
-/music/a/Aerosmith/Aerosmith's Greatest Hits/04. Walk This Way.m4a
+/music/a/Aerosmith/Aerosmith's Greatest Hits/04. Walk This Way.flac
 #EXTURL:file:///music/u/Ugly%20Kid%20Joe/As%20Ugly%20As%20It%20Gets:%20The%20Very%20Best%20of/13.%20Funky%20Fresh%20Country%20Club.m4a
 #EXTINF:318,Funky Fresh Country Club
 /music/u/Ugly Kid Joe/As Ugly As It Gets: The Very Best of/13. Funky Fresh Country Club.m4a
@@ -3168,12 +3129,12 @@
 #EXTURL:file:///music/Compilation/Super%20%2770s/03.%20Play%20That%20Funky%20Music.m4a
 #EXTINF:195,Play That Funky Music
 /music/Compilation/Super '70s/03. Play That Funky Music.m4a
-#EXTURL:file:///music/g/Grateful%20Dead/American%20Beauty/01.%20Box%20of%20Rain.m4a
+#EXTURL:file:///music/g/Grateful%20Dead/American%20Beauty/01.%20Box%20of%20Rain.flac
 #EXTINF:318,Box of Rain
-/music/g/Grateful Dead/American Beauty/01. Box of Rain.m4a
-#EXTURL:file:///music/g/Grateful%20Dead/American%20Beauty/02.%20Friend%20of%20The%20Devil.m4a
+/music/g/Grateful Dead/American Beauty/01. Box of Rain.flac
+#EXTURL:file:///music/g/Grateful%20Dead/American%20Beauty/02.%20Friend%20of%20The%20Devil.flac
 #EXTINF:204,Friend of The Devil
-/music/g/Grateful Dead/American Beauty/02. Friend of The Devil.m4a
+/music/g/Grateful Dead/American Beauty/02. Friend of The Devil.flac
 #EXTURL:file:///music/Compilation/Like,%20Omigod!%20The%2080%27s%20Pop%20Culture%20Box%20(Totally)/2-07.%20Harden%20My%20Heart.mp3
 #EXTINF:217,Harden My Heart
 /music/Compilation/Like, Omigod! The 80's Pop Culture Box (Totally)/2-07. Harden My Heart.mp3
@@ -3222,15 +3183,15 @@
 #EXTURL:file:///music/t/Too%20Slim%20&%20The%20Taildraggers/The%20Fortune%20Teller/02.%20Cowboy%20Boot.m4a
 #EXTINF:324,Cowboy Boot
 /music/t/Too Slim & The Taildraggers/The Fortune Teller/02. Cowboy Boot.m4a
-#EXTURL:file:///music/n/Ned%20Sublette/Cowboy%20Rumba/03.%20Feelin%27%20No%20Pain.m4a
+#EXTURL:file:///music/n/Ned%20Sublette/Cowboy%20Rumba/03.%20Feelin%27%20No%20Pain.flac
 #EXTINF:305,Feelin' No Pain
-/music/n/Ned Sublette/Cowboy Rumba/03. Feelin' No Pain.m4a
+/music/n/Ned Sublette/Cowboy Rumba/03. Feelin' No Pain.flac
 #EXTURL:file:///music/m/Mountain/The%20Best%20of%20Mountain/07.%20Mississippi%20Queen.m4a
 #EXTINF:150,Mississippi Queen
 /music/m/Mountain/The Best of Mountain/07. Mississippi Queen.m4a
-#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Texas%20Flood%20(30th%20Anniversary%20Collection)/2-02.%20So%20Excited.m4a
+#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/Texas%20Flood%20(30th%20Anniversary%20Collection)/2-02.%20So%20Excited.flac
 #EXTINF:257,So Excited
-/music/s/Stevie Ray Vaughan & Double Trouble/Texas Flood (30th Anniversary Collection)/2-02. So Excited.m4a
+/music/s/Stevie Ray Vaughan & Double Trouble/Texas Flood (30th Anniversary Collection)/2-02. So Excited.flac
 #EXTURL:file:///music/m/Marc%20Cohn/Marc%20Cohn/01.%20Walking%20In%20Memphis.m4a
 #EXTINF:250,Walking In Memphis
 /music/m/Marc Cohn/Marc Cohn/01. Walking In Memphis.m4a
@@ -3249,9 +3210,9 @@
 #EXTURL:file:///music/m/Mick%20Jagger/The%20Very%20Best%20of%20Mick%20Jagger%20(Remastered)/16.%20(You%20Got%20To%20Walk%20And)%20Don%27t%20Look%20Back.m4a
 #EXTINF:320,(You Got To Walk And) Don't Look Back
 /music/m/Mick Jagger/The Very Best of Mick Jagger (Remastered)/16. (You Got To Walk And) Don't Look Back.m4a
-#EXTURL:file:///music/m/Montrose/The%20Very%20Best%20of%20Montrose/01.%20Rock%20The%20Nation.m4a
+#EXTURL:file:///music/m/Montrose/The%20Very%20Best%20of%20Montrose/01.%20Rock%20The%20Nation.flac
 #EXTINF:183,Rock The Nation
-/music/m/Montrose/The Very Best of Montrose/01. Rock The Nation.m4a
+/music/m/Montrose/The Very Best of Montrose/01. Rock The Nation.flac
 #EXTURL:file:///music/p/Prince/Emancipation/1-07.%20We%20Gets%20Up.m4a
 #EXTINF:258,We Gets Up
 /music/p/Prince/Emancipation/1-07. We Gets Up.m4a
@@ -3276,21 +3237,21 @@
 #EXTURL:file:///music/e/Eric%20Clapton/Live%20In%20Hyde%20Park/11.%20Have%20You%20Ever%20Loved%20A%20Woman.mp3
 #EXTINF:389,Have You Ever Loved A Woman
 /music/e/Eric Clapton/Live In Hyde Park/11. Have You Ever Loved A Woman.mp3
-#EXTURL:file:///music/w/Wallflowers/Bringing%20Down%20The%20Horse/01.%20One%20Headlight.m4a
+#EXTURL:file:///music/w/Wallflowers/Bringing%20Down%20The%20Horse/01.%20One%20Headlight.flac
 #EXTINF:313,One Headlight
-/music/w/Wallflowers/Bringing Down The Horse/01. One Headlight.m4a
+/music/w/Wallflowers/Bringing Down The Horse/01. One Headlight.flac
 #EXTURL:file:///music/t/Todd%20Wolfe%20Band/Stripped%20Down%20At%20The%20Bang%20Palace/02.%20Stranger%20Blues.m4a
 #EXTINF:292,Stranger Blues
 /music/t/Todd Wolfe Band/Stripped Down At The Bang Palace/02. Stranger Blues.m4a
-#EXTURL:file:///music/c/Crosby,%20Stills%20&%20Nash/CSN%20-%20Box/1-01.%20Suite:%20Judy%20Blue%20Eyes.m4a
+#EXTURL:file:///music/c/Crosby,%20Stills%20&%20Nash/CSN%20-%20Box/Disc1/1-01.%20Suite:%20Judy%20Blue%20Eyes.flac
 #EXTINF:449,Suite: Judy Blue Eyes
-/music/c/Crosby, Stills & Nash/CSN - Box/1-01. Suite: Judy Blue Eyes.m4a
+/music/c/Crosby, Stills & Nash/CSN - Box/Disc1/1-01. Suite: Judy Blue Eyes.flac
 #EXTURL:file:///music/j/Joe%20Walsh/But%20Seriously,%20Folks/01.%20Over%20And%20Over.m4a
 #EXTINF:292,Over And Over
 /music/j/Joe Walsh/But Seriously, Folks/01. Over And Over.m4a
-#EXTURL:file:///music/a/Albert%20Collins/Live%201992-1993/07.%20Talkin%20Woman.m4a
+#EXTURL:file:///music/a/Albert%20Collins/Live%201992-1993/07.%20Talkin%20Woman.flac
 #EXTINF:190,Talkin Woman
-/music/a/Albert Collins/Live 1992-1993/07. Talkin Woman.m4a
+/music/a/Albert Collins/Live 1992-1993/07. Talkin Woman.flac
 #EXTURL:file:///music/s/Steve%20Miller%20Band/Fly%20Like%20An%20Eagle/07.%20Take%20The%20Money%20And%20Run.m4a
 #EXTINF:170,Take The Money And Run
 /music/s/Steve Miller Band/Fly Like An Eagle/07. Take The Money And Run.m4a
@@ -3315,21 +3276,21 @@
 #EXTURL:file:///music/d/David%20Byrne/David%20Byrne/05.%20Back%20In%20The%20Box.m4a
 #EXTINF:265,Back In The Box
 /music/d/David Byrne/David Byrne/05. Back In The Box.m4a
-#EXTURL:file:///music/r/Robby%20Z/What%27cha%20Want%20From%20Me%3F/11.%20San%20Ho%20Say.m4a
+#EXTURL:file:///music/r/Robby%20Z/What%27cha%20Want%20From%20Me%3F/11.%20San%20Ho%20Say.flac
 #EXTINF:219,San Ho Say
-/music/r/Robby Z/What'cha Want From Me?/11. San Ho Say.m4a
+/music/r/Robby Z/What'cha Want From Me?/11. San Ho Say.flac
 #EXTURL:file:///music/l/Les%20Sampou/Les%20Sampou/02.%20Hanging%20By%20A%20Thread.m4a
 #EXTINF:225,Hanging By A Thread
 /music/l/Les Sampou/Les Sampou/02. Hanging By A Thread.m4a
 #EXTURL:file:///music/l/Les%20Sampou/Les%20Sampou/03.%20I%20Want%20You.m4a
 #EXTINF:180,I Want You
 /music/l/Les Sampou/Les Sampou/03. I Want You.m4a
-#EXTURL:file:///music/e/Eagles/Their%20Greatest%20Hits:%201971-1975/09.%20Peaceful%20Easy%20Feeling.m4a
+#EXTURL:file:///music/e/Eagles/Their%20Greatest%20Hits:%201971-1975/09.%20Peaceful%20Easy%20Feeling.flac
 #EXTINF:258,Peaceful Easy Feeling
-/music/e/Eagles/Their Greatest Hits: 1971-1975/09. Peaceful Easy Feeling.m4a
-#EXTURL:file:///music/e/Eagles/Their%20Greatest%20Hits:%201971-1975/01.%20Take%20It%20Easy.m4a
+/music/e/Eagles/Their Greatest Hits: 1971-1975/09. Peaceful Easy Feeling.flac
+#EXTURL:file:///music/e/Eagles/Their%20Greatest%20Hits:%201971-1975/01.%20Take%20It%20Easy.flac
 #EXTINF:211,Take It Easy
-/music/e/Eagles/Their Greatest Hits: 1971-1975/01. Take It Easy.m4a
+/music/e/Eagles/Their Greatest Hits: 1971-1975/01. Take It Easy.flac
 #EXTURL:file:///music/h/Heart/Dreamboat%20Annie/01.%20Magic%20Man.m4a
 #EXTINF:329,Magic Man
 /music/h/Heart/Dreamboat Annie/01. Magic Man.m4a
@@ -3351,9 +3312,9 @@
 #EXTURL:file:///music/h/Heartless%20Bastards/Arrow/04.%20Only%20For%20You.m4a
 #EXTINF:308,Only For You
 /music/h/Heartless Bastards/Arrow/04. Only For You.m4a
-#EXTURL:file:///music/m/Mezcaleros/Road%20To%20Texas/02.%20Cajun%20River.m4a
+#EXTURL:file:///music/m/Mezcaleros/Road%20To%20Texas/02.%20Cajun%20River.flac
 #EXTINF:262,Cajun River
-/music/m/Mezcaleros/Road To Texas/02. Cajun River.m4a
+/music/m/Mezcaleros/Road To Texas/02. Cajun River.flac
 #EXTURL:file:///music/d/Dr.%20Wu%27/%22Texas%20Blues%22%20Project/03.%20Jacksboro%20Highway%20(Live).m4a
 #EXTINF:336,Jacksboro Highway (Live)
 /music/d/Dr. Wu'/"Texas Blues" Project/03. Jacksboro Highway (Live).m4a
@@ -3402,12 +3363,12 @@
 #EXTURL:file:///music/b/Barrington%20Levy/Singles/01.%20Here%20I%20Come%20(Jeymes%20Samuel%20Remix).m4a
 #EXTINF:106,Here I Come (Jeymes Samuel Remix)
 /music/b/Barrington Levy/Singles/01. Here I Come (Jeymes Samuel Remix).m4a
-#EXTURL:file:///music/s/Stevie%20Wonder/The%20Definitive%20Collection/09.%20Superstition.m4a
+#EXTURL:file:///music/s/Stevie%20Wonder/The%20Definitive%20Collection/09.%20Superstition.flac
 #EXTINF:245,Superstition
-/music/s/Stevie Wonder/The Definitive Collection/09. Superstition.m4a
-#EXTURL:file:///music/s/Stevie%20Wonder/The%20Definitive%20Collection/15.%20Sir%20Duke.m4a
+/music/s/Stevie Wonder/The Definitive Collection/09. Superstition.flac
+#EXTURL:file:///music/s/Stevie%20Wonder/The%20Definitive%20Collection/15.%20Sir%20Duke.flac
 #EXTINF:233,Sir Duke
-/music/s/Stevie Wonder/The Definitive Collection/15. Sir Duke.m4a
+/music/s/Stevie Wonder/The Definitive Collection/15. Sir Duke.flac
 #EXTURL:file:///music/d/Dave%20Thompson/Little%20Dave%20And%20Big%20Love/09.%20Ain%27t%20It%20A%20Shame.m4a
 #EXTINF:187,Ain't It A Shame
 /music/d/Dave Thompson/Little Dave And Big Love/09. Ain't It A Shame.m4a
@@ -3420,21 +3381,21 @@
 #EXTURL:file:///music/d/Deborah%20Coleman/Soul%20Be%20It!/07.%20Goodbye%20Misery.m4a
 #EXTINF:729,Goodbye Misery
 /music/d/Deborah Coleman/Soul Be It!/07. Goodbye Misery.m4a
-#EXTURL:file:///music/j/Johnnie%20Taylor/Chronicle:%20The%2020%20Greatest%20Hits/15.%20Cheaper%20To%20Keep%20Her.m4a
+#EXTURL:file:///music/j/Johnnie%20Taylor/Chronicle:%20The%2020%20Greatest%20Hits/15.%20Cheaper%20To%20Keep%20Her.flac
 #EXTINF:211,Cheaper To Keep Her
-/music/j/Johnnie Taylor/Chronicle: The 20 Greatest Hits/15. Cheaper To Keep Her.m4a
-#EXTURL:file:///music/t/Terrell/Beautiful%20Side%20of%20Madness/07.%20Georgia%20O%27Keeffe.m4a
+/music/j/Johnnie Taylor/Chronicle: The 20 Greatest Hits/15. Cheaper To Keep Her.flac
+#EXTURL:file:///music/t/Terrell/Beautiful%20Side%20of%20Madness/07.%20Georgia%20O%27Keeffe.flac
 #EXTINF:323,Georgia O'Keeffe
-/music/t/Terrell/Beautiful Side of Madness/07. Georgia O'Keeffe.m4a
-#EXTURL:file:///music/t/Terrell/Beautiful%20Side%20of%20Madness/09.%20Whitley%20Flats.m4a
+/music/t/Terrell/Beautiful Side of Madness/07. Georgia O'Keeffe.flac
+#EXTURL:file:///music/t/Terrell/Beautiful%20Side%20of%20Madness/09.%20Whitley%20Flats.flac
 #EXTINF:203,Whitley Flats
-/music/t/Terrell/Beautiful Side of Madness/09. Whitley Flats.m4a
+/music/t/Terrell/Beautiful Side of Madness/09. Whitley Flats.flac
 #EXTURL:file:///music/d/Dire%20Straits/Communique/05.%20Lady%20Writer.m4a
 #EXTINF:225,Lady Writer
 /music/d/Dire Straits/Communique/05. Lady Writer.m4a
-#EXTURL:file:///music/f/Foghat/The%20Best%20of%20Foghat/10.%20Honey%20Hush.m4a
+#EXTURL:file:///music/f/Foghat/The%20Best%20of%20Foghat/10.%20Honey%20Hush.flac
 #EXTINF:263,Honey Hush
-/music/f/Foghat/The Best of Foghat/10. Honey Hush.m4a
+/music/f/Foghat/The Best of Foghat/10. Honey Hush.flac
 #EXTURL:file:///music/j/Jimi%20Hendrix/Radio%20One/06.%20Drivin%27%20South.flac
 #EXTINF:290,Drivin' South
 /music/j/Jimi Hendrix/Radio One/06. Drivin' South.flac
@@ -3465,18 +3426,18 @@
 #EXTURL:file:///music/Compilation/Sounds%20of%20The%20Seventies/FM%20Rock%20II/10.%20Wishing%20Well.m4a
 #EXTINF:222,Wishing Well
 /music/Compilation/Sounds of The Seventies/FM Rock II/10. Wishing Well.m4a
-#EXTURL:file:///music/r/REO%20Speedwagon/You%20Get%20What%20You%20Play%20For/09.%20Flying%20Turkey%20Trot.m4a
+#EXTURL:file:///music/r/REO%20Speedwagon/You%20Get%20What%20You%20Play%20For/09.%20Flying%20Turkey%20Trot.flac
 #EXTINF:155,Flying Turkey Trot
-/music/r/REO Speedwagon/You Get What You Play For/09. Flying Turkey Trot.m4a
+/music/r/REO Speedwagon/You Get What You Play For/09. Flying Turkey Trot.flac
 #EXTURL:file:///music/e/Electric%20Light%20Orchestra/All%20Over%20The%20World:%20The%20Very%20Best%20of%20Electric%20Light%20Orchestra/03.%20Don%27t%20Bring%20Me%20Down.m4a
 #EXTINF:243,Don't Bring Me Down
 /music/e/Electric Light Orchestra/All Over The World: The Very Best of Electric Light Orchestra/03. Don't Bring Me Down.m4a
 #EXTURL:file:///music/g/Guns%20N%27%20Roses/Greatest%20Hits/05.%20Welcome%20To%20The%20Jungle.m4a
 #EXTINF:273,Welcome To The Jungle
 /music/g/Guns N' Roses/Greatest Hits/05. Welcome To The Jungle.m4a
-#EXTURL:file:///music/n/Nirvana/Unplugged%20In%20New%20York/02.%20Come%20As%20You%20Are.m4a
+#EXTURL:file:///music/n/Nirvana/Unplugged%20In%20New%20York/02.%20Come%20As%20You%20Are.flac
 #EXTINF:253,Come As You Are
-/music/n/Nirvana/Unplugged In New York/02. Come As You Are.m4a
+/music/n/Nirvana/Unplugged In New York/02. Come As You Are.flac
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Singles/Sweet%20William.mp3
 #EXTINF:274,Sweet William
 /music/t/Tom Petty & The Heartbreakers/Singles/Sweet William.mp3
@@ -3486,21 +3447,21 @@
 #EXTURL:file:///music/s/Shannon%20Curfman/What%20You%27re%20Getting%20Into/07.%20Oh%20Well.m4a
 #EXTINF:310,Oh Well
 /music/s/Shannon Curfman/What You're Getting Into/07. Oh Well.m4a
-#EXTURL:file:///music/Compilation/Girls%20With%20Guitars/08.%20Leaving%20Chicago.m4a
+#EXTURL:file:///music/Compilation/Girls%20With%20Guitars/08.%20Leaving%20Chicago.flac
 #EXTINF:219,Leaving Chicago
-/music/Compilation/Girls With Guitars/08. Leaving Chicago.m4a
-#EXTURL:file:///music/Compilation/Girls%20With%20Guitars/12.%20Jet%20Airliner.m4a
+/music/Compilation/Girls With Guitars/08. Leaving Chicago.flac
+#EXTURL:file:///music/Compilation/Girls%20With%20Guitars/12.%20Jet%20Airliner.flac
 #EXTINF:271,Jet Airliner
-/music/Compilation/Girls With Guitars/12. Jet Airliner.m4a
+/music/Compilation/Girls With Guitars/12. Jet Airliner.flac
 #EXTURL:file:///music/g/Goo%20Goo%20Dolls/Dizzy%20Up%20The%20Girl/11.%20Iris.m4a
 #EXTINF:289,Iris
 /music/g/Goo Goo Dolls/Dizzy Up The Girl/11. Iris.m4a
 #EXTURL:file:///music/g/Gregg%20Allman%20Band/Southern%20Blood%20(Deluxe%20Edition)/09.%20Love%20Like%20Kerosene.m4a
 #EXTINF:257,Love Like Kerosene
 /music/g/Gregg Allman Band/Southern Blood (Deluxe Edition)/09. Love Like Kerosene.m4a
-#EXTURL:file:///music/j/John%20Hiatt/Perfectly%20Good%20Guitar/04.%20Buffalo%20River%20Home.m4a
+#EXTURL:file:///music/j/John%20Hiatt/Perfectly%20Good%20Guitar/04.%20Buffalo%20River%20Home.flac
 #EXTINF:311,Buffalo River Home
-/music/j/John Hiatt/Perfectly Good Guitar/04. Buffalo River Home.m4a
+/music/j/John Hiatt/Perfectly Good Guitar/04. Buffalo River Home.flac
 #EXTURL:file:///music/a/AC-DC/Back%20In%20Black/09.%20Shake%20A%20Leg.m4a
 #EXTINF:246,Shake A Leg
 /music/a/AC-DC/Back In Black/09. Shake A Leg.m4a
@@ -3519,12 +3480,12 @@
 #EXTURL:file:///music/l/Lotus/Eat%20The%20Light/10.%20Sodium%20Vapor.m4a
 #EXTINF:323,Sodium Vapor
 /music/l/Lotus/Eat The Light/10. Sodium Vapor.m4a
-#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/In%20Step/01.%20The%20House%20Is%20Rockin%27.m4a
+#EXTURL:file:///music/s/Stevie%20Ray%20Vaughan%20&%20Double%20Trouble/In%20Step/01.%20The%20House%20Is%20Rockin%27.flac
 #EXTINF:144,The House Is Rockin'
-/music/s/Stevie Ray Vaughan & Double Trouble/In Step/01. The House Is Rockin'.m4a
-#EXTURL:file:///music/m/Missing%20Persons/The%20Best%20of%20Missing%20Persons/04.%20Mental%20Hopscotch.m4a
+/music/s/Stevie Ray Vaughan & Double Trouble/In Step/01. The House Is Rockin'.flac
+#EXTURL:file:///music/m/Missing%20Persons/The%20Best%20of%20Missing%20Persons/04.%20Mental%20Hopscotch.flac
 #EXTINF:196,Mental Hopscotch
-/music/m/Missing Persons/The Best of Missing Persons/04. Mental Hopscotch.m4a
+/music/m/Missing Persons/The Best of Missing Persons/04. Mental Hopscotch.flac
 #EXTURL:file:///music/o/Orb/U.F.OFF:%20The%20Best%20of%20The%20Orb/1-02.%20Little%20Fluffy%20Clouds%20(Dance%20Mix%202).mp3
 #EXTINF:250,Little Fluffy Clouds (Dance Mix 2)
 /music/o/Orb/U.F.OFF: The Best of The Orb/1-02. Little Fluffy Clouds (Dance Mix 2).mp3
@@ -3534,21 +3495,21 @@
 #EXTURL:file:///music/b/Beck/Modern%20Guilt/01.%20Orphans.m4a
 #EXTINF:195,Orphans
 /music/b/Beck/Modern Guilt/01. Orphans.m4a
-#EXTURL:file:///music/j/Jackson%20Browne/The%20Pretender/08.%20The%20Pretender.m4a
+#EXTURL:file:///music/j/Jackson%20Browne/The%20Pretender/08.%20The%20Pretender.flac
 #EXTINF:353,The Pretender
-/music/j/Jackson Browne/The Pretender/08. The Pretender.m4a
+/music/j/Jackson Browne/The Pretender/08. The Pretender.flac
 #EXTURL:file:///music/c/Coco%20Montoya/Gotta%20Mind%20To%20Travel/01.%20Too%20Much%20Water.m4a
 #EXTINF:240,Too Much Water
 /music/c/Coco Montoya/Gotta Mind To Travel/01. Too Much Water.m4a
 #EXTURL:file:///music/s/Sterling%20Koch/Slide%20Ruler/08.%20I%27m%20A%20Bluesman.m4a
 #EXTINF:249,I'm A Bluesman
 /music/s/Sterling Koch/Slide Ruler/08. I'm A Bluesman.m4a
-#EXTURL:file:///music/t/Traveling%20Wilburys/Traveling%20Wilburys%20Vol.%203/02.%20Inside%20Out.m4a
+#EXTURL:file:///music/t/Traveling%20Wilburys/Traveling%20Wilburys%20Vol.%203/02.%20Inside%20Out.flac
 #EXTINF:215,Inside Out
-/music/t/Traveling Wilburys/Traveling Wilburys Vol. 3/02. Inside Out.m4a
-#EXTURL:file:///music/a/Alice%20Cooper/Mascara%20&%20Monsters:%20The%20Best%20of%20Alice%20Cooper/10.%20No%20More%20Mr.%20Nice%20Guy.m4a
+/music/t/Traveling Wilburys/Traveling Wilburys Vol. 3/02. Inside Out.flac
+#EXTURL:file:///music/a/Alice%20Cooper/Mascara%20&%20Monsters:%20The%20Best%20of%20Alice%20Cooper/10.%20No%20More%20Mr.%20Nice%20Guy.flac
 #EXTINF:187,No More Mr. Nice Guy
-/music/a/Alice Cooper/Mascara & Monsters: The Best of Alice Cooper/10. No More Mr. Nice Guy.m4a
+/music/a/Alice Cooper/Mascara & Monsters: The Best of Alice Cooper/10. No More Mr. Nice Guy.flac
 #EXTURL:file:///music/g/Gin%20Wigmore/Blood%20To%20Bone/05.%20Written%20In%20The%20Water.m4a
 #EXTINF:166,Written In The Water
 /music/g/Gin Wigmore/Blood To Bone/05. Written In The Water.m4a
@@ -3570,9 +3531,9 @@
 #EXTURL:file:///music/j/Joanna%20Connor/Big%20Girl%20Blues/01.%20Big%20Girl%20Blues.m4a
 #EXTINF:225,Big Girl Blues
 /music/j/Joanna Connor/Big Girl Blues/01. Big Girl Blues.m4a
-#EXTURL:file:///music/p/Pure%20Prairie%20League/Amie%20&%20Other%20Hits/01.%20Amie.m4a
+#EXTURL:file:///music/p/Pure%20Prairie%20League/Amie%20&%20Other%20Hits/01.%20Amie.flac
 #EXTINF:261,Amie
-/music/p/Pure Prairie League/Amie & Other Hits/01. Amie.m4a
+/music/p/Pure Prairie League/Amie & Other Hits/01. Amie.flac
 #EXTURL:file:///music/b/Bobby%20Womack/The%20Best%20of%20The%20Soul%20Years/03.%20I%27m%20A%20Midnight%20Mover.m4a
 #EXTINF:122,I'm A Midnight Mover
 /music/b/Bobby Womack/The Best of The Soul Years/03. I'm A Midnight Mover.m4a
@@ -3582,24 +3543,24 @@
 #EXTURL:file:///music/p/Popa%20Chubby/Big%20Man%20Big%20Guitar%20[Live]/05.%20If%20The%20Diesel%20Don%27t%20Get%20You%20Then%20The%20Jet%20Fuel%20Will.m4a
 #EXTINF:322,If The Diesel Don't Get You Then The Jet Fuel Will
 /music/p/Popa Chubby/Big Man Big Guitar [Live]/05. If The Diesel Don't Get You Then The Jet Fuel Will.m4a
-#EXTURL:file:///music/a/Anthony%20Gomes/Up%202%20Zero/06.%20Room%20414.m4a
+#EXTURL:file:///music/a/Anthony%20Gomes/Up%202%20Zero/06.%20Room%20414.flac
 #EXTINF:167,Room 414
-/music/a/Anthony Gomes/Up 2 Zero/06. Room 414.m4a
-#EXTURL:file:///music/a/Anthony%20Gomes/Up%202%20Zero/01.%20Back%20To%20The%20Start.m4a
+/music/a/Anthony Gomes/Up 2 Zero/06. Room 414.flac
+#EXTURL:file:///music/a/Anthony%20Gomes/Up%202%20Zero/01.%20Back%20To%20The%20Start.flac
 #EXTINF:214,Back To The Start
-/music/a/Anthony Gomes/Up 2 Zero/01. Back To The Start.m4a
-#EXTURL:file:///music/r/Royal%20Southern%20Brotherhood/Royal%20Southern%20Brotherhood/04.%20Moonlight%20Over%20The%20Mississippi.m4a
+/music/a/Anthony Gomes/Up 2 Zero/01. Back To The Start.flac
+#EXTURL:file:///music/r/Royal%20Southern%20Brotherhood/Royal%20Southern%20Brotherhood/04.%20Moonlight%20Over%20The%20Mississippi.flac
 #EXTINF:225,Moonlight Over The Mississippi
-/music/r/Royal Southern Brotherhood/Royal Southern Brotherhood/04. Moonlight Over The Mississippi.m4a
+/music/r/Royal Southern Brotherhood/Royal Southern Brotherhood/04. Moonlight Over The Mississippi.flac
 #EXTURL:file:///music/m/Mick%20Clarke/Classic%20Cuts/03.%20Walking%20In%20The%20Dark.m4a
 #EXTINF:212,Walking In The Dark
 /music/m/Mick Clarke/Classic Cuts/03. Walking In The Dark.m4a
 #EXTURL:file:///music/g/George%20Harrison/Singles/While%20My%20Guitar%20Gently%20Weeps%20(Live).mp3
 #EXTINF:379,While My Guitar Gently Weeps (Live)
 /music/g/George Harrison/Singles/While My Guitar Gently Weeps (Live).mp3
-#EXTURL:file:///music/s/Steely%20Dan/Aja/01.%20Black%20Cow.m4a
+#EXTURL:file:///music/s/Steely%20Dan/Aja/01.%20Black%20Cow.flac
 #EXTINF:310,Black Cow
-/music/s/Steely Dan/Aja/01. Black Cow.m4a
+/music/s/Steely Dan/Aja/01. Black Cow.flac
 #EXTURL:file:///music/e/Echo%20&%20The%20Bunnymen/Ballyhoo/17.%20Lips%20Like%20Sugar.m4a
 #EXTINF:291,Lips Like Sugar
 /music/e/Echo & The Bunnymen/Ballyhoo/17. Lips Like Sugar.m4a
@@ -3630,21 +3591,18 @@
 #EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Trouble%20Is.../03.%20Blue%20on%20Black.m4a
 #EXTINF:330,Blue on Black
 /music/k/Kenny Wayne Shepherd/Trouble Is.../03. Blue on Black.m4a
-#EXTURL:file:///music/m/Modern%20English/After%20The%20Snow/05.%20I%20Melt%20With%20You.m4a
-#EXTINF:231,I Melt With You
-/music/m/Modern English/After The Snow/05. I Melt With You.m4a
-#EXTURL:file:///music/e/Eric%20Bell/Belfast%20Blues%20In%20A%20Jar/09.%20Whiskey%20In%20The%20Jar.m4a
+#EXTURL:file:///music/e/Eric%20Bell/Belfast%20Blues%20In%20A%20Jar/09.%20Whiskey%20In%20The%20Jar.flac
 #EXTINF:654,Whiskey In The Jar
-/music/e/Eric Bell/Belfast Blues In A Jar/09. Whiskey In The Jar.m4a
-#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/2-11.%20Eyes%20of%20The%20World%20(Live).m4a
+/music/e/Eric Bell/Belfast Blues In A Jar/09. Whiskey In The Jar.flac
+#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/2-11.%20Eyes%20of%20The%20World%20(Live).flac
 #EXTINF:986,Eyes of The World (Live)
-/music/g/Grateful Dead/The Arista Years/2-11. Eyes of The World (Live).m4a
-#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/2-03.%20West%20L.A.%20Fadeaway.m4a
+/music/g/Grateful Dead/The Arista Years/2-11. Eyes of The World (Live).flac
+#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/2-03.%20West%20L.A.%20Fadeaway.flac
 #EXTINF:399,West L.A. Fadeaway
-/music/g/Grateful Dead/The Arista Years/2-03. West L.A. Fadeaway.m4a
-#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/1-06.%20Shakedown%20Street.m4a
+/music/g/Grateful Dead/The Arista Years/2-03. West L.A. Fadeaway.flac
+#EXTURL:file:///music/g/Grateful%20Dead/The%20Arista%20Years/1-06.%20Shakedown%20Street.flac
 #EXTINF:300,Shakedown Street
-/music/g/Grateful Dead/The Arista Years/1-06. Shakedown Street.m4a
+/music/g/Grateful Dead/The Arista Years/1-06. Shakedown Street.flac
 #EXTURL:file:///music/s/Sheryl%20Crow/Live%20Wire%20(feat.%20Bonnie%20Raitt%20&%20Mavis%20Staples)%20-%20Single/01.%20Live%20Wire%20(feat.%20Bonnie%20Raitt%20&%20Mavis%20Staples).m4a
 #EXTINF:310,Live Wire (feat. Bonnie Raitt & Mavis Staples)
 /music/s/Sheryl Crow/Live Wire (feat. Bonnie Raitt & Mavis Staples) - Single/01. Live Wire (feat. Bonnie Raitt & Mavis Staples).m4a
@@ -3690,9 +3648,9 @@
 #EXTURL:file:///music/s/Shocking%20Blue/Singles/06.%20Venus.m4a
 #EXTINF:183,Venus
 /music/s/Shocking Blue/Singles/06. Venus.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20Monsters/01.%20Bittersweet.m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20Monsters/01.%20Bittersweet.flac
 #EXTINF:418,Bittersweet
-/music/b/Big Head Todd & The Monsters/Live Monsters/01. Bittersweet.m4a
+/music/b/Big Head Todd & The Monsters/Live Monsters/01. Bittersweet.flac
 #EXTURL:file:///music/s/Shawn%20Colvin/Fat%20City/04.%20Round%20of%20Blues.m4a
 #EXTINF:281,Round of Blues
 /music/s/Shawn Colvin/Fat City/04. Round of Blues.m4a
@@ -3708,9 +3666,9 @@
 #EXTURL:file:///music/l/Los%20Lonely%20Boys/1969/05.%20Roadhouse%20Blues.m4a
 #EXTINF:304,Roadhouse Blues
 /music/l/Los Lonely Boys/1969/05. Roadhouse Blues.m4a
-#EXTURL:file:///music/s/Stone%20Temple%20Pilots/Core/09.%20Plush.m4a
+#EXTURL:file:///music/s/Stone%20Temple%20Pilots/Core/09.%20Plush.flac
 #EXTINF:314,Plush
-/music/s/Stone Temple Pilots/Core/09. Plush.m4a
+/music/s/Stone Temple Pilots/Core/09. Plush.flac
 #EXTURL:file:///music/d/Dave%20Alvin/Ashgrove/01.%20Ashgrove.m4a
 #EXTINF:375,Ashgrove
 /music/d/Dave Alvin/Ashgrove/01. Ashgrove.m4a
@@ -3768,9 +3726,9 @@
 #EXTURL:file:///music/j/Julian%20Sas/Where%20Will%20It%20End!%3F/04.%20Goin%27%20Down.m4a
 #EXTINF:305,Goin' Down
 /music/j/Julian Sas/Where Will It End!?/04. Goin' Down.m4a
-#EXTURL:file:///music/s/Susan%20Tedeschi/Wait%20For%20Me/04.%20%27Til%20I%20Found%20You.m4a
+#EXTURL:file:///music/s/Susan%20Tedeschi/Wait%20For%20Me/04.%20%27Til%20I%20Found%20You.flac
 #EXTINF:208,'Til I Found You
-/music/s/Susan Tedeschi/Wait For Me/04. 'Til I Found You.m4a
+/music/s/Susan Tedeschi/Wait For Me/04. 'Til I Found You.flac
 #EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20At%20Red%20Rocks%201995/2-02.%20Tomorrow%20Never%20Comes.mp3
 #EXTINF:303,Tomorrow Never Comes
 /music/b/Big Head Todd & The Monsters/Live At Red Rocks 1995/2-02. Tomorrow Never Comes.mp3
@@ -3819,12 +3777,12 @@
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/The%20Best%20of%20Everything%20-%20The%20Definitive%20Career%20Spanning%20Hits%20Collection%201976-2016/1-01.%20Free%20Fallin%27.m4a
 #EXTINF:254,Free Fallin'
 /music/t/Tom Petty & The Heartbreakers/The Best of Everything - The Definitive Career Spanning Hits Collection 1976-2016/1-01. Free Fallin'.m4a
-#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2022/07.%20Beg%20Steal%20Or%20Borrow.m4a
+#EXTURL:file:///music/Compilation/KBCO/KBCO%20Studio%20C%20Volume%2022/07.%20Beg%20Steal%20Or%20Borrow.flac
 #EXTINF:277,Beg Steal Or Borrow
-/music/Compilation/KBCO/KBCO Studio C Volume 22/07. Beg Steal Or Borrow.m4a
-#EXTURL:file:///music/s/Spencer%20Davis%20Group/Greatest%20Hits/01.%20Gimme%20Some%20Lovin%27.m4a
+/music/Compilation/KBCO/KBCO Studio C Volume 22/07. Beg Steal Or Borrow.flac
+#EXTURL:file:///music/s/Spencer%20Davis%20Group/Greatest%20Hits/01.%20Gimme%20Some%20Lovin%27.flac
 #EXTINF:198,Gimme Some Lovin'
-/music/s/Spencer Davis Group/Greatest Hits/01. Gimme Some Lovin'.m4a
+/music/s/Spencer Davis Group/Greatest Hits/01. Gimme Some Lovin'.flac
 #EXTURL:file:///music/d/Dave%20Beegle/A%20Year%20Closer/01.%20Big%20Fish%20Rumba.m4a
 #EXTINF:285,Big Fish Rumba
 /music/d/Dave Beegle/A Year Closer/01. Big Fish Rumba.m4a
@@ -3849,9 +3807,9 @@
 #EXTURL:file:///music/c/Counting%20Crows/Saturday%20Nights%20&%20Sunday%20Mornings/04.%20Sundays.m4a
 #EXTINF:261,Sundays
 /music/c/Counting Crows/Saturday Nights & Sunday Mornings/04. Sundays.m4a
-#EXTURL:file:///music/r/Raconteurs/Broken%20Boy%20Soldiers/01.%20Steady%20As%20She%20Goes.m4a
+#EXTURL:file:///music/r/Raconteurs/Broken%20Boy%20Soldiers/01.%20Steady%20As%20She%20Goes.flac
 #EXTINF:215,Steady As She Goes
-/music/r/Raconteurs/Broken Boy Soldiers/01. Steady As She Goes.m4a
+/music/r/Raconteurs/Broken Boy Soldiers/01. Steady As She Goes.flac
 #EXTURL:file:///music/d/Dave%20D%27Angelico/The%20Blues%20According%20To%20Texas%20Son/10.%20Becky%27s%20Got%20The%20Beat.m4a
 #EXTINF:308,Becky's Got The Beat
 /music/d/Dave D'Angelico/The Blues According To Texas Son/10. Becky's Got The Beat.m4a
