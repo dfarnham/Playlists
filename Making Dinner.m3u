@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Compilation/Blues%20%27n%27%20Booze/13.%20I%20Don%27t%20Drink%20Much.m4a
+#EXTINF:286,I Don't Drink Much
+/music/Compilation/Blues 'n' Booze/13. I Don't Drink Much.m4a
 #EXTURL:file:///music/n/Nick%20Schnebelen/Crazy%20All%20By%20Myself/08.%20Soul%20Magic.m4a
 #EXTINF:303,Soul Magic
 /music/n/Nick Schnebelen/Crazy All By Myself/08. Soul Magic.m4a
