@@ -1,5 +1,4 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
 #EXTURL:file:///music/e/Elton%20John/To%20Be%20Continued.../4-10.%20I%20Don%27t%20Wanna%20Go%20On%20With%20You%20Like%20That%20(12%22%20Shep%20Pettibone%20Mix).m4a
 #EXTINF:441,I Don't Wanna Go On With You Like That (12" Shep Pettibone Mix)
 /music/e/Elton John/To Be Continued.../4-10. I Don't Wanna Go On With You Like That (12" Shep Pettibone Mix).m4a
@@ -147,3 +146,6 @@
 #EXTURL:file:///music/g/Geordie%20Kieffer/Red%20Line%20-%20Single/01.%20Red%20Line.m4a
 #EXTINF:181,Red Line
 /music/g/Geordie Kieffer/Red Line - Single/01. Red Line.m4a
+#EXTURL:file:///music/a/Annie%20Lennox/Medusa/02.%20Take%20Me%20To%20The%20River.m4a
+#EXTINF:215,Take Me To The River
+/music/a/Annie Lennox/Medusa/02. Take Me To The River.m4a
