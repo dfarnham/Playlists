@@ -1,5 +1,4 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
 #EXTURL:file:///music/g/Greensky%20Bluegrass/Singles/05.%20Time%20-%20Breathe%20Reprise.m4a
 #EXTINF:338,Time / Breathe Reprise
 /music/g/Greensky Bluegrass/Singles/05. Time - Breathe Reprise.m4a
@@ -55,7 +54,7 @@
 #EXTINF:315,Spirit In The Sky
 /music/u/Upside Down/Trust Electricity/15. Spirit In The Sky.m4a
 #EXTURL:file:///music/j/Joe%20Bonamassa/Redemption/01.%20Evil%20Mama.flac
-#EXTINF:329,Evil Mama
+#EXTINF:330,Evil Mama
 /music/j/Joe Bonamassa/Redemption/01. Evil Mama.flac
 #EXTURL:file:///music/r/Ramones/Halfway%20To%20Sanity/09.%20A%20Real%20Cool%20Time.m4a
 #EXTINF:158,A Real Cool Time
@@ -1941,9 +1940,6 @@
 #EXTURL:file:///music/t/Tom%20Petty%20&%20The%20Heartbreakers/Hard%20Promises/04.%20Something%20Big.flac
 #EXTINF:284,Something Big
 /music/t/Tom Petty & The Heartbreakers/Hard Promises/04. Something Big.flac
-#EXTURL:file:///music/j/Jim%20Suhler/Live%20At%20Blue%20Cat%20Blues/03.%20I%20Wonder%20Why.m4a
-#EXTINF:477,I Wonder Why
-/music/j/Jim Suhler/Live At Blue Cat Blues/03. I Wonder Why.m4a
 #EXTURL:file:///music/k/Kenny%20Wayne%20Shepherd/Ledbetter%20Heights/12.%20Ledbetter%20Heights.flac
 #EXTINF:371,Ledbetter Heights
 /music/k/Kenny Wayne Shepherd/Ledbetter Heights/12. Ledbetter Heights.flac
@@ -2466,9 +2462,6 @@
 #EXTURL:file:///music/f/Fabian%20Anderhub/It%27s%20A%20Blues%20Thing/01.%20It%27s%20A%20Blues%20Thing.flac
 #EXTINF:250,It's A Blues Thing
 /music/f/Fabian Anderhub/It's A Blues Thing/01. It's A Blues Thing.flac
-#EXTURL:file:///music/t/Tommy%20Bolin/Teaser/05.%20Teaser.flac
-#EXTINF:266,Teaser
-/music/t/Tommy Bolin/Teaser/05. Teaser.flac
 #EXTURL:file:///music/d/Doobie%20Brothers/Stampede/02.%20Neal%27s%20Fandango.m4a
 #EXTINF:187,Neal's Fandango
 /music/d/Doobie Brothers/Stampede/02. Neal's Fandango.m4a
@@ -3822,3 +3815,9 @@
 #EXTURL:file:///music/l/LoneHollow/LoneHollow%20-%20EP/02.%20Slide%20Over.m4a
 #EXTINF:242,Slide Over
 /music/l/LoneHollow/LoneHollow - EP/02. Slide Over.m4a
+#EXTURL:file:///music/b/Blues%20Merchants/Tattooed%20With%20The%20Blues/05.%20Why,%20Why,%20Why.m4a
+#EXTINF:260,Why, Why, Why
+/music/b/Blues Merchants/Tattooed With The Blues/05. Why, Why, Why.m4a
+#EXTURL:file:///music/b/Backyard%20Tire%20Fire/Good%20To%20Be/04.%20Brady.m4a
+#EXTINF:246,Brady
+/music/b/Backyard Tire Fire/Good To Be/04. Brady.m4a
