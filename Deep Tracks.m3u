@@ -1,5 +1,4 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
 #EXTURL:file:///music/m/Mojo%20Roots/What%20Kind%20of%20Fool/06.%20White%20Chicken%20Chili.m4a
 #EXTINF:253,White Chicken Chili
 /music/m/Mojo Roots/What Kind of Fool/06. White Chicken Chili.m4a
@@ -211,7 +210,7 @@
 #EXTINF:213,Cajun Girl
 /music/l/Little Boys Blue/Bad Love/07. Cajun Girl.m4a
 #EXTURL:file:///music/c/Charlie%20Musselwhite/One%20Night%20In%20America/09.%20Big%20River.m4a
-#EXTINF:322,Big River
+#EXTINF:320,Big River
 /music/c/Charlie Musselwhite/One Night In America/09. Big River.m4a
 #EXTURL:file:///music/p/Peter%20Wolf/Sleepless/04.%20Never%20Like%20This%20Before.m4a
 #EXTINF:201,Never Like This Before
@@ -225,3 +224,6 @@
 #EXTURL:file:///music/Soundtracks/Desperado/17.%20Let%20Love%20Reign.m4a
 #EXTINF:202,Let Love Reign
 /music/Soundtracks/Desperado/17. Let Love Reign.m4a
+#EXTURL:file:///music/g/Grant%20Lyle/So%20There/06.%20Walk%20On.m4a
+#EXTINF:284,Walk On
+/music/g/Grant Lyle/So There/06. Walk On.m4a
