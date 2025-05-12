@@ -1,4 +1,8 @@
-﻿#EXTM3U
+﻿#CURTRACK 0
+#EXTM3U
+#EXTURL:file:///music/j/Jimmy%20Buffett/Take%20The%20Weather%20With%20You/09.%20Elvis%20Presley%20Blues.m4a
+#EXTINF:204,Elvis Presley Blues
+/music/j/Jimmy Buffett/Take The Weather With You/09. Elvis Presley Blues.m4a
 #EXTURL:file:///music/g/Greensky%20Bluegrass/Singles/05.%20Time%20-%20Breathe%20Reprise.m4a
 #EXTINF:338,Time / Breathe Reprise
 /music/g/Greensky Bluegrass/Singles/05. Time - Breathe Reprise.m4a
@@ -20,9 +24,6 @@
 #EXTURL:file:///music/b/Buddaheads/Howlin%27%20At%20The%20Moon/02.%20Nothing%20To%20Lose.m4a
 #EXTINF:233,Nothing To Lose
 /music/b/Buddaheads/Howlin' At The Moon/02. Nothing To Lose.m4a
-#EXTURL:file:///music/a/A%20Flock%20of%20Seagulls/The%20Best%20of%20a%20Flock%20of%20Seagulls/01.%20I%20Ran.m4a
-#EXTINF:307,I Ran
-/music/a/A Flock of Seagulls/The Best of a Flock of Seagulls/01. I Ran.m4a
 #EXTURL:file:///music/l/Little%20Boys%20Blue/Hard%20Blue%20Space/04.%20Hard%20Blue%20Space.m4a
 #EXTINF:284,Hard Blue Space
 /music/l/Little Boys Blue/Hard Blue Space/04. Hard Blue Space.m4a
@@ -3833,3 +3834,6 @@
 #EXTURL:file:///music/g/Grant%20Lyle/So%20There/06.%20Walk%20On.m4a
 #EXTINF:284,Walk On
 /music/g/Grant Lyle/So There/06. Walk On.m4a
+#EXTURL:file:///music/j/Jimmy%20Buffett/Take%20The%20Weather%20With%20You/09.%20Elvis%20Presley%20Blues.m4a
+#EXTINF:204,Elvis Presley Blues
+/music/j/Jimmy Buffett/Take The Weather With You/09. Elvis Presley Blues.m4a
