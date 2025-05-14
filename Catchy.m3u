@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/s/Storm%20Warning/Strategy/08.%20The%20Chester%20Stroll.m4a
+#EXTINF:308,The Chester Stroll
+/music/s/Storm Warning/Strategy/08. The Chester Stroll.m4a
 #EXTURL:file:///music/p/Propellerheads/Decksandrumsandrockandroll%2020th%20Anniversary/2-13.%20Crash!.m4a
 #EXTINF:417,Crash!
 /music/p/Propellerheads/Decksandrumsandrockandroll 20th Anniversary/2-13. Crash!.m4a
