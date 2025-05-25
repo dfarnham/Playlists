@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/c/Cari%20Cari/Welcome%20To%20Kookoo%20Island/02.%20Belo%20Horizonte.m4a
+#EXTINF:226,Belo Horizonte
+/music/c/Cari Cari/Welcome To Kookoo Island/02. Belo Horizonte.m4a
 #EXTURL:file:///music/s/Stephen%20Stills/Manassas/17.%20The%20Love%20Gangster.m4a
 #EXTINF:171,The Love Gangster
 /music/s/Stephen Stills/Manassas/17. The Love Gangster.m4a
