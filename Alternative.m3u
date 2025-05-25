@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/c/Cari%20Cari/Welcome%20To%20Kookoo%20Island/02.%20Belo%20Horizonte.m4a
+#EXTINF:226,Belo Horizonte
+/music/c/Cari Cari/Welcome To Kookoo Island/02. Belo Horizonte.m4a
 #EXTURL:file:///music/d/D%27Arcy%20Spiller/Wolf%20Blood%20-%20Single/01.%20Wolf%20Blood.m4a
 #EXTINF:187,Wolf Blood
 /music/d/D'Arcy Spiller/Wolf Blood - Single/01. Wolf Blood.m4a
