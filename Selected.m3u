@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/j/Joanne%20Shaw%20Taylor/Black%20&%20Gold/01.%20Hold%20of%20My%20Heart.m4a
+#EXTINF:224,Hold of My Heart
+/music/j/Joanne Shaw Taylor/Black & Gold/01. Hold of My Heart.m4a
+#EXTURL:file:///music/j/Joanne%20Shaw%20Taylor/Black%20&%20Gold/02.%20All%20The%20Things%20I%20Said.m4a
+#EXTINF:287,All The Things I Said
+/music/j/Joanne Shaw Taylor/Black & Gold/02. All The Things I Said.m4a
 #EXTURL:file:///music/c/Cari%20Cari/Welcome%20To%20Kookoo%20Island/02.%20Belo%20Horizonte.m4a
 #EXTINF:226,Belo Horizonte
 /music/c/Cari Cari/Welcome To Kookoo Island/02. Belo Horizonte.m4a
@@ -822,9 +828,6 @@
 #EXTURL:file:///music/j/John%20Butler%20Trio/Grand%20National/03.%20Funky%20Tonight.m4a
 #EXTINF:326,Funky Tonight
 /music/j/John Butler Trio/Grand National/03. Funky Tonight.m4a
-#EXTURL:file:///music/k/Kaleo/Singles/01.%20No%20Good.m4a
-#EXTINF:235,No Good
-/music/k/Kaleo/Singles/01. No Good.m4a
 #EXTURL:file:///music/d/Donald%20Fagen/Kamakiriad/01.%20Trans-Island%20Skyway.m4a
 #EXTINF:390,Trans-Island Skyway
 /music/d/Donald Fagen/Kamakiriad/01. Trans-Island Skyway.m4a
