@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/d/Durand%20Jones%20&%20The%20Indications/Power%20To%20The%20People%20-%20Single/01.%20Power%20To%20The%20People.m4a
+#EXTINF:264,Power To The People
+/music/d/Durand Jones & The Indications/Power To The People - Single/01. Power To The People.m4a
 #EXTURL:file:///music/j/Jason%20Elmore%20&%20Hoodoo%20Witch/Champagne%20Velvet/11.%20Champagne%20Velvet.m4a
 #EXTINF:158,Champagne Velvet
 /music/j/Jason Elmore & Hoodoo Witch/Champagne Velvet/11. Champagne Velvet.m4a
