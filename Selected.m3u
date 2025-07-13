@@ -1,5 +1,11 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/Compilation/Cadillac%20Sessions/01.%20Gettin%27%20Gone.m4a
+#EXTINF:223,Gettin' Gone
+/music/Compilation/Cadillac Sessions/01. Gettin' Gone.m4a
+#EXTURL:file:///music/d/Durand%20Jones%20&%20The%20Indications/Young%20Americans%20-%20Single/01.%20Young%20Americans.m4a
+#EXTINF:337,Young Americans
+/music/d/Durand Jones & The Indications/Young Americans - Single/01. Young Americans.m4a
 #EXTURL:file:///music/c/Charlie%20Musselwhite/Look%20Out%20Highway/07.%20Ready%20For%20Times%20To%20Get%20Better%20(feat.%20Edna%20Luckett).m4a
 #EXTINF:195,Ready For Times To Get Better (feat. Edna Luckett)
 /music/c/Charlie Musselwhite/Look Out Highway/07. Ready For Times To Get Better (feat. Edna Luckett).m4a
