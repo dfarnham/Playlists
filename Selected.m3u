@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/d/Devon%20Allman/The%20Blues%20Summit/01.%20Runners%20In%20The%20Night%20(feat.%20Christone%20%22Kingfish%22%20Ingram).m4a
+#EXTINF:263,Runners In The Night (feat. Christone "Kingfish" Ingram)
+/music/d/Devon Allman/The Blues Summit/01. Runners In The Night (feat. Christone "Kingfish" Ingram).m4a
 #EXTURL:file:///music/Compilation/Cadillac%20Sessions/01.%20Gettin%27%20Gone.m4a
 #EXTINF:223,Gettin' Gone
 /music/Compilation/Cadillac Sessions/01. Gettin' Gone.m4a
