@@ -1,5 +1,10 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
+#EXTURL:file:///music/b/Black%20Keys/No%20Rain,%20No%20Flowers/01.%20No%20Rain,%20No%20Flowers.m4a
+#EXTINF:196,No Rain, No Flowers
+/music/b/Black Keys/No Rain, No Flowers/01. No Rain, No Flowers.m4a
+#EXTURL:file:///music/b/Black%20Keys/No%20Rain,%20No%20Flowers/02.%20The%20Night%20Before.m4a
+#EXTINF:154,The Night Before
+/music/b/Black Keys/No Rain, No Flowers/02. The Night Before.m4a
 #EXTURL:file:///music/d/Devon%20Allman/The%20Blues%20Summit/01.%20Runners%20In%20The%20Night%20(feat.%20Christone%20%22Kingfish%22%20Ingram).m4a
 #EXTINF:263,Runners In The Night (feat. Christone "Kingfish" Ingram)
 /music/d/Devon Allman/The Blues Summit/01. Runners In The Night (feat. Christone "Kingfish" Ingram).m4a
@@ -3858,3 +3863,6 @@
 #EXTURL:file:///music/j/Jimmy%20Buffett/Take%20The%20Weather%20With%20You/09.%20Elvis%20Presley%20Blues.m4a
 #EXTINF:204,Elvis Presley Blues
 /music/j/Jimmy Buffett/Take The Weather With You/09. Elvis Presley Blues.m4a
+#EXTURL:file:///music/s/String%20Cheese%20Incident/Song%20In%20My%20Head/03.%20Let%27s%20Go%20Outside.m4a
+#EXTINF:257,Let's Go Outside
+/music/s/String Cheese Incident/Song In My Head/03. Let's Go Outside.m4a
