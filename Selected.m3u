@@ -1,4 +1,8 @@
-﻿#EXTM3U
+﻿#CURTRACK 0
+#EXTM3U
+#EXTURL:file:///music/d/David%20Bowie/I%20Can%27t%20Give%20Everything%20Away%20-%20EP/03.%20Rebel%20Never%20Gets%20Old%20(7th%20Heaven%20Mix).m4a
+#EXTINF:446,Rebel Never Gets Old (7th Heaven Mix)
+/music/d/David Bowie/I Can't Give Everything Away - EP/03. Rebel Never Gets Old (7th Heaven Mix).m4a
 #EXTURL:file:///music/b/Black%20Keys/No%20Rain,%20No%20Flowers/01.%20No%20Rain,%20No%20Flowers.m4a
 #EXTINF:196,No Rain, No Flowers
 /music/b/Black Keys/No Rain, No Flowers/01. No Rain, No Flowers.m4a
