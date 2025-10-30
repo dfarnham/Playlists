@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/d/Dave%20Stewart%20&%20Thomas%20Lindsey/Spitballin%27/01.%20Leave%20This%20Town.m4a
+#EXTINF:187,Leave This Town
+/music/d/Dave Stewart & Thomas Lindsey/Spitballin'/01. Leave This Town.m4a
 #EXTURL:file:///music/r/Robben%20Ford/Purple%20House/07.%20Cotton%20Candy.m4a
 #EXTINF:235,Cotton Candy
 /music/r/Robben Ford/Purple House/07. Cotton Candy.m4a
