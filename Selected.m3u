@@ -1,5 +1,11 @@
-﻿#CURTRACK 0
+﻿#CURTRACK 1
 #EXTM3U
+#EXTURL:file:///music/n/Natalie%20Merchant/Tigerlily/05.%20Carnival.m4a
+#EXTINF:361,Carnival
+/music/n/Natalie Merchant/Tigerlily/05. Carnival.m4a
+#EXTURL:file:///music/Soundtracks/Garden%20State/09.%20Lebanese%20Blonde.m4a
+#EXTINF:289,Lebanese Blonde
+/music/Soundtracks/Garden State/09. Lebanese Blonde.m4a
 #EXTURL:file:///music/d/Dave%20Stewart%20&%20Thomas%20Lindsey/Spitballin%27/01.%20Leave%20This%20Town.m4a
 #EXTINF:187,Leave This Town
 /music/d/Dave Stewart & Thomas Lindsey/Spitballin'/01. Leave This Town.m4a
