@@ -1,5 +1,8 @@
-﻿#CURTRACK 1
+﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/t/Tommy%20Talton/Seven%20Levels/01.%20Time%20Will%20Take%20Us.m4a
+#EXTINF:394,Time Will Take Us
+/music/t/Tommy Talton/Seven Levels/01. Time Will Take Us.m4a
 #EXTURL:file:///music/n/Natalie%20Merchant/Tigerlily/05.%20Carnival.m4a
 #EXTINF:361,Carnival
 /music/n/Natalie Merchant/Tigerlily/05. Carnival.m4a
