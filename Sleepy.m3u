@@ -1,5 +1,8 @@
 ﻿#CURTRACK 0
 #EXTM3U
+#EXTURL:file:///music/h/Hope%20Sandoval%20&%20The%20Warm%20Inventions/Son%20of%20a%20Lady%20-%20Single/03.%20Let%20Me%20Get%20There%20(Acoustic).m4a
+#EXTINF:318,Let Me Get There (Acoustic)
+/music/h/Hope Sandoval & The Warm Inventions/Son of a Lady - Single/03. Let Me Get There (Acoustic).m4a
 #EXTURL:file:///music/d/Durand%20Jones%20&%20The%20Indications/Power%20To%20The%20People%20-%20Single/01.%20Power%20To%20The%20People.m4a
 #EXTINF:264,Power To The People
 /music/d/Durand Jones & The Indications/Power To The People - Single/01. Power To The People.m4a
@@ -12,9 +15,6 @@
 #EXTURL:file:///music/n/Neil%20Young/Year%20of%20The%20Horse/1-04.%20Mr.%20Soul.flac
 #EXTINF:305,Mr. Soul
 /music/n/Neil Young/Year of The Horse/1-04. Mr. Soul.flac
-#EXTURL:file:///music/z/ZZ%20Top/Chrome,%20Smoke%20&%20BBQ:%20The%20ZZ%20Top%20Box/1-02.%20Joe%20Blues.m4a
-#EXTINF:455,Joe Blues
-/music/z/ZZ Top/Chrome, Smoke & BBQ: The ZZ Top Box/1-02. Joe Blues.m4a
 #EXTURL:file:///music/c/Carl%20Wyatt%20&%20The%20Delta%20Voodoo%20Kings/Texas%20Twister/04.%20Rainy%20Night%20In%20Georgia.m4a
 #EXTINF:331,Rainy Night In Georgia
 /music/c/Carl Wyatt & The Delta Voodoo Kings/Texas Twister/04. Rainy Night In Georgia.m4a
