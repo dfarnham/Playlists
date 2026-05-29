@@ -1,5 +1,4 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
 #EXTURL:file:///music/t/Tommy%20Talton/Seven%20Levels/01.%20Time%20Will%20Take%20Us.m4a
 #EXTINF:394,Time Will Take Us
 /music/t/Tommy Talton/Seven Levels/01. Time Will Take Us.m4a
@@ -39,12 +38,6 @@
 #EXTURL:file:///music/c/Charlie%20Musselwhite/Look%20Out%20Highway/07.%20Ready%20For%20Times%20To%20Get%20Better%20(feat.%20Edna%20Luckett).m4a
 #EXTINF:195,Ready For Times To Get Better (feat. Edna Luckett)
 /music/c/Charlie Musselwhite/Look Out Highway/07. Ready For Times To Get Better (feat. Edna Luckett).m4a
-#EXTURL:file:///music/j/Joanne%20Shaw%20Taylor/Black%20&%20Gold/01.%20Hold%20of%20My%20Heart.m4a
-#EXTINF:224,Hold of My Heart
-/music/j/Joanne Shaw Taylor/Black & Gold/01. Hold of My Heart.m4a
-#EXTURL:file:///music/j/Joanne%20Shaw%20Taylor/Black%20&%20Gold/02.%20All%20The%20Things%20I%20Said.m4a
-#EXTINF:287,All The Things I Said
-/music/j/Joanne Shaw Taylor/Black & Gold/02. All The Things I Said.m4a
 #EXTURL:file:///music/c/Cari%20Cari/Welcome%20To%20Kookoo%20Island/02.%20Belo%20Horizonte.m4a
 #EXTINF:226,Belo Horizonte
 /music/c/Cari Cari/Welcome To Kookoo Island/02. Belo Horizonte.m4a
@@ -570,9 +563,6 @@
 #EXTURL:file:///music/d/Divinyls/Greatest%20Hits/14.%20I%20Touch%20Myself.mp3
 #EXTINF:227,I Touch Myself
 /music/d/Divinyls/Greatest Hits/14. I Touch Myself.mp3
-#EXTURL:file:///music/d/Deep%20Purple/Deepest%20Purple:%20The%20Very%20Best%20of%20.../12.%20Smoke%20On%20The%20Water.mp3
-#EXTINF:273,Smoke On The Water
-/music/d/Deep Purple/Deepest Purple: The Very Best of .../12. Smoke On The Water.mp3
 #EXTURL:file:///music/l/Led%20Zeppelin/Houses%20of%20The%20Holy%20(Deluxe%20Edition)/1-03.%20Over%20The%20Hills%20And%20Far%20Away.m4a
 #EXTINF:290,Over The Hills And Far Away
 /music/l/Led Zeppelin/Houses of The Holy (Deluxe Edition)/1-03. Over The Hills And Far Away.m4a
@@ -2094,9 +2084,6 @@
 #EXTURL:file:///music/Soundtracks/Coneheads/02.%20Tainted%20Love.mp3
 #EXTINF:162,Tainted Love
 /music/Soundtracks/Coneheads/02. Tainted Love.mp3
-#EXTURL:file:///music/b/Blues%20Traveler/Suzie%20Cracks%20The%20Whip/07.%20Don%27t%20Wanna%20Go%20(Feat.%20Crystal%20Bowersox).flac
-#EXTINF:231,Don't Wanna Go (feat. Crystal Bowersox)
-/music/b/Blues Traveler/Suzie Cracks The Whip/07. Don't Wanna Go (Feat. Crystal Bowersox).flac
 #EXTURL:file:///music/j/J.J.%20Cale/Guitar%20Man/03.%20Days%20Go%20By.m4a
 #EXTINF:207,Days Go By
 /music/j/J.J. Cale/Guitar Man/03. Days Go By.m4a
@@ -2523,9 +2510,6 @@
 #EXTURL:file:///music/b/Bob%20Dylan/Blood%20On%20The%20Tracks/01.%20Tangled%20Up%20In%20Blue.m4a
 #EXTINF:341,Tangled Up In Blue
 /music/b/Bob Dylan/Blood On The Tracks/01. Tangled Up In Blue.m4a
-#EXTURL:file:///music/r/Roy%20Orbison/Monumental%20Hits/14.%20Oh,%20Pretty%20Woman.mp3
-#EXTINF:179,Oh, Pretty Woman
-/music/r/Roy Orbison/Monumental Hits/14. Oh, Pretty Woman.mp3
 #EXTURL:file:///music/h/Honeymoon%20Suite/Honeymoon%20Suite/01.%20New%20Girl%20Now.m4a
 #EXTINF:217,New Girl Now
 /music/h/Honeymoon Suite/Honeymoon Suite/01. New Girl Now.m4a
@@ -3147,9 +3131,6 @@
 #EXTURL:file:///music/a/Aerosmith/Aerosmith%27s%20Greatest%20Hits/04.%20Walk%20This%20Way.flac
 #EXTINF:212,Walk This Way
 /music/a/Aerosmith/Aerosmith's Greatest Hits/04. Walk This Way.flac
-#EXTURL:file:///music/u/Ugly%20Kid%20Joe/As%20Ugly%20As%20It%20Gets:%20The%20Very%20Best%20of/13.%20Funky%20Fresh%20Country%20Club.m4a
-#EXTINF:318,Funky Fresh Country Club
-/music/u/Ugly Kid Joe/As Ugly As It Gets: The Very Best of/13. Funky Fresh Country Club.m4a
 #EXTURL:file:///music/k/Keri%20Leigh/Arrival/07.%20Voodoo%20Woman.m4a
 #EXTINF:262,Voodoo Woman
 /music/k/Keri Leigh/Arrival/07. Voodoo Woman.m4a
@@ -3240,9 +3221,6 @@
 #EXTURL:file:///music/j/Joe%20Jackson/Greatest%20Hits/17.%20Nineteen%20Forever.m4a
 #EXTINF:345,Nineteen Forever
 /music/j/Joe Jackson/Greatest Hits/17. Nineteen Forever.m4a
-#EXTURL:file:///music/g/Gerry%20Rafferty/Singles/Right%20Down%20The%20Line.m4a
-#EXTINF:267,Right Down The Line
-/music/g/Gerry Rafferty/Singles/Right Down The Line.m4a
 #EXTURL:file:///music/b/Brian%20Jonestown%20Massacre/Zero/07.%20It%20Girl.m4a
 #EXTINF:133,It Girl
 /music/b/Brian Jonestown Massacre/Zero/07. It Girl.m4a
@@ -3387,9 +3365,6 @@
 #EXTURL:file:///music/s/School%20of%20Fish/School%20of%20Fish/02.%203%20Strange%20Days.m4a
 #EXTINF:312,3 Strange Days
 /music/s/School of Fish/School of Fish/02. 3 Strange Days.m4a
-#EXTURL:file:///music/t/Tylor%20&%20The%20Train%20Robbers/Gravel/02.%20Need%20It%20or%20Not.m4a
-#EXTINF:233,Need It Or Not
-/music/t/Tylor & The Train Robbers/Gravel/02. Need It or Not.m4a
 #EXTURL:file:///music/d/Dana%20Fuchs/Love%20To%20Beg/01.%20Love%20To%20Beg.m4a
 #EXTINF:262,Love To Beg
 /music/d/Dana Fuchs/Love To Beg/01. Love To Beg.m4a
@@ -3894,3 +3869,9 @@
 #EXTURL:file:///music/s/Sie/Riders%20On%20The%20Storm%20(feat.%20Courtney%20Gray)%20-%20Single/01.%20Riders%20On%20The%20Storm%20(feat.%20Courtney%20Gray).m4a
 #EXTINF:357,Riders On The Storm (feat. Courtney Gray)
 /music/s/Sie/Riders On The Storm (feat. Courtney Gray) - Single/01. Riders On The Storm (feat. Courtney Gray).m4a
+#EXTURL:file:///music/g/Gerry%20Rafferty/City%20to%20City/02.%20Baker%20Street.m4a
+#EXTINF:365,Baker Street
+/music/g/Gerry Rafferty/City to City/02. Baker Street.m4a
+#EXTURL:file:///music/g/Gerry%20Rafferty/City%20to%20City/03.%20Right%20Down%20The%20Line.m4a
+#EXTINF:267,Right Down The Line
+/music/g/Gerry Rafferty/City to City/03. Right Down The Line.m4a
