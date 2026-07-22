@@ -1,5 +1,4 @@
-﻿#CURTRACK 0
-#EXTM3U
+﻿#EXTM3U
 #EXTURL:file:///music/s/Sienna%20Spiro/Singles/Material%20Lover.m4a
 #EXTINF:178,Material Lover
 /music/s/Sienna Spiro/Singles/Material Lover.m4a
@@ -1818,12 +1817,6 @@
 #EXTURL:file:///music/s/Sheryl%20Crow/Live%20From%20Central%20Park/06.%20A%20Change%20Would%20Do%20You%20Good.flac
 #EXTINF:317,A Change Would Do You Good
 /music/s/Sheryl Crow/Live From Central Park/06. A Change Would Do You Good.flac
-#EXTURL:file:///music/w/War/Anthology/Disc2/02.%20Low%20Rider.flac
-#EXTINF:190,Low Rider
-/music/w/War/Anthology/Disc2/02. Low Rider.flac
-#EXTURL:file:///music/w/War/Anthology/Disc2/11.%20Outlaw.flac
-#EXTINF:240,Outlaw
-/music/w/War/Anthology/Disc2/11. Outlaw.flac
 #EXTURL:file:///music/s/Styx/Greatest%20Hits/04.%20Too%20Much%20Time%20On%20My%20Hands.m4a
 #EXTINF:273,Too Much Time On My Hands
 /music/s/Styx/Greatest Hits/04. Too Much Time On My Hands.m4a
@@ -3879,3 +3872,6 @@
 #EXTURL:file:///music/g/Gerry%20Rafferty/City%20to%20City/03.%20Right%20Down%20The%20Line.m4a
 #EXTINF:267,Right Down The Line
 /music/g/Gerry Rafferty/City to City/03. Right Down The Line.m4a
+#EXTURL:file:///music/k/Kinny%20&%20Horne/Forgetting%20To%20Remember/03.%20Forgetting%20To%20Remember.m4a
+#EXTINF:211,Forgetting To Remember
+/music/k/Kinny & Horne/Forgetting To Remember/03. Forgetting To Remember.m4a
