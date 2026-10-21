@@ -3668,12 +3668,6 @@
 #EXTURL:file:///music/s/Shawn%20Colvin/Fat%20City/04.%20Round%20of%20Blues.m4a
 #EXTINF:281,Round of Blues
 /music/s/Shawn Colvin/Fat City/04. Round of Blues.m4a
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20At%20The%20Fillmore/01.%20Dirty%20Juice.mp3
-#EXTINF:306,Dirty Juice
-/music/b/Big Head Todd & The Monsters/Live At The Fillmore/01. Dirty Juice.mp3
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20At%20The%20Fillmore/17.%20Forever%20Man.mp3
-#EXTINF:279,Forever Man
-/music/b/Big Head Todd & The Monsters/Live At The Fillmore/17. Forever Man.mp3
 #EXTURL:file:///music/l/Los%20Lonely%20Boys/1969/01.%20Evil%20Ways.m4a
 #EXTINF:218,Evil Ways
 /music/l/Los Lonely Boys/1969/01. Evil Ways.m4a
@@ -3743,9 +3737,6 @@
 #EXTURL:file:///music/s/Susan%20Tedeschi/Wait%20For%20Me/04.%20%27Til%20I%20Found%20You.flac
 #EXTINF:208,'Til I Found You
 /music/s/Susan Tedeschi/Wait For Me/04. 'Til I Found You.flac
-#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20At%20Red%20Rocks%201995/2-02.%20Tomorrow%20Never%20Comes.mp3
-#EXTINF:303,Tomorrow Never Comes
-/music/b/Big Head Todd & The Monsters/Live At Red Rocks 1995/2-02. Tomorrow Never Comes.mp3
 #EXTURL:file:///music/j/Joe%20Jackson/Look%20Sharp!/03.%20Is%20She%20Really%20Going%20Out%20With%20Him%3F.m4a
 #EXTINF:215,Is She Really Going Out With Him?
 /music/j/Joe Jackson/Look Sharp!/03. Is She Really Going Out With Him?.m4a
@@ -3893,3 +3884,15 @@
 #EXTURL:file:///music/c/Crash%20Test%20Dummies/Singles/01.%20The%20Ballad%20of%20Peter%20Pumpkinhead%20(feat.%20Ellen%20Reid).m4a
 #EXTINF:224,The Ballad of Peter Pumpkinhead (feat. Ellen Reid)
 /music/c/Crash Test Dummies/Singles/01. The Ballad of Peter Pumpkinhead (feat. Ellen Reid).m4a
+#EXTURL:file:///music/Compilation/The%20Complete%20Verve%20Remixed%20(Deluxe%20Edition)/3-08.%20Peter%20Gunn%20(Max%20Sedgley%20Remix).m4a
+#EXTINF:308,Peter Gunn (Max Sedgley Remix)
+/music/Compilation/The Complete Verve Remixed (Deluxe Edition)/3-08. Peter Gunn (Max Sedgley Remix).m4a
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20at%20The%20Fillmore/01.%20Dirty%20Juice.mp3
+#EXTINF:306,Dirty Juice
+/music/b/Big Head Todd & The Monsters/Live at The Fillmore/01. Dirty Juice.mp3
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20at%20The%20Fillmore/17.%20Forever%20Man.mp3
+#EXTINF:279,Forever Man
+/music/b/Big Head Todd & The Monsters/Live at The Fillmore/17. Forever Man.mp3
+#EXTURL:file:///music/b/Big%20Head%20Todd%20&%20The%20Monsters/Live%20at%20Red%20Rocks%201995/2-02.%20Tomorrow%20Never%20Comes.mp3
+#EXTINF:303,Tomorrow Never Comes
+/music/b/Big Head Todd & The Monsters/Live at Red Rocks 1995/2-02. Tomorrow Never Comes.mp3
